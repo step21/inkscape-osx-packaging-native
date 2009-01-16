@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libnrtype
+END
+nr-type-pos-def.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/nr-type-pos-def.h
+END
+FontFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/FontFactory.h
+END
+font-lister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-lister.cpp
+END
+boundary-type.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/boundary-type.h
+END
+one-glyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/one-glyph.h
+END
+Layout-TNG.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/Layout-TNG.h
+END
+font-style.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-style.h
+END
+one-box.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/one-box.h
+END
+Layout-TNG-Scanline-Makers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/Layout-TNG-Scanline-Makers.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/Makefile_insert
+END
+font-style-to-pos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-style-to-pos.cpp
+END
+raster-glyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/raster-glyph.h
+END
+nr-type-primitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/nr-type-primitives.cpp
+END
+nr-type-pos-def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/nr-type-pos-def.cpp
+END
+TextWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/TextWrapper.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libnrtype/CMakeLists.txt
+END
+Layout-TNG-OutIter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/libnrtype/Layout-TNG-OutIter.cpp
+END
+RasterFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/RasterFont.h
+END
+FontFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/libnrtype/FontFactory.cpp
+END
+Layout-TNG-Scanline-Maker.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/Layout-TNG-Scanline-Maker.h
+END
+Layout-TNG-Input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/Layout-TNG-Input.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/makefile.in
+END
+Layout-TNG-Output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/libnrtype/Layout-TNG-Output.cpp
+END
+Layout-TNG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/Layout-TNG.cpp
+END
+one-para.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/one-para.h
+END
+raster-position.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/raster-position.h
+END
+text-boundary.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/text-boundary.h
+END
+font-lister.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-lister.h
+END
+font-instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/font-instance.h
+END
+Layout-TNG-Compute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/Layout-TNG-Compute.cpp
+END
+libnrtype.def
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/libnrtype.def
+END
+TextWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/TextWrapper.cpp
+END
+RasterFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/RasterFont.cpp
+END
+nrtype-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/nrtype-forward.h
+END
+font-style-to-pos.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-style-to-pos.h
+END
+FontInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnrtype/FontInstance.cpp
+END
+nr-type-primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/nr-type-primitives.h
+END
+font-glyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnrtype/font-glyph.h
+END

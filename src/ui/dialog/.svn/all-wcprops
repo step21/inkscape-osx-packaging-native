@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/ui/dialog
+END
+input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/input.cpp
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/print.h
+END
+filedialogimpl-gtkmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/ui/dialog/filedialogimpl-gtkmm.h
+END
+filter-effects-dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/ui/dialog/filter-effects-dialog.h
+END
+behavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/behavior.h
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/dialog.h
+END
+extension-editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/extension-editor.h
+END
+align-and-distribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/ui/dialog/align-and-distribute.cpp
+END
+transformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/transformation.cpp
+END
+messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/messages.cpp
+END
+memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/memory.cpp
+END
+dialog-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/dialog-manager.h
+END
+whiteboard-connect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-connect.cpp
+END
+dock-behavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/dock-behavior.h
+END
+svg-fonts-dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20497/inkscape/trunk/src/ui/dialog/svg-fonts-dialog.cpp
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/debug.h
+END
+inkscape-preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20507/inkscape/trunk/src/ui/dialog/inkscape-preferences.cpp
+END
+dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/dialog.cpp
+END
+filter-effects-dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/ui/dialog/filter-effects-dialog.cpp
+END
+fill-and-stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/fill-and-stroke.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/dialog/makefile.in
+END
+document-metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/document-metadata.h
+END
+filedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/filedialog.h
+END
+dialog-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/dialog-manager.cpp
+END
+transformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/transformation.h
+END
+align-and-distribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/align-and-distribute.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/memory.h
+END
+dock-behavior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/dock-behavior.cpp
+END
+session-player.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/session-player.h
+END
+livepatheffect-editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/livepatheffect-editor.h
+END
+whiteboard-sharewithchat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-sharewithchat.cpp
+END
+filedialogimpl-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/filedialogimpl-win32.h
+END
+ocaldialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/ocaldialogs.h
+END
+whiteboard-sharewithuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-sharewithuser.h
+END
+fill-and-stroke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/fill-and-stroke.cpp
+END
+filedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/filedialog.cpp
+END
+floating-behavior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/floating-behavior.cpp
+END
+inkscape-preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20503/inkscape/trunk/src/ui/dialog/inkscape-preferences.h
+END
+panel-dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/panel-dialog.h
+END
+tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/tile.h
+END
+undo-history.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20427/inkscape/trunk/src/ui/dialog/undo-history.cpp
+END
+document-properties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/ui/dialog/document-properties.cpp
+END
+livepatheffect-editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/livepatheffect-editor.cpp
+END
+session-player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/session-player.cpp
+END
+tracedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/tracedialog.cpp
+END
+find.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/find.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/ui/dialog/Makefile_insert
+END
+filedialogimpl-win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20378/inkscape/trunk/src/ui/dialog/filedialogimpl-win32.cpp
+END
+ocaldialogs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/ocaldialogs.cpp
+END
+whiteboard-sharewithuser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-sharewithuser.cpp
+END
+scriptdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/scriptdialog.cpp
+END
+aboutbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/aboutbox.h
+END
+whiteboard-sharewithchat.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-sharewithchat.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20457/inkscape/trunk/src/ui/dialog/CMakeLists.txt
+END
+print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/ui/dialog/print.cpp
+END
+tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20463/inkscape/trunk/src/ui/dialog/tile.cpp
+END
+filedialogimpl-gtkmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/ui/dialog/filedialogimpl-gtkmm.cpp
+END
+extension-editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/extension-editor.cpp
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/input.h
+END
+floating-behavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/floating-behavior.h
+END
+undo-history.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/undo-history.h
+END
+messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/messages.h
+END
+document-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/ui/dialog/document-properties.h
+END
+tracedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/tracedialog.h
+END
+aboutbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/ui/dialog/aboutbox.cpp
+END
+whiteboard-connect.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/whiteboard-connect.h
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/find.h
+END
+debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/ui/dialog/debug.cpp
+END
+svg-fonts-dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20412/inkscape/trunk/src/ui/dialog/svg-fonts-dialog.h
+END
+scriptdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/scriptdialog.h
+END
+document-metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/dialog/document-metadata.cpp
+END

@@ -1,0 +1,2 @@
+extension/internal/win32.o extension/internal/win32.o:  \
+ extension/internal/win32.cpp

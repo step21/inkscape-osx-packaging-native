@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/display
+END
+nr-arena-item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/display/nr-arena-item.cpp
+END
+nr-filter-convolve-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-convolve-matrix.h
+END
+nr-filter-composite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20461/inkscape/trunk/src/display/nr-filter-composite.cpp
+END
+nr-filter-specularlighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-specularlighting.cpp
+END
+nr-filter-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-utils.h
+END
+nr-plain-stuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-plain-stuff.cpp
+END
+nr-filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter.h
+END
+nr-filter-flood.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-flood.h
+END
+nr-filter-colormatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-colormatrix.h
+END
+nr-arena.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-arena.h
+END
+nr-plain-stuff-gdk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-plain-stuff-gdk.cpp
+END
+nr-3dutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-3dutils.h
+END
+nr-arena-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-arena-forward.h
+END
+snap-indicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20261/inkscape/trunk/src/display/snap-indicator.cpp
+END
+sp-canvas-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sp-canvas-util.h
+END
+display-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/display-forward.h
+END
+sodipodi-ctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/display/sodipodi-ctrl.cpp
+END
+nr-filter-primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-primitive.h
+END
+nr-filter-skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-skeleton.cpp
+END
+nr-light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-light.cpp
+END
+nr-filter-getalpha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-getalpha.cpp
+END
+nr-filter-slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-slot.h
+END
+sp-ctrlquadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sp-ctrlquadr.h
+END
+nr-filter-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-image.h
+END
+canvas-temporary-item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/canvas-temporary-item.cpp
+END
+pixblock-scaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/pixblock-scaler.h
+END
+nr-filter-displacement-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-displacement-map.h
+END
+inkscape-cairo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20437/inkscape/trunk/src/display/inkscape-cairo.cpp
+END
+nr-filter-blend.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-blend.h
+END
+sodipodi-ctrlrect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sodipodi-ctrlrect.cpp
+END
+nr-filter-offset.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-offset.h
+END
+nr-filter-convolve-matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-convolve-matrix.cpp
+END
+canvas-temporary-item-list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/canvas-temporary-item-list.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/makefile.in
+END
+sp-ctrlline.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sp-ctrlline.h
+END
+nr-arena-group.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-arena-group.h
+END
+nr-filter-units.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-units.cpp
+END
+nr-filter-flood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-flood.cpp
+END
+nr-filter-colormatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-colormatrix.cpp
+END
+nr-arena.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-arena.cpp
+END
+canvas-arena.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/display/canvas-arena.h
+END
+nr-filter-merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-merge.h
+END
+nr-filter-morphology.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-morphology.h
+END
+nr-arena-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/display/nr-arena-shape.h
+END
+nr-filter-composite.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-composite.h
+END
+nr-filter-specularlighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-specularlighting.h
+END
+guideline.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/guideline.h
+END
+canvas-bpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/canvas-bpath.h
+END
+nr-plain-stuff-gdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-plain-stuff-gdk.h
+END
+nr-filter-diffuselighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-diffuselighting.h
+END
+canvas-axonomgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/display/canvas-axonomgrid.cpp
+END
+nr-filter-slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-slot.cpp
+END
+sodipodi-ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sodipodi-ctrl.h
+END
+sp-ctrlquadr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/display/sp-ctrlquadr.cpp
+END
+nr-filter-displacement-map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-displacement-map.cpp
+END
+nr-filter-component-transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-component-transfer.cpp
+END
+curve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/curve.cpp
+END
+nr-filter-skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-skeleton.h
+END
+nr-light.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-light.h
+END
+nr-arena-group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-arena-group.cpp
+END
+inkscape-cairo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/display/inkscape-cairo.h
+END
+canvas-grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/display/canvas-grid.cpp
+END
+canvas-arena.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/display/canvas-arena.cpp
+END
+nr-filter-merge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-merge.cpp
+END
+nr-filter-morphology.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-morphology.cpp
+END
+sodipodi-ctrlrect.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sodipodi-ctrlrect.h
+END
+nr-arena-shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-arena-shape.cpp
+END
+canvas-text.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/display/canvas-text.h
+END
+nr-filter-tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-tile.h
+END
+canvas-temporary-item-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/canvas-temporary-item-list.h
+END
+guideline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/guideline.cpp
+END
+curve-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/curve-test.h
+END
+canvas-bpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20420/inkscape/trunk/src/display/canvas-bpath.cpp
+END
+nr-filter-units.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-units.h
+END
+nr-filter-turbulence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-turbulence.cpp
+END
+nr-filter-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-types.h
+END
+nr-filter-gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-gaussian.cpp
+END
+nr-filter-diffuselighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-diffuselighting.cpp
+END
+nr-arena-glyphs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/display/nr-arena-glyphs.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/display/Makefile_insert
+END
+gnome-canvas-acetate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/gnome-canvas-acetate.cpp
+END
+pixblock-transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/pixblock-transform.cpp
+END
+canvas-axonomgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/display/canvas-axonomgrid.h
+END
+nr-svgfonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20463/inkscape/trunk/src/display/nr-svgfonts.cpp
+END
+nr-arena-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/display/nr-arena-image.h
+END
+nr-filter-component-transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-component-transfer.h
+END
+curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/curve.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/display/CMakeLists.txt
+END
+canvas-text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/display/canvas-text.cpp
+END
+nr-filter-tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-tile.cpp
+END
+nr-filter-utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-utils.cpp
+END
+sp-canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20430/inkscape/trunk/src/display/sp-canvas.h
+END
+nr-filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter.cpp
+END
+canvas-grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/display/canvas-grid.h
+END
+nr-arena-item.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-arena-item.h
+END
+nr-3dutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-3dutils.cpp
+END
+sp-canvas-util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20430/inkscape/trunk/src/display/sp-canvas-util.cpp
+END
+nr-arena-glyphs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/display/nr-arena-glyphs.cpp
+END
+nr-filter-primitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-primitive.cpp
+END
+nr-plain-stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/nr-plain-stuff.h
+END
+nr-filter-turbulence.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-turbulence.h
+END
+nr-filter-gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-gaussian.h
+END
+testnr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/testnr.cpp
+END
+snap-indicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20261/inkscape/trunk/src/display/snap-indicator.h
+END
+nr-filter-image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20455/inkscape/trunk/src/display/nr-filter-image.cpp
+END
+pixblock-scaler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/pixblock-scaler.cpp
+END
+nr-arena-image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-arena-image.cpp
+END
+nr-filter-blend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20455/inkscape/trunk/src/display/nr-filter-blend.cpp
+END
+nr-filter-offset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-offset.cpp
+END
+gnome-canvas-acetate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/gnome-canvas-acetate.h
+END
+nr-filter-pixops.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-pixops.h
+END
+pixblock-transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20429/inkscape/trunk/src/display/pixblock-transform.h
+END
+rendermode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/rendermode.h
+END
+nr-filter-getalpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-filter-getalpha.h
+END
+nr-light-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/display/nr-light-types.h
+END
+nr-svgfonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/display/nr-svgfonts.h
+END
+sp-canvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/display/sp-canvas.cpp
+END
+canvas-temporary-item.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/canvas-temporary-item.h
+END
+sp-ctrlline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/display/sp-ctrlline.cpp
+END

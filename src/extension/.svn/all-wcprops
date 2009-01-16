@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension
+END
+execution-env.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/execution-env.h
+END
+input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/input.cpp
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/print.h
+END
+effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/effect.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/extension/output.h
+END
+error-file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/extension/error-file.cpp
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/init.h
+END
+patheffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/patheffect.cpp
+END
+dependency.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dependency.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/Makefile_insert
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/timer.cpp
+END
+prefdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/prefdialog.h
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/extension.h
+END
+extension-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/extension-forward.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/system.h
+END
+execution-env.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/execution-env.cpp
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/db.h
+END
+print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/print.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/extension/CMakeLists.txt
+END
+effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20349/inkscape/trunk/src/extension/effect.cpp
+END
+output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/output.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/makefile.in
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/extension/init.cpp
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/input.h
+END
+error-file.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/error-file.h
+END
+prefdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/prefdialog.cpp
+END
+extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/extension.cpp
+END
+patheffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/patheffect.h
+END
+dependency.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dependency.h
+END
+system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/extension/system.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/timer.h
+END
+db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/db.cpp
+END

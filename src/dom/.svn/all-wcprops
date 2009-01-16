@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/dom
+END
+uri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/uri.cpp
+END
+xpathparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathparser.cpp
+END
+views.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/views.h
+END
+xmlwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xmlwriter.h
+END
+lsimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/lsimpl.h
+END
+prop-css.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/prop-css.cpp
+END
+domimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domimpl.h
+END
+domstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domstring.cpp
+END
+traversal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/traversal.h
+END
+smil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/smil.h
+END
+domptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domptr.h
+END
+cssreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/cssreader.cpp
+END
+ucd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/ucd.cpp
+END
+xpathimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathimpl.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20349/inkscape/trunk/src/dom/Makefile_insert
+END
+stylesheets.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/stylesheets.h
+END
+svgimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svgimpl.cpp
+END
+xmlreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xmlreader.cpp
+END
+xpathtoken.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathtoken.cpp
+END
+svg2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svg2.h
+END
+svgreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svgreader.h
+END
+prop-css2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/prop-css2.cpp
+END
+svgtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svgtypes.h
+END
+smilimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/smilimpl.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/dom/CMakeLists.txt
+END
+xmlwriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xmlwriter.cpp
+END
+lsimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/lsimpl.cpp
+END
+domimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domimpl.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/makefile.in
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/uri.h
+END
+svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svg.h
+END
+domptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domptr.cpp
+END
+xpathimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathimpl.cpp
+END
+xpathparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathparser.h
+END
+events.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/events.h
+END
+domstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/domstring.h
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/Makefile.mingw
+END
+prop-svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/prop-svg.cpp
+END
+mingwenv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/mingwenv.bat
+END
+cssreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/cssreader.h
+END
+ucd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/ucd.h
+END
+svgreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svgreader.cpp
+END
+ls.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/ls.h
+END
+dom.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/dom.h
+END
+svgimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/svgimpl.h
+END
+smilimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/smilimpl.cpp
+END
+xmlreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xmlreader.h
+END
+xpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpath.h
+END
+views-level3.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/views-level3.h
+END
+xpathtoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/xpathtoken.h
+END
+css.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/css.h
+END

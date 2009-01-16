@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/io
+END
+base64stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/base64stream.cpp
+END
+doc2html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/doc2html.xsl
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/makefile.in
+END
+Makefile.tst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/Makefile.tst
+END
+base64stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/base64stream.h
+END
+xsltstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/xsltstream.cpp
+END
+inkscapestream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/inkscapestream.cpp
+END
+xsltstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/xsltstream.h
+END
+uristream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/uristream.cpp
+END
+ftos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/ftos.cpp
+END
+sys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/io/sys.cpp
+END
+inkscapestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/inkscapestream.h
+END
+uristream.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/uristream.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/Makefile_insert
+END
+ftos.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/ftos.h
+END
+crystalegg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/crystalegg.xml
+END
+simple-sax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/simple-sax.cpp
+END
+stringstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/stringstream.cpp
+END
+sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/sys.h
+END
+gzipstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/gzipstream.cpp
+END
+resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/resource.cpp
+END
+simple-sax.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/simple-sax.h
+END
+stringstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/stringstream.h
+END
+gzipstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/gzipstream.h
+END
+streamtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/streamtest.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/io/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/io/CMakeLists.txt
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util
+END
+digest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/digest.cpp
+END
+ziptool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/ziptool.cpp
+END
+digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/digest.h
+END
+ziptool.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/ziptool.h
+END
+thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/thread.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/CMakeLists.txt
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dom/util/thread.h
+END

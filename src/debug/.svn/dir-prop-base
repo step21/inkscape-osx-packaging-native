@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 40
+.deps
+.dirstamp
+makefile
+libinkdebug.a
+
+
+END

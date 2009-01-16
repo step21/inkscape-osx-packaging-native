@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/graphlayout
+END
+graphlayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/graphlayout/graphlayout.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/graphlayout/Makefile_insert
+END
+graphlayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/graphlayout/graphlayout.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/graphlayout/CMakeLists.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/graphlayout/makefile
+END

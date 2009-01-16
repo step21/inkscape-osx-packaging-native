@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/filters
+END
+displacementmap-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/displacementmap-fns.h
+END
+merge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/merge.cpp
+END
+morphology.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/morphology.cpp
+END
+turbulence-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/turbulence-fns.h
+END
+composite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/composite.cpp
+END
+tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/tile.h
+END
+distantlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/distantlight.h
+END
+diffuselighting-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/diffuselighting-fns.h
+END
+specularlighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/specularlighting.cpp
+END
+displacementmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/displacementmap.cpp
+END
+flood.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/flood.h
+END
+colormatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/colormatrix.h
+END
+turbulence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/turbulence.cpp
+END
+mergenode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/mergenode.h
+END
+diffuselighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/diffuselighting.cpp
+END
+componenttransfer-funcnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/componenttransfer-funcnode.h
+END
+componenttransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/componenttransfer.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/Makefile_insert
+END
+spotlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/spotlight.h
+END
+convolvematrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/convolvematrix.h
+END
+pointlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/pointlight.h
+END
+tile-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/tile-fns.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/image.h
+END
+blend.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/blend.h
+END
+offset.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/offset.h
+END
+flood-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/flood-fns.h
+END
+colormatrix-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/colormatrix-fns.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/filters/CMakeLists.txt
+END
+tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/tile.cpp
+END
+distantlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/distantlight.cpp
+END
+componenttransfer-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/componenttransfer-fns.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/makefile.in
+END
+flood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/flood.cpp
+END
+colormatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/colormatrix.cpp
+END
+merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/merge.h
+END
+morphology.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/morphology.h
+END
+mergenode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/mergenode.cpp
+END
+componenttransfer-funcnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/componenttransfer-funcnode.cpp
+END
+componenttransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/componenttransfer.cpp
+END
+composite.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/composite.h
+END
+convolvematrix-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/convolvematrix-fns.h
+END
+specularlighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/specularlighting.h
+END
+image-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/image-fns.h
+END
+displacementmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/displacementmap.h
+END
+blend-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/blend-fns.h
+END
+spotlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/spotlight.cpp
+END
+turbulence.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/turbulence.h
+END
+offset-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/offset-fns.h
+END
+diffuselighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/diffuselighting.h
+END
+convolvematrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/convolvematrix.cpp
+END
+pointlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/pointlight.cpp
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/image.cpp
+END
+blend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/blend.cpp
+END
+offset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filters/offset.cpp
+END
+merge-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/merge-fns.h
+END
+morphology-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/morphology-fns.h
+END
+composite-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/composite-fns.h
+END
+specularlighting-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/filters/specularlighting-fns.h
+END

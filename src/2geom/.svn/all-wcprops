@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/2geom
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/path.h
+END
+poly-dk-solve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/poly-dk-solve.cpp
+END
+path-intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/path-intersection.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/utils.h
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/forward.h
+END
+!PLEASE DON'T MAKE CHANGES IN THESE FILES.README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/!PLEASE%20DON'T%20MAKE%20CHANGES%20IN%20THESE%20FILES.README
+END
+sbasis-curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/sbasis-curve.h
+END
+hvlinesegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/hvlinesegment.h
+END
+poly-laguerre-solve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/poly-laguerre-solve.cpp
+END
+sbasis-math.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/sbasis-math.h
+END
+sweep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/sweep.cpp
+END
+sbasis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/sbasis.cpp
+END
+sbasis-to-bezier.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-to-bezier.h
+END
+point-l.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/point-l.h
+END
+line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20364/inkscape/trunk/src/2geom/line.cpp
+END
+bezier-to-sbasis.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/bezier-to-sbasis.h
+END
+svg-path-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/svg-path-parser.h
+END
+angle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/angle.h
+END
+solve-bezier-parametric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/solve-bezier-parametric.cpp
+END
+sbasis-2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-2d.h
+END
+nearest-point.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/nearest-point.h
+END
+point.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/point.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/makefile.in
+END
+circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/circle.h
+END
+solve-bezier-one-d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/solve-bezier-one-d.cpp
+END
+quadtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/quadtree.cpp
+END
+sbasis-math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/sbasis-math.cpp
+END
+curves.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/curves.h
+END
+convex-cover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/convex-cover.cpp
+END
+linear.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/linear.h
+END
+solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/solver.h
+END
+svg-elliptical-arc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/svg-elliptical-arc.cpp
+END
+svg-path-parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/svg-path-parser.cpp
+END
+choose.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/choose.h
+END
+sbasis-2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/sbasis-2d.cpp
+END
+sbasis-roots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/sbasis-roots.cpp
+END
+point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/point.cpp
+END
+interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/interval.h
+END
+sbasis.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/sbasis.h
+END
+basic-intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/basic-intersection.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20366/inkscape/trunk/src/2geom/geom.h
+END
+conjugate_gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/conjugate_gradient.cpp
+END
+d2-sbasis.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/d2-sbasis.h
+END
+svg-path.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/svg-path.h
+END
+transforms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/transforms.cpp
+END
+circle-circle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/circle-circle.cpp
+END
+ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20364/inkscape/trunk/src/2geom/ray.h
+END
+sbasis-geometric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20447/inkscape/trunk/src/2geom/sbasis-geometric.cpp
+END
+shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/shape.cpp
+END
+circle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/circle.cpp
+END
+ellipse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/ellipse.h
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/matrix.cpp
+END
+bezier-curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/bezier-curve.h
+END
+sbasis-poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-poly.h
+END
+coord.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/coord.h
+END
+circulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/circulator.h
+END
+bezier-utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/bezier-utils.cpp
+END
+quadtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/quadtree.h
+END
+sturm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/sturm.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/Makefile_insert
+END
+piecewise.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/piecewise.h
+END
+convex-cover.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/convex-cover.h
+END
+curve-helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/curve-helpers.cpp
+END
+pathvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/pathvector.h
+END
+basic-intersection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/basic-intersection.cpp
+END
+geom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/geom.cpp
+END
+d2-sbasis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/d2-sbasis.cpp
+END
+svg-elliptical-arc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/svg-elliptical-arc.h
+END
+poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/poly.h
+END
+region.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/region.h
+END
+ord.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/ord.h
+END
+curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/curve.h
+END
+svg-path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/svg-path.cpp
+END
+elliptical-arc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/elliptical-arc.h
+END
+path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/path.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/2geom/CMakeLists.txt
+END
+crossing.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/crossing.h
+END
+ellipse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/ellipse.cpp
+END
+path-intersection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/path-intersection.cpp
+END
+conjugate_gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/conjugate_gradient.h
+END
+rect.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/rect.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/exception.h
+END
+transforms.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20474/inkscape/trunk/src/2geom/transforms.h
+END
+sbasis-geometric.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-geometric.h
+END
+sbasis-poly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-poly.cpp
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/shape.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/matrix.h
+END
+d2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20363/inkscape/trunk/src/2geom/d2.h
+END
+poly-dk-solve.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/poly-dk-solve.h
+END
+piecewise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/piecewise.cpp
+END
+isnan.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/isnan.h
+END
+pathvector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/pathvector.cpp
+END
+poly-laguerre-solve.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/poly-laguerre-solve.h
+END
+sbasis-to-bezier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sbasis-to-bezier.cpp
+END
+bezier-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/bezier-utils.h
+END
+concepts.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/concepts.h
+END
+poly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20479/inkscape/trunk/src/2geom/poly.cpp
+END
+region.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/region.cpp
+END
+elliptical-arc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/elliptical-arc.cpp
+END
+bezier.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/bezier.h
+END
+crossing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/crossing.cpp
+END
+nearest-point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/2geom/nearest-point.cpp
+END
+sweep.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20242/inkscape/trunk/src/2geom/sweep.h
+END
+line.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20364/inkscape/trunk/src/2geom/line.h
+END
+point-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/2geom/point-ops.h
+END

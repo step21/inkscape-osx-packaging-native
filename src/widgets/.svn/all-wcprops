@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20514/inkscape/trunk/src/widgets
+END
+ruler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/ruler.h
+END
+layer-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/layer-selector.h
+END
+sp-xmlview-attr-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-xmlview-attr-list.h
+END
+dash-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/widgets/dash-selector.h
+END
+sp-widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-widget.cpp
+END
+sp-color-wheel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-wheel.h
+END
+sp-color-icc-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/widgets/sp-color-icc-selector.cpp
+END
+sp-xmlview-tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-xmlview-tree.cpp
+END
+gradient-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20309/inkscape/trunk/src/widgets/gradient-selector.cpp
+END
+shrink-wrap-button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/shrink-wrap-button.cpp
+END
+button.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/button.h
+END
+gradient-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/gradient-image.h
+END
+sp-color-wheel-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-wheel-selector.h
+END
+calligraphic-profile-rename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/widgets/calligraphic-profile-rename.cpp
+END
+sp-xmlview-content.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-xmlview-content.h
+END
+icon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/widgets/icon.cpp
+END
+ruler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/ruler.cpp
+END
+dash-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/widgets/dash-selector.cpp
+END
+desktop-widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/widgets/desktop-widget.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/makefile.in
+END
+button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/button.cpp
+END
+sp-color-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-selector.cpp
+END
+sp-color-notebook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/widgets/sp-color-notebook.cpp
+END
+sp-xmlview-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-xmlview-tree.h
+END
+sp-color-icc-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-icc-selector.h
+END
+gradient-image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/gradient-image.cpp
+END
+sp-color-preview.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20306/inkscape/trunk/src/widgets/sp-color-preview.h
+END
+sp-color-gtkselector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-gtkselector.cpp
+END
+sp-xmlview-content.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-xmlview-content.cpp
+END
+shrink-wrap-button.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/shrink-wrap-button.h
+END
+font-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/widgets/font-selector.cpp
+END
+toolbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20514/inkscape/trunk/src/widgets/toolbox.cpp
+END
+icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/icon.h
+END
+paint-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/paint-selector.h
+END
+gradient-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20309/inkscape/trunk/src/widgets/gradient-vector.h
+END
+gradient-toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/gradient-toolbar.h
+END
+sp-color-scales.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-scales.cpp
+END
+spinbutton-events.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/spinbutton-events.h
+END
+sp-color-preview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20306/inkscape/trunk/src/widgets/sp-color-preview.cpp
+END
+sp-color-slider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-slider.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/widgets/Makefile_insert
+END
+sp-color-notebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-notebook.h
+END
+sp-color-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-selector.h
+END
+spw-utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/spw-utilities.cpp
+END
+widget-sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/widget-sizes.h
+END
+select-toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/select-toolbar.h
+END
+sp-color-gtkselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-gtkselector.h
+END
+paint-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/paint-selector.cpp
+END
+font-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/font-selector.h
+END
+layer-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/layer-selector.cpp
+END
+toolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/widgets/toolbox.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/widgets/CMakeLists.txt
+END
+sp-xmlview-attr-list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/widgets/sp-xmlview-attr-list.cpp
+END
+gradient-vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20309/inkscape/trunk/src/widgets/gradient-vector.cpp
+END
+gradient-toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20309/inkscape/trunk/src/widgets/gradient-toolbar.cpp
+END
+sp-color-wheel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-wheel.cpp
+END
+spinbutton-events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/spinbutton-events.cpp
+END
+sp-widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-widget.h
+END
+sp-color-scales.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-scales.h
+END
+sp-color-wheel-selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-wheel-selector.cpp
+END
+select-toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/widgets/select-toolbar.cpp
+END
+gradient-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20309/inkscape/trunk/src/widgets/gradient-selector.h
+END
+sp-color-slider.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/sp-color-slider.h
+END
+spw-utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/widgets/spw-utilities.h
+END
+desktop-widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/widgets/desktop-widget.cpp
+END
+calligraphic-profile-rename.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/widgets/calligraphic-profile-rename.h
+END

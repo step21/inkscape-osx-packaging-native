@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg
+END
+entities2elements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/entities2elements.cpp
+END
+entities2elements.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/entities2elements.h
+END
+aci2rgb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/aci2rgb.cpp
+END
+tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/tables.cpp
+END
+read_dxf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/read_dxf.cpp
+END
+dxf_input.inx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/dxf_input.inx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/README
+END
+blocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/blocks.cpp
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/GPL.txt
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/tables.h
+END
+test_dxf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/test_dxf.cpp
+END
+read_dxf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/read_dxf.h
+END
+blocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/blocks.h
+END
+dxf2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/dxf2svg.cpp
+END
+entities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/entities.cpp
+END
+dxf_input_windows.inx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/dxf_input_windows.inx
+END
+tables2svg_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/tables2svg_info.cpp
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/entities.h
+END
+LGPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/LGPL.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/CMakeLists.txt
+END
+tables2svg_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/dxf2svg/tables2svg_info.h
+END

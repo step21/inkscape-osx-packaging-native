@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/application
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/application/Makefile_insert
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/application/makefile.in
+END
+app-prototype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20302/inkscape/trunk/src/application/app-prototype.cpp
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/application/application.cpp
+END
+editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20329/inkscape/trunk/src/application/editor.cpp
+END
+app-prototype.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20301/inkscape/trunk/src/application/app-prototype.h
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/application/application.h
+END
+editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/application/editor.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/application/CMakeLists.txt
+END

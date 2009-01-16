@@ -1,0 +1,52 @@
+8
+
+dir
+20527
+https://inkscape.svn.sourceforge.net/svnroot/inkscape/inkscape/trunk/src/bind/java/org/w3c/dom/views
+https://inkscape.svn.sourceforge.net/svnroot/inkscape
+
+
+
+2008-03-20T19:18:57.439749Z
+17952
+ishmal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79ec4920-5e0a-0410-a93a-b0c7084bcf59
+
+DocumentView.java
+file
+
+
+
+
+2008-12-28T14:27:39.000000Z
+624699aa255ea806a36a92fabe55dbda
+2008-03-20T19:18:57.439749Z
+17952
+ishmal
+
+AbstractView.java
+file
+
+
+
+
+2008-12-28T14:27:39.000000Z
+df54fc3a305dd812f202629dfc01e97b
+2008-03-20T19:18:57.439749Z
+17952
+ishmal
+

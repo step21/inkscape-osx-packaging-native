@@ -1,0 +1,2 @@
+ui/view/desktop-handles.o ui/view/desktop-handles.o:  \
+ ui/view/desktop-handles.cpp

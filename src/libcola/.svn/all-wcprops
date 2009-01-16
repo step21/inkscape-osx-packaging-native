@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libcola
+END
+gradient_projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/gradient_projection.h
+END
+straightener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/straightener.cpp
+END
+conjugate_gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/conjugate_gradient.h
+END
+straightener.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/straightener.h
+END
+connected_components.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/connected_components.cpp
+END
+shortest_paths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/shortest_paths.cpp
+END
+cola.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/cola.cpp
+END
+shortest_paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/shortest_paths.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/Makefile_insert
+END
+cola.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/cola.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/defs.h
+END
+cycle_detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/cycle_detector.cpp
+END
+gradient_projection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/gradient_projection.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libcola/CMakeLists.txt
+END
+conjugate_gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/conjugate_gradient.cpp
+END
+cycle_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcola/cycle_detector.h
+END

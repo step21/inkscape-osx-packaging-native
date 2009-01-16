@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/live_effects/parameter
+END
+point.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/point.h
+END
+bool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/bool.h
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/path.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/makefile.in
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20380/inkscape/trunk/src/live_effects/parameter/vector.cpp
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/vector.h
+END
+enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/enum.h
+END
+array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/array.cpp
+END
+unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/unit.cpp
+END
+parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/parameter.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/Makefile_insert
+END
+random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/random.cpp
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/array.h
+END
+text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/text.cpp
+END
+unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/unit.h
+END
+parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/parameter.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/random.h
+END
+path-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/path-reference.cpp
+END
+point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/parameter/point.cpp
+END
+text.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/text.h
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/bool.cpp
+END
+path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/live_effects/parameter/path.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20457/inkscape/trunk/src/live_effects/parameter/CMakeLists.txt
+END
+path-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/parameter/path-reference.h
+END

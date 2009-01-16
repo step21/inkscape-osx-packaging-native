@@ -1,0 +1,57 @@
+version.o version.o: version.cpp /usr/include/stdio.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /opt/local/include/glib-2.0/glib/gstrfuncs.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h \
+  /opt/local/include/glib-2.0/glib/gtypes.h \
+  /opt/local/lib/glib-2.0/include/glibconfig.h \
+  /opt/local/include/glib-2.0/glib/gmacros.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  /usr/include/sys/syslimits.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h version.h
+
+/usr/include/stdio.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/opt/local/include/glib-2.0/glib/gstrfuncs.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h:
+
+/opt/local/include/glib-2.0/glib/gtypes.h:
+
+/opt/local/lib/glib-2.0/include/glibconfig.h:
+
+/opt/local/include/glib-2.0/glib/gmacros.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h:
+
+version.h:

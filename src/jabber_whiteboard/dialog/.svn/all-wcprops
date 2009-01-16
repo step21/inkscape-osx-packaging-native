@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/jabber_whiteboard/dialog
+END
+choose-desktop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/jabber_whiteboard/dialog/choose-desktop.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/jabber_whiteboard/dialog/CMakeLists.txt
+END
+choose-desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/jabber_whiteboard/dialog/choose-desktop.h
+END

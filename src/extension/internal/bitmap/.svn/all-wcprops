@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20457/inkscape/trunk/src/extension/internal/bitmap
+END
+imagemagick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/imagemagick.cpp
+END
+normalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/normalize.cpp
+END
+sharpen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/sharpen.cpp
+END
+enhance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/enhance.cpp
+END
+cycleColormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/cycleColormap.h
+END
+negate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/negate.cpp
+END
+raise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/raise.cpp
+END
+despeckle.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/despeckle.h
+END
+blur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/blur.cpp
+END
+levelChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/levelChannel.h
+END
+reduceNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/reduceNoise.cpp
+END
+level.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/level.cpp
+END
+medianFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/medianFilter.h
+END
+opacity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/opacity.cpp
+END
+adaptiveThreshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/adaptiveThreshold.cpp
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/channel.h
+END
+equalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/equalize.cpp
+END
+charcoal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/charcoal.h
+END
+spread.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/spread.h
+END
+sample.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/sample.h
+END
+colorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/colorize.h
+END
+threshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/threshold.cpp
+END
+unsharpmask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/unsharpmask.cpp
+END
+solarize.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/solarize.h
+END
+emboss.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/emboss.h
+END
+despeckle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/despeckle.cpp
+END
+medianFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/medianFilter.cpp
+END
+imagemagick.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/imagemagick.h
+END
+gaussianBlur.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/gaussianBlur.h
+END
+sharpen.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/sharpen.h
+END
+normalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/normalize.h
+END
+blur.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/blur.h
+END
+modulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/modulate.cpp
+END
+opacity.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/opacity.h
+END
+adaptiveThreshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/adaptiveThreshold.h
+END
+sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/sample.cpp
+END
+shade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/shade.cpp
+END
+addNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/addNoise.cpp
+END
+gaussianBlur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/gaussianBlur.cpp
+END
+swirl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/swirl.cpp
+END
+unsharpmask.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/unsharpmask.h
+END
+threshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/threshold.h
+END
+wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/wave.cpp
+END
+contrast.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/contrast.h
+END
+edge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/edge.cpp
+END
+modulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/modulate.h
+END
+oilPaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/oilPaint.h
+END
+shade.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/shade.h
+END
+addNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/addNoise.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20457/inkscape/trunk/src/extension/internal/bitmap/CMakeLists.txt
+END
+cycleColormap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/cycleColormap.cpp
+END
+contrast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/contrast.cpp
+END
+implode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/implode.h
+END
+levelChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/levelChannel.cpp
+END
+swirl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/swirl.h
+END
+enhance.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/enhance.h
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/wave.h
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/channel.cpp
+END
+negate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/negate.h
+END
+raise.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/raise.h
+END
+edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/edge.h
+END
+reduceNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/reduceNoise.h
+END
+level.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/level.h
+END
+charcoal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/charcoal.cpp
+END
+spread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/spread.cpp
+END
+oilPaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/oilPaint.cpp
+END
+equalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/equalize.h
+END
+colorize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/colorize.cpp
+END
+solarize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/solarize.cpp
+END
+emboss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/emboss.cpp
+END
+implode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bitmap/implode.cpp
+END

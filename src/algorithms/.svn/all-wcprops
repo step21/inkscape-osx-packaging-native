@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20481/inkscape/trunk/src/algorithms
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/algorithms/Makefile_insert
+END
+find-if-before.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/algorithms/find-if-before.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/algorithms/makefile.in
+END
+find-last-if.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/algorithms/find-last-if.h
+END
+longest-common-suffix.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/algorithms/longest-common-suffix.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20481/inkscape/trunk/src/algorithms/CMakeLists.txt
+END

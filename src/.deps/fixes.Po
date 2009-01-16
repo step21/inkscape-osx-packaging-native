@@ -1,0 +1,3 @@
+fixes.o fixes.o: fixes.cpp ../config.h
+
+../config.h:

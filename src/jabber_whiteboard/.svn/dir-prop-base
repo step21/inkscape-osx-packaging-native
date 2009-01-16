@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+.deps
+.dirstamp
+makefile
+libjabber_whiteboard.a
+
+
+END

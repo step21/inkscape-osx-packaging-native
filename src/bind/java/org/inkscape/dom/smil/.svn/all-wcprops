@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil
+END
+SMILAnimateElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILAnimateElementImpl.java
+END
+SMILElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILElementImpl.java
+END
+SMILMediaElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILMediaElementImpl.java
+END
+SMILRootLayoutElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILRootLayoutElementImpl.java
+END
+SMILRegionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILRegionElementImpl.java
+END
+ElementLayoutImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementLayoutImpl.java
+END
+ElementParallelTimeContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementParallelTimeContainerImpl.java
+END
+ElementTimeManipulationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTimeManipulationImpl.java
+END
+ElementTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTestImpl.java
+END
+SMILRegionInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILRegionInterfaceImpl.java
+END
+SMILSetElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILSetElementImpl.java
+END
+TimeListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/TimeListImpl.java
+END
+TimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/TimeImpl.java
+END
+SMILTopLayoutElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILTopLayoutElementImpl.java
+END
+SMILSwitchElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILSwitchElementImpl.java
+END
+TimeEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/TimeEventImpl.java
+END
+SMILDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILDocumentImpl.java
+END
+SMILAnimateMotionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILAnimateMotionElementImpl.java
+END
+ElementExclusiveTimeContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementExclusiveTimeContainerImpl.java
+END
+SMILAnimationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILAnimationImpl.java
+END
+ElementSyncBehaviorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementSyncBehaviorImpl.java
+END
+ElementSequentialTimeContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementSequentialTimeContainerImpl.java
+END
+ElementTargetAttributesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTargetAttributesImpl.java
+END
+ElementTimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTimeImpl.java
+END
+ElementTimeControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTimeControlImpl.java
+END
+ElementTimeContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/ElementTimeContainerImpl.java
+END
+SMILRefElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILRefElementImpl.java
+END
+SMILAnimateColorElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILAnimateColorElementImpl.java
+END
+SMILLayoutElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/smil/SMILLayoutElementImpl.java
+END

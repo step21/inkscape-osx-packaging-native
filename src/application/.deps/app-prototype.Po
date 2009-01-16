@@ -1,0 +1,4 @@
+application/app-prototype.o application/app-prototype.o:  \
+ application/app-prototype.cpp application/app-prototype.h
+
+application/app-prototype.h:

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libgdl
+END
+libgdlmarshal.list
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdlmarshal.list
+END
+gdl-switcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-switcher.h
+END
+libgdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdl.h
+END
+libgdlmarshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdlmarshal.c
+END
+gdl-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/libgdl/gdl-win32.c
+END
+libgdltypebuiltins.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdltypebuiltins.c
+END
+libgdlmarshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdlmarshal.h
+END
+gdl-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/libgdl/gdl-win32.h
+END
+gdl-dock-master.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-master.c
+END
+libgdltypebuiltins.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/libgdltypebuiltins.h
+END
+gdl-dock-item-grip.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-item-grip.c
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/libgdl/Makefile_insert
+END
+gdl-dock-item.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-item.c
+END
+gdl-dock-master.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-master.h
+END
+gdl-dock-item-grip.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-item-grip.h
+END
+gdl-dock.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock.c
+END
+gdl-dock-item.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-item.h
+END
+gdl-stock.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-stock.c
+END
+gdl-dock-object.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-object.c
+END
+gdl-dock-tablabel.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-tablabel.c
+END
+gdl-dock.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libgdl/CMakeLists.txt
+END
+gdl-stock.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-stock.h
+END
+gdl-dock-object.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-object.h
+END
+gdl-dock-tablabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-tablabel.h
+END
+README.gdl-dock
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/README.gdl-dock
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/makefile.in
+END
+gdl-dock-notebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-notebook.c
+END
+gdl-dock-placeholder.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-placeholder.c
+END
+gdl-stock-icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-stock-icons.h
+END
+gdl-dock-notebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-notebook.h
+END
+gdl-tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-tools.h
+END
+gdl-dock-placeholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-placeholder.h
+END
+gdl-dock-paned.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-paned.c
+END
+gdl-dock-paned.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-paned.h
+END
+gdl-i18n.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-i18n.c
+END
+gdl-dock-bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-bar.c
+END
+gdl-i18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-i18n.h
+END
+gdl-dock-bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-dock-bar.h
+END
+gdl-switcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libgdl/gdl-switcher.c
+END

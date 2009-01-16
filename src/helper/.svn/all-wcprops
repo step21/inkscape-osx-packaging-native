@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/helper
+END
+geom-curves.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/geom-curves.h
+END
+stock-items.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/stock-items.cpp
+END
+window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/window.cpp
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/units.h
+END
+gnome-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/gnome-utils.h
+END
+unit-tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/unit-tracker.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/helper/Makefile_insert
+END
+png-write.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/helper/png-write.h
+END
+geom-nodetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/geom-nodetype.h
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/action.h
+END
+unit-menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/unit-menu.h
+END
+sp-marshal.cpp.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/sp-marshal.cpp.mingw
+END
+recthull.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/helper/recthull.h
+END
+geom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/helper/geom.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/helper/CMakeLists.txt
+END
+sp-marshal.list
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/sp-marshal.list
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/makefile.in
+END
+pixbuf-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/pixbuf-ops.h
+END
+units.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/units.cpp
+END
+gnome-utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/gnome-utils.cpp
+END
+stock-items.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/stock-items.h
+END
+unit-tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/unit-tracker.cpp
+END
+stlport.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/stlport.h
+END
+geom-nodetype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/geom-nodetype.cpp
+END
+png-write.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20297/inkscape/trunk/src/helper/png-write.cpp
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/window.h
+END
+action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/action.cpp
+END
+unit-menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/helper/unit-menu.cpp
+END
+units-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/helper/units-test.h
+END
+helper-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/helper-forward.h
+END
+sp-marshal.h.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/sp-marshal.h.mingw
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/helper/geom.h
+END
+pixbuf-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/helper/pixbuf-ops.cpp
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/internal
+END
+bluredge.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/bluredge.h
+END
+svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/svg.cpp
+END
+wpg-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/wpg-input.h
+END
+emf-win32-print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/internal/emf-win32-print.cpp
+END
+cairo-render-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-render-context.h
+END
+pdf-input-cairo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdf-input-cairo.cpp
+END
+cairo-renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-renderer.h
+END
+win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/extension/internal/win32.h
+END
+emf-win32-inout.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/extension/internal/emf-win32-inout.h
+END
+odf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/odf.h
+END
+pov-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pov-out.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20349/inkscape/trunk/src/extension/internal/Makefile_insert
+END
+cairo-renderer-pdf-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-renderer-pdf-out.h
+END
+latex-pstricks.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/latex-pstricks.h
+END
+grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/extension/internal/grid.cpp
+END
+clear-n_.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/clear-n_.h
+END
+gdkpixbuf-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/gdkpixbuf-input.h
+END
+latex-pstricks-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/latex-pstricks-out.h
+END
+cairo-ps-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-ps-out.h
+END
+javafx-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/javafx-out.h
+END
+bluredge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/extension/internal/bluredge.cpp
+END
+cairo-png-out.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-png-out.h
+END
+wpg-input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/wpg-input.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20457/inkscape/trunk/src/extension/internal/CMakeLists.txt
+END
+cairo-render-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/extension/internal/cairo-render-context.cpp
+END
+svgz.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/svgz.h
+END
+gimpgrad.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/gimpgrad.h
+END
+cairo-renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20438/inkscape/trunk/src/extension/internal/cairo-renderer.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/makefile.in
+END
+win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/extension/internal/win32.cpp
+END
+emf-win32-inout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/extension/internal/emf-win32-inout.cpp
+END
+svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/svg.h
+END
+emf-win32-print.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/extension/internal/emf-win32-print.h
+END
+pdf-input-cairo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdf-input-cairo.h
+END
+odf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/extension/internal/odf.cpp
+END
+pov-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/internal/pov-out.cpp
+END
+latex-pstricks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/extension/internal/latex-pstricks.cpp
+END
+cairo-renderer-pdf-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20287/inkscape/trunk/src/extension/internal/cairo-renderer-pdf-out.cpp
+END
+gdkpixbuf-input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/extension/internal/gdkpixbuf-input.cpp
+END
+latex-pstricks-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/latex-pstricks-out.cpp
+END
+cairo-ps-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20287/inkscape/trunk/src/extension/internal/cairo-ps-out.cpp
+END
+javafx-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/internal/javafx-out.cpp
+END
+cairo-png-out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/cairo-png-out.cpp
+END
+svgz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/svgz.cpp
+END
+grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/grid.h
+END
+gimpgrad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/gimpgrad.cpp
+END

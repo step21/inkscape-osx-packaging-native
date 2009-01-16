@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libnr
+END
+nr-types-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-types-test.h
+END
+nr-point-l.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point-l.h
+END
+nr-rotate-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-fns.h
+END
+nr-scale-matrix-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale-matrix-ops.cpp
+END
+nr-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-macros.h
+END
+nr-pixblock-pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-pattern.h
+END
+nr-matrix-scale-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-scale-ops.h
+END
+nr-point-matrix-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point-matrix-ops.h
+END
+nr-point-fns-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-point-fns-test.h
+END
+nr-pixblock-pixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-pixel.h
+END
+nr-translate-matrix-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-matrix-ops.h
+END
+nr-rotate-matrix-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-matrix-ops.h
+END
+nr-types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-types.cpp
+END
+nr-matrix-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-ops.h
+END
+nr-object.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-object.h
+END
+nr_config.h.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_config.h.mingw
+END
+nr-pixblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20402/inkscape/trunk/src/libnr/nr-pixblock.h
+END
+nr-rotate-fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-fns.cpp
+END
+nr-compose-transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-compose-transform.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/makefile.in
+END
+nr-pixblock-pattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-pattern.cpp
+END
+nr-compose-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20329/inkscape/trunk/src/libnr/nr-compose-test.h
+END
+nr-matrix-div.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-div.h
+END
+nr-pixblock-pixel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-pixel.cpp
+END
+nr_mmx_R8G8B8A8_P_R8G8B8A8_P_A8_RGBAP.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_mmx_R8G8B8A8_P_R8G8B8A8_P_A8_RGBAP.S
+END
+nr_mmx_R8G8B8A8_P_R8G8B8A8_P_R8G8B8A8_N_TRANSFORM.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_mmx_R8G8B8A8_P_R8G8B8A8_P_R8G8B8A8_N_TRANSFORM.S
+END
+nr-rect-l.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rect-l.h
+END
+nr-point-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point-ops.h
+END
+nr-gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-gradient.cpp
+END
+nr_config.h.win32
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_config.h.win32
+END
+nr-translate-matrix-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-matrix-ops.cpp
+END
+nr-blit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-blit.h
+END
+nr-matrix-rotate-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-rotate-ops.cpp
+END
+nr-values.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-values.cpp
+END
+nr-dim2.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-dim2.h
+END
+nr-i-coord.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-i-coord.h
+END
+nr-translate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-ops.h
+END
+in-svg-plane-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/in-svg-plane-test.h
+END
+nr-object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-object.cpp
+END
+nr-convex-hull-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-convex-hull-ops.h
+END
+nr-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix.h
+END
+nr-point-fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point-fns.cpp
+END
+nr-compose-transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-compose-transform.cpp
+END
+nr-convert2geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnr/nr-convert2geom.h
+END
+nr-rotate-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-rotate-test.h
+END
+nr-scale-translate-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale-translate-ops.cpp
+END
+nr-translate-scale-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-scale-ops.cpp
+END
+nr-render.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-render.h
+END
+nr-matrix-div.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-div.cpp
+END
+nr-rect-l.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rect-l.cpp
+END
+nr-matrix-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-matrix-test.h
+END
+nr-pixops.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixops.h
+END
+in-svg-plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20318/inkscape/trunk/src/libnr/in-svg-plane.h
+END
+nr-blit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-blit.cpp
+END
+nr-scale-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale-ops.h
+END
+nr-rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnr/nr-rect.cpp
+END
+nr-matrix-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-fns.h
+END
+nr-translate-rotate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-rotate-ops.h
+END
+nr-point.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point.h
+END
+nr_mmx_R8G8B8A8_P_EMPTY_A8_RGBAP.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_mmx_R8G8B8A8_P_EMPTY_A8_RGBAP.S
+END
+nr-rect-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rect-ops.h
+END
+nr-compose-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20329/inkscape/trunk/src/libnr/nr-compose-reference.cpp
+END
+nr-gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-gradient.h
+END
+nr-rotate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-ops.h
+END
+nr-translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/libnr/Makefile_insert
+END
+nr-matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix.cpp
+END
+nr-matrix-rotate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-rotate-ops.h
+END
+nr-rotate-fns-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-fns-test.h
+END
+nr-values.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-values.h
+END
+nr-pixblock-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-line.h
+END
+nr-compose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-compose.cpp
+END
+have_mmx.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/have_mmx.S
+END
+nr-convex-hull.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-convex-hull.h
+END
+nr-scale-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-scale-test.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libnr/CMakeLists.txt
+END
+nr_mmx_R8G8B8_R8G8B8_R8G8B8A8_P.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr_mmx_R8G8B8_R8G8B8_R8G8B8A8_P.S
+END
+nr-point-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-point-fns.h
+END
+nr-scale-translate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale-translate-ops.h
+END
+nr-translate-scale-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-scale-ops.h
+END
+nr-matrix-fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-fns.cpp
+END
+nr-translate-rotate-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-translate-rotate-ops.cpp
+END
+nr-scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale.h
+END
+nr-scale-matrix-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-scale-matrix-ops.h
+END
+nr-rotate-matrix-ops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate-matrix-ops.cpp
+END
+nr-pixblock-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-pixblock-line.cpp
+END
+nr-rect.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/libnr/nr-rect.h
+END
+nr-maybe.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-maybe.h
+END
+testnr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/testnr.cpp
+END
+nr-matrix-translate-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-matrix-translate-ops.h
+END
+nr-rotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-rotate.h
+END
+libnr.def
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/libnr.def
+END
+nr-compose-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-compose-reference.h
+END
+nr-path-code.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-path-code.h
+END
+nr-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-forward.h
+END
+nr-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-types.h
+END
+nr-compose.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-compose.h
+END
+nr-pixblock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20402/inkscape/trunk/src/libnr/nr-pixblock.cpp
+END
+nr-coord.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libnr/nr-coord.h
+END
+nr-translate-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/libnr/nr-translate-test.h
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/livarot
+END
+BitLigne.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/BitLigne.h
+END
+sweep-event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/sweep-event.cpp
+END
+ShapeSweep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/ShapeSweep.cpp
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/Shape.h
+END
+AlphaLigne.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/AlphaLigne.h
+END
+PathSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/PathSimplify.cpp
+END
+path-description.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/path-description.cpp
+END
+ShapeDraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/ShapeDraw.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/Makefile_insert
+END
+sweep-tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/sweep-tree.cpp
+END
+ShapeRaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/ShapeRaster.cpp
+END
+AVL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/AVL.cpp
+END
+int-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/int-line.h
+END
+Livarot.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/Livarot.h
+END
+LivarotDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/LivarotDefs.h
+END
+sweep-event-queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/sweep-event-queue.h
+END
+PathCutting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/PathCutting.cpp
+END
+PathOutline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/PathOutline.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/livarot/CMakeLists.txt
+END
+BitLigne.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/BitLigne.cpp
+END
+sweep-tree-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/sweep-tree-list.h
+END
+float-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/float-line.h
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/Shape.cpp
+END
+Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20436/inkscape/trunk/src/livarot/Path.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/makefile.in
+END
+PathConversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20436/inkscape/trunk/src/livarot/PathConversion.cpp
+END
+AlphaLigne.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/AlphaLigne.cpp
+END
+sweep-event.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/sweep-event.h
+END
+ShapeMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/ShapeMisc.cpp
+END
+int-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/int-line.cpp
+END
+path-description.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/path-description.h
+END
+PathStroke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20436/inkscape/trunk/src/livarot/PathStroke.cpp
+END
+sweep-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/sweep-tree.h
+END
+livarot-forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/livarot-forward.h
+END
+AVL.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/AVL.h
+END
+sweep-tree-list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/sweep-tree-list.cpp
+END
+float-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/livarot/float-line.cpp
+END
+Path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/livarot/Path.cpp
+END

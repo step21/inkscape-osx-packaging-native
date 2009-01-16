@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 100
+Makefile
+Makefile.in
+.deps
+.libs
+sp-marshal.cpp
+sp-marshal.h
+makefile
+.dirstamp
+*-test
+libspchelp.a
+
+END

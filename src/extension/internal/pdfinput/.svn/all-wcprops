@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/extension/internal/pdfinput
+END
+pdf-parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdfinput/pdf-parser.cpp
+END
+svg-builder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/extension/internal/pdfinput/svg-builder.cpp
+END
+pdf-input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdfinput/pdf-input.cpp
+END
+pdf-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdfinput/pdf-parser.h
+END
+svg-builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/extension/internal/pdfinput/svg-builder.h
+END
+pdf-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdfinput/pdf-input.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/internal/pdfinput/CMakeLists.txt
+END

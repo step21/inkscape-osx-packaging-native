@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil
+END
+SMILTopLayoutElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILTopLayoutElement.java
+END
+SMILSwitchElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILSwitchElement.java
+END
+TimeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/TimeEvent.java
+END
+SMILDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILDocument.java
+END
+SMILAnimateMotionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILAnimateMotionElement.java
+END
+ElementExclusiveTimeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementExclusiveTimeContainer.java
+END
+SMILAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILAnimation.java
+END
+ElementSyncBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementSyncBehavior.java
+END
+ElementSequentialTimeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementSequentialTimeContainer.java
+END
+ElementTargetAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTargetAttributes.java
+END
+ElementTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTime.java
+END
+ElementTimeControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTimeControl.java
+END
+ElementTimeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTimeContainer.java
+END
+SMILRefElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILRefElement.java
+END
+SMILAnimateColorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILAnimateColorElement.java
+END
+SMILLayoutElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILLayoutElement.java
+END
+SMILAnimateElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILAnimateElement.java
+END
+SMILElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILElement.java
+END
+SMILMediaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILMediaElement.java
+END
+SMILRootLayoutElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILRootLayoutElement.java
+END
+SMILRegionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILRegionElement.java
+END
+ElementLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementLayout.java
+END
+ElementParallelTimeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementParallelTimeContainer.java
+END
+ElementTimeManipulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTimeManipulation.java
+END
+ElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/ElementTest.java
+END
+SMILRegionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILRegionInterface.java
+END
+SMILSetElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/SMILSetElement.java
+END
+TimeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/TimeList.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/smil/Time.java
+END

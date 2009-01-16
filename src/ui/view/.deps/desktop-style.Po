@@ -1,0 +1,2 @@
+ui/view/desktop-style.o ui/view/desktop-style.o:  \
+ ui/view/desktop-style.cpp

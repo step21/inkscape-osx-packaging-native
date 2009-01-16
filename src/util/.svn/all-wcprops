@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/util
+END
+tuple.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/tuple.h
+END
+ucompose.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/ucompose.hpp
+END
+list-container.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/list-container.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/makefile.in
+END
+share.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/share.cpp
+END
+units.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/units.cpp
+END
+filter-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/filter-list.h
+END
+mathfns.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/mathfns.h
+END
+glib-list-iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/glib-list-iterators.h
+END
+share.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/share.h
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/units.h
+END
+compose.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/compose.hpp
+END
+list-container-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20338/inkscape/trunk/src/util/list-container-test.h
+END
+fixed_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/fixed_point.h
+END
+forward-pointer-iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/forward-pointer-iterator.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/list.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/util/Makefile_insert
+END
+reverse-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/reverse-list.h
+END
+map-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/map-list.h
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/enums.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/util/CMakeLists.txt
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/util/format.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/implementation
+END
+xslt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/xslt.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/Makefile_insert
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/makefile.in
+END
+script.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20245/inkscape/trunk/src/extension/implementation/script.cpp
+END
+implementation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/implementation.cpp
+END
+script.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/script.h
+END
+implementation.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/implementation.h
+END
+xslt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/extension/implementation/xslt.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extension/implementation/CMakeLists.txt
+END

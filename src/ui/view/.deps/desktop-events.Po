@@ -1,0 +1,2 @@
+ui/view/desktop-events.o ui/view/desktop-events.o:  \
+ ui/view/desktop-events.cpp

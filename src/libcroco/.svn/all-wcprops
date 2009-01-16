@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libcroco
+END
+cr-parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-parser.c
+END
+cr-additional-sel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-additional-sel.h
+END
+cr-num.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-num.c
+END
+cr-pseudo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-pseudo.c
+END
+cr-sel-eng.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-sel-eng.h
+END
+libcroco.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/libcroco.h
+END
+cr-style.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-style.c
+END
+cr-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-utils.c
+END
+cr-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-parser.h
+END
+cr-num.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-num.h
+END
+cr-pseudo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-pseudo.h
+END
+cr-statement.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-statement.c
+END
+cr-style.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-style.h
+END
+cr-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-utils.h
+END
+cr-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-string.c
+END
+cr-term.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-term.c
+END
+cr-statement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-statement.h
+END
+cr-parsing-location.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-parsing-location.c
+END
+cr-simple-sel.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-simple-sel.c
+END
+cr-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-string.h
+END
+cr-term.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-term.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/Makefile_insert
+END
+cr-parsing-location.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-parsing-location.h
+END
+cr-simple-sel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-simple-sel.h
+END
+cr-selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-selector.c
+END
+cr-doc-handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-doc-handler.c
+END
+cr-cascade.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-cascade.c
+END
+cr-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-selector.h
+END
+cr-doc-handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-doc-handler.h
+END
+cr-declaration.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-declaration.c
+END
+cr-cascade.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-cascade.h
+END
+cr-prop-list.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-prop-list.c
+END
+cr-fonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-fonts.c
+END
+cr-stylesheet.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-stylesheet.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/libcroco/CMakeLists.txt
+END
+cr-declaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-declaration.h
+END
+cr-attr-sel.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-attr-sel.c
+END
+cr-prop-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-prop-list.h
+END
+cr-fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-fonts.h
+END
+cr-stylesheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-stylesheet.h
+END
+cr-node-iface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-node-iface.h
+END
+cr-input.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-input.c
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/makefile.in
+END
+cr-attr-sel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-attr-sel.h
+END
+cr-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-input.h
+END
+cr-om-parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-om-parser.c
+END
+cr-tknzr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-tknzr.c
+END
+cr-om-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-om-parser.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/README
+END
+cr-rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-rgb.c
+END
+cr-tknzr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-tknzr.h
+END
+cr-libxml-node-iface.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-libxml-node-iface.c
+END
+cr-rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-rgb.h
+END
+cr-enc-handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-enc-handler.c
+END
+cr-token.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-token.c
+END
+cr-libxml-node-iface.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-libxml-node-iface.h
+END
+cr-enc-handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-enc-handler.h
+END
+cr-token.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-token.h
+END
+cr-additional-sel.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-additional-sel.c
+END
+cr-sel-eng.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/libcroco/cr-sel-eng.c
+END

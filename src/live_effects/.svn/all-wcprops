@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/live_effects
+END
+lpe-angle_bisector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-angle_bisector.cpp
+END
+lpe-dynastroke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20443/inkscape/trunk/src/live_effects/lpe-dynastroke.cpp
+END
+lpe-mirror_symmetry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-mirror_symmetry.cpp
+END
+effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/effect.h
+END
+lpe-text_label.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-text_label.cpp
+END
+effect-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20444/inkscape/trunk/src/live_effects/effect-enum.h
+END
+lpe-sketch.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-sketch.h
+END
+lpe-offset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-offset.cpp
+END
+lpe-interpolate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-interpolate.cpp
+END
+lpeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpeobject.h
+END
+lpe-constructgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-constructgrid.h
+END
+lpegroupbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpegroupbbox.h
+END
+lpe-spiro.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-spiro.h
+END
+lpe-parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-parallel.h
+END
+lpe-path_length.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-path_length.h
+END
+lpe-perspective_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-perspective_path.cpp
+END
+lpe-perp_bisector.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-perp_bisector.h
+END
+bezctx_intf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/bezctx_intf.h
+END
+lpe-gears.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-gears.h
+END
+lpe-circle_with_radius.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-circle_with_radius.h
+END
+spiro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/spiro.cpp
+END
+lpe-knot.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-knot.h
+END
+lpe-sketch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20367/inkscape/trunk/src/live_effects/lpe-sketch.cpp
+END
+lpe-envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-envelope.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/makefile.in
+END
+lpe-skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-skeleton.cpp
+END
+lpe-angle_bisector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-angle_bisector.h
+END
+bezctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/bezctx.h
+END
+lpe-copy_rotate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-copy_rotate.cpp
+END
+lpeobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpeobject.cpp
+END
+lpe-bendpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-bendpath.h
+END
+lpe-offset.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-offset.h
+END
+lpe-interpolate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-interpolate.h
+END
+lpe-path_length.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-path_length.cpp
+END
+lpe-gears.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-gears.cpp
+END
+lpe-circle_with_radius.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-circle_with_radius.cpp
+END
+lpe-knot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-knot.cpp
+END
+lpe-vonkoch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-vonkoch.h
+END
+lpe-envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-envelope.cpp
+END
+lpe-line_segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-line_segment.h
+END
+lpe-patternalongpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-patternalongpath.h
+END
+bezctx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/bezctx.cpp
+END
+lpe-boolops.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-boolops.h
+END
+spiro.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/spiro.h
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/todo.txt
+END
+lpe-bendpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-bendpath.cpp
+END
+lpe-skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-skeleton.h
+END
+lpe-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-lattice.h
+END
+lpeobject-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpeobject-reference.h
+END
+lpe-copy_rotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-copy_rotate.h
+END
+lpe-ruler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-ruler.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20448/inkscape/trunk/src/live_effects/Makefile_insert
+END
+lpe-test-doEffect-stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-test-doEffect-stack.h
+END
+lpe-tangent_to_curve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-tangent_to_curve.cpp
+END
+lpe-rough-hatches.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20263/inkscape/trunk/src/live_effects/lpe-rough-hatches.h
+END
+lpe-vonkoch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpe-vonkoch.cpp
+END
+lpe-curvestitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-curvestitch.h
+END
+lpe-line_segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-line_segment.cpp
+END
+lpe-circle_3pts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-circle_3pts.cpp
+END
+lpe-patternalongpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-patternalongpath.cpp
+END
+lpe-boolops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-boolops.cpp
+END
+effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20446/inkscape/trunk/src/live_effects/effect.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/live_effects/CMakeLists.txt
+END
+lpeobject-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/live_effects/lpeobject-reference.cpp
+END
+lpe-lattice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-lattice.cpp
+END
+lpe-mirror_symmetry.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-mirror_symmetry.h
+END
+lpe-text_label.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-text_label.h
+END
+lpe-dynastroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20443/inkscape/trunk/src/live_effects/lpe-dynastroke.h
+END
+lpe-ruler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-ruler.cpp
+END
+lpe-constructgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-constructgrid.cpp
+END
+lpegroupbbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpegroupbbox.cpp
+END
+lpe-spiro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-spiro.cpp
+END
+lpe-parallel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-parallel.cpp
+END
+lpe-test-doEffect-stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-test-doEffect-stack.cpp
+END
+lpe-perp_bisector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-perp_bisector.cpp
+END
+lpe-rough-hatches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20263/inkscape/trunk/src/live_effects/lpe-rough-hatches.cpp
+END
+lpe-curvestitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-curvestitch.cpp
+END
+lpe-perspective_path.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/live_effects/lpe-perspective_path.h
+END
+lpe-tangent_to_curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-tangent_to_curve.h
+END
+lpe-circle_3pts.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/live_effects/lpe-circle_3pts.h
+END

@@ -1,0 +1,19 @@
+K 10
+svg:ignore
+V 31
+test-svg-main.cpp
+test-svg.cpp
+
+K 10
+svn:ignore
+V 88
+Makefile
+Makefile.in
+.deps
+makefile
+.dirstamp
+libspsvg.a
+test-svg-main.cpp
+test-svg.cpp
+
+END

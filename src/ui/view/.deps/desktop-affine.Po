@@ -1,0 +1,2 @@
+ui/view/desktop-affine.o ui/view/desktop-affine.o:  \
+ ui/view/desktop-affine.cpp

@@ -1,0 +1,50 @@
+8
+
+dir
+20527
+https://inkscape.svn.sourceforge.net/svnroot/inkscape/inkscape/trunk/src/bind/javainc
+https://inkscape.svn.sourceforge.net/svnroot/inkscape
+
+
+
+2008-03-29T09:49:50.568126Z
+18077
+pjrm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79ec4920-5e0a-0410-a93a-b0c7084bcf59
+
+linux
+dir
+
+win32
+dir
+
+jni.h
+file
+
+
+
+
+2008-12-28T14:27:49.000000Z
+c7faef8653bd24405359bbf89b59b47e
+2008-03-29T09:49:50.568126Z
+18077
+pjrm
+has-props
+
+solaris
+dir
+

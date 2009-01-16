@@ -1,0 +1,1 @@
+ui/view/desktop.o ui/view/desktop.o: ui/view/desktop.cpp

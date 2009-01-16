@@ -1,0 +1,965 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg
+END
+SVGEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGEvent.java
+END
+SVGNumberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGNumberList.java
+END
+SVGFEMergeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEMergeElement.java
+END
+SVGPathSegCurvetoQuadraticAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticAbs.java
+END
+SVGMissingGlyphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMissingGlyphElement.java
+END
+SVGFEColorMatrixElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEColorMatrixElement.java
+END
+SVGAnimatedEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedEnumeration.java
+END
+SVGAnimatedNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedNumber.java
+END
+SVGLangSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLangSpace.java
+END
+SVGPathSegCurvetoQuadraticSmoothRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothRel.java
+END
+SVGException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGException.java
+END
+SVGTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTests.java
+END
+SVGFilterPrimitiveStandardAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFilterPrimitiveStandardAttributes.java
+END
+SVGPathSegArcAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegArcAbs.java
+END
+SVGSVGElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGSVGElement.java
+END
+SVGDefinitionSrcElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGDefinitionSrcElement.java
+END
+SVGPathSegMovetoAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegMovetoAbs.java
+END
+GetSVGDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/GetSVGDocument.java
+END
+SVGURIReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGURIReference.java
+END
+SVGLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLength.java
+END
+SVGHKernElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGHKernElement.java
+END
+SVGAnimatedBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedBoolean.java
+END
+SVGAnimateTransformElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimateTransformElement.java
+END
+SVGPointList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPointList.java
+END
+SVGPathSegLinetoVerticalAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoVerticalAbs.java
+END
+SVGPatternElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPatternElement.java
+END
+SVGGlyphRefElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGGlyphRefElement.java
+END
+SVGPathSeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSeg.java
+END
+SVGAnimatedPreserveAspectRatio.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedPreserveAspectRatio.java
+END
+SVGPathSegCurvetoCubicAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoCubicAbs.java
+END
+SVGVKernElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGVKernElement.java
+END
+SVGStringList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGStringList.java
+END
+SVGSetElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGSetElement.java
+END
+SVGPathSegCurvetoCubicSmoothRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothRel.java
+END
+SVGFEPointLightElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEPointLightElement.java
+END
+SVGFontFaceSrcElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontFaceSrcElement.java
+END
+SVGFEImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEImageElement.java
+END
+SVGPathSegLinetoRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoRel.java
+END
+SVGAnimatedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedString.java
+END
+SVGFEBlendElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEBlendElement.java
+END
+SVGElementInstanceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGElementInstanceList.java
+END
+SVGTRefElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTRefElement.java
+END
+SVGSwitchElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGSwitchElement.java
+END
+SVGTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTransform.java
+END
+SVGClipPathElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGClipPathElement.java
+END
+SVGAnimatedPoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedPoints.java
+END
+SVGCSSRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGCSSRule.java
+END
+SVGPathSegCurvetoQuadraticSmoothAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothAbs.java
+END
+SVGViewSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGViewSpec.java
+END
+SVGLocatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLocatable.java
+END
+SVGAngle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAngle.java
+END
+SVGZoomEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGZoomEvent.java
+END
+SVGComponentTransferFunctionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGComponentTransferFunctionElement.java
+END
+SVGAnimatedNumberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedNumberList.java
+END
+SVGFECompositeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFECompositeElement.java
+END
+SVGNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGNumber.java
+END
+SVGFEComponentTransferElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEComponentTransferElement.java
+END
+SVGRenderingIntent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGRenderingIntent.java
+END
+SVGStopElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGStopElement.java
+END
+SVGFESpotLightElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFESpotLightElement.java
+END
+SVGMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMatrix.java
+END
+SVGUnitTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGUnitTypes.java
+END
+SVGColorProfileElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGColorProfileElement.java
+END
+SVGCircleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGCircleElement.java
+END
+SVGLengthList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLengthList.java
+END
+SVGColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGColor.java
+END
+SVGFEFuncAElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEFuncAElement.java
+END
+SVGFEDistantLightElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEDistantLightElement.java
+END
+SVGFEMorphologyElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEMorphologyElement.java
+END
+SVGPathSegList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegList.java
+END
+SVGAnimateColorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimateColorElement.java
+END
+SVGFEFuncGElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEFuncGElement.java
+END
+SVGFEFloodElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEFloodElement.java
+END
+SVGPathSegCurvetoCubicSmoothAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothAbs.java
+END
+SVGAnimatedPathData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedPathData.java
+END
+SVGTextContentElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTextContentElement.java
+END
+SVGForeignObjectElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGForeignObjectElement.java
+END
+SVGAElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAElement.java
+END
+SVGPathSegLinetoAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoAbs.java
+END
+SVGFETurbulenceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFETurbulenceElement.java
+END
+SVGFilterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFilterElement.java
+END
+SVGGElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGGElement.java
+END
+SVGAnimatedInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedInteger.java
+END
+SVGPathElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathElement.java
+END
+SVGGradientElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGGradientElement.java
+END
+SVGEllipseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGEllipseElement.java
+END
+SVGTransformList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTransformList.java
+END
+SVGAltGlyphItemElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAltGlyphItemElement.java
+END
+SVGAnimateMotionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimateMotionElement.java
+END
+SVGElementInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGElementInstance.java
+END
+SVGExternalResourcesRequired.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGExternalResourcesRequired.java
+END
+SVGFontElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontElement.java
+END
+SVGAnimateElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimateElement.java
+END
+SVGAnimationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimationElement.java
+END
+SVGPreserveAspectRatio.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPreserveAspectRatio.java
+END
+SVGFEMergeNodeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEMergeNodeElement.java
+END
+SVGTitleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTitleElement.java
+END
+SVGImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGImageElement.java
+END
+SVGICCColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGICCColor.java
+END
+SVGTextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTextElement.java
+END
+SVGZoomAndPan.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGZoomAndPan.java
+END
+SVGRectElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGRectElement.java
+END
+SVGFontFaceFormatElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontFaceFormatElement.java
+END
+SVGFEOffsetElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEOffsetElement.java
+END
+SVGDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGDocument.java
+END
+SVGAnimatedLengthList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedLengthList.java
+END
+SVGTextPositioningElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTextPositioningElement.java
+END
+SVGFEGaussianBlurElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEGaussianBlurElement.java
+END
+SVGFitToViewBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFitToViewBox.java
+END
+SVGAnimatedAngle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedAngle.java
+END
+SVGElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGElement.java
+END
+SVGMetadataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMetadataElement.java
+END
+SVGDefsElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGDefsElement.java
+END
+SVGRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGRect.java
+END
+SVGTransformable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTransformable.java
+END
+SVGAnimatedRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedRect.java
+END
+SVGFEDiffuseLightingElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEDiffuseLightingElement.java
+END
+SVGLineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLineElement.java
+END
+SVGPolylineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPolylineElement.java
+END
+SVGMaskElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMaskElement.java
+END
+SVGFEConvolveMatrixElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEConvolveMatrixElement.java
+END
+SVGFontFaceUriElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontFaceUriElement.java
+END
+SVGSymbolElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGSymbolElement.java
+END
+SVGFETileElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFETileElement.java
+END
+SVGPathSegLinetoHorizontalRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoHorizontalRel.java
+END
+SVGMPathElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMPathElement.java
+END
+SVGColorProfileRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGColorProfileRule.java
+END
+SVGDescElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGDescElement.java
+END
+SVGFESpecularLightingElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFESpecularLightingElement.java
+END
+SVGMarkerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGMarkerElement.java
+END
+SVGFontFaceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontFaceElement.java
+END
+SVGTSpanElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTSpanElement.java
+END
+SVGPathSegCurvetoQuadraticRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticRel.java
+END
+SVGAnimatedTransformList.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedTransformList.java
+END
+SVGPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPaint.java
+END
+SVGTextPathElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGTextPathElement.java
+END
+SVGStylable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGStylable.java
+END
+SVGFEFuncBElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEFuncBElement.java
+END
+SVGPathSegArcRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegArcRel.java
+END
+SVGAnimatedLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAnimatedLength.java
+END
+SVGRadialGradientElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGRadialGradientElement.java
+END
+SVGViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGViewElement.java
+END
+SVGCursorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGCursorElement.java
+END
+SVGPathSegMovetoRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegMovetoRel.java
+END
+SVGPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPoint.java
+END
+SVGFEDisplacementMapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEDisplacementMapElement.java
+END
+SVGGlyphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGGlyphElement.java
+END
+SVGPathSegClosePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegClosePath.java
+END
+SVGAltGlyphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAltGlyphElement.java
+END
+SVGFontFaceNameElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFontFaceNameElement.java
+END
+SVGPolygonElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPolygonElement.java
+END
+SVGLinearGradientElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGLinearGradientElement.java
+END
+SVGFEFuncRElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGFEFuncRElement.java
+END
+SVGPathSegLinetoVerticalRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoVerticalRel.java
+END
+SVGPathSegLinetoHorizontalAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegLinetoHorizontalAbs.java
+END
+SVGUseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGUseElement.java
+END
+SVGStyleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGStyleElement.java
+END
+SVGPathSegCurvetoCubicRel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGPathSegCurvetoCubicRel.java
+END
+SVGAltGlyphDefElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGAltGlyphDefElement.java
+END
+SVGScriptElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/svg/SVGScriptElement.java
+END

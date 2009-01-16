@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/script
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/script/Editor.java
+END
+ScriptConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/script/ScriptConsole.java
+END
+Terminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/script/Terminal.java
+END

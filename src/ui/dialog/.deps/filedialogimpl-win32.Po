@@ -1,0 +1,2 @@
+ui/dialog/filedialogimpl-win32.o ui/dialog/filedialogimpl-win32.o:  \
+ ui/dialog/filedialogimpl-win32.cpp

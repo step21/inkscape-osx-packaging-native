@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets
+END
+DocumentStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets/DocumentStyle.java
+END
+StyleSheetList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets/StyleSheetList.java
+END
+StyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets/StyleSheet.java
+END
+MediaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets/MediaList.java
+END
+LinkStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/stylesheets/LinkStyle.java
+END

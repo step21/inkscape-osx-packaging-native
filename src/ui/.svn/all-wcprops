@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/ui
+END
+clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20343/inkscape/trunk/src/ui/clipboard.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/makefile.in
+END
+stock-items.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/stock-items.cpp
+END
+clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/clipboard.h
+END
+stock-items.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/stock-items.h
+END
+previewable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/previewable.h
+END
+previewholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/previewholder.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20428/inkscape/trunk/src/ui/Makefile_insert
+END
+previewfillable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/previewfillable.h
+END
+stock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/stock.cpp
+END
+previewholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/previewholder.h
+END
+context-menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/ui/context-menu.cpp
+END
+stock.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/stock.h
+END
+context-menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ui/context-menu.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/ui/CMakeLists.txt
+END

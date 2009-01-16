@@ -1,0 +1,3686 @@
+print.o print.o: print.cpp ../config.h inkscape.h \
+  /usr/include/c++/4.0.0/list /usr/include/c++/4.0.0/bits/functexcept.h \
+  /usr/include/c++/4.0.0/exception_defines.h \
+  /usr/include/c++/4.0.0/bits/stl_algobase.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h \
+  /usr/include/c++/4.0.0/cstring /usr/include/c++/4.0.0/cstddef \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/c++/4.0.0/climits \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  /usr/include/sys/syslimits.h /usr/include/c++/4.0.0/cstdlib \
+  /usr/include/stdlib.h /usr/include/available.h /usr/include/sys/wait.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/sys/_structs.h \
+  /usr/include/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/resource.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/c++/4.0.0/iosfwd \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++locale.h \
+  /usr/include/c++/4.0.0/clocale /usr/include/locale.h \
+  /usr/include/_locale.h /usr/include/c++/4.0.0/cstdio \
+  /usr/include/stdio.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++io.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr-default.h \
+  /usr/include/pthread.h /usr/include/pthread_impl.h /usr/include/sched.h \
+  /usr/include/time.h /usr/include/_structs.h /usr/include/unistd.h \
+  /usr/include/sys/unistd.h /usr/include/sys/select.h \
+  /usr/include/sys/_select.h /usr/include/c++/4.0.0/cctype \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/c++/4.0.0/bits/stringfwd.h \
+  /usr/include/c++/4.0.0/bits/postypes.h /usr/include/c++/4.0.0/cwchar \
+  /usr/include/c++/4.0.0/ctime /usr/include/wchar.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h \
+  /usr/include/_wctype.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h \
+  /usr/include/c++/4.0.0/bits/stl_pair.h \
+  /usr/include/c++/4.0.0/bits/cpp_type_traits.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator_base_types.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/4.0.0/bits/concept_check.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator.h \
+  /usr/include/c++/4.0.0/debug/debug.h /usr/include/c++/4.0.0/cassert \
+  /usr/include/assert.h /usr/include/c++/4.0.0/bits/allocator.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++allocator.h \
+  /usr/include/c++/4.0.0/ext/new_allocator.h /usr/include/c++/4.0.0/new \
+  /usr/include/c++/4.0.0/exception \
+  /usr/include/c++/4.0.0/bits/stl_construct.h \
+  /usr/include/c++/4.0.0/bits/stl_uninitialized.h \
+  /usr/include/c++/4.0.0/bits/stl_list.h \
+  /usr/include/c++/4.0.0/bits/list.tcc \
+  /opt/local/include/glib-2.0/glib/gtypes.h \
+  /opt/local/lib/glib-2.0/include/glibconfig.h \
+  /opt/local/include/glib-2.0/glib/gmacros.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h desktop.h \
+  /opt/local/include/gtk-2.0/gdk/gdkevents.h \
+  /opt/local/include/gtk-2.0/gdk/gdkcolor.h \
+  /opt/local/include/cairo/cairo.h \
+  /opt/local/include/cairo/cairo-version.h \
+  /opt/local/include/cairo/cairo-features.h \
+  /opt/local/include/cairo/cairo-deprecated.h \
+  /opt/local/include/gtk-2.0/gdk/gdktypes.h \
+  /opt/local/include/glib-2.0/glib.h \
+  /opt/local/include/glib-2.0/glib/galloca.h \
+  /opt/local/include/glib-2.0/glib/garray.h \
+  /opt/local/include/glib-2.0/glib/gasyncqueue.h \
+  /opt/local/include/glib-2.0/glib/gthread.h \
+  /opt/local/include/glib-2.0/glib/gerror.h \
+  /opt/local/include/glib-2.0/glib/gquark.h \
+  /opt/local/include/glib-2.0/glib/gutils.h \
+  /opt/local/include/glib-2.0/glib/gatomic.h \
+  /opt/local/include/glib-2.0/glib/gbacktrace.h /usr/include/signal.h \
+  /opt/local/include/glib-2.0/glib/gbase64.h \
+  /opt/local/include/glib-2.0/glib/gbookmarkfile.h \
+  /opt/local/include/glib-2.0/glib/gcache.h \
+  /opt/local/include/glib-2.0/glib/glist.h \
+  /opt/local/include/glib-2.0/glib/gmem.h \
+  /opt/local/include/glib-2.0/glib/gslice.h \
+  /opt/local/include/glib-2.0/glib/gchecksum.h \
+  /opt/local/include/glib-2.0/glib/gcompletion.h \
+  /opt/local/include/glib-2.0/glib/gconvert.h \
+  /opt/local/include/glib-2.0/glib/gdataset.h \
+  /opt/local/include/glib-2.0/glib/gdate.h \
+  /opt/local/include/glib-2.0/glib/gdir.h \
+  /opt/local/include/glib-2.0/glib/gfileutils.h \
+  /opt/local/include/glib-2.0/glib/ghash.h \
+  /opt/local/include/glib-2.0/glib/ghook.h \
+  /opt/local/include/glib-2.0/glib/giochannel.h \
+  /opt/local/include/glib-2.0/glib/gmain.h \
+  /opt/local/include/glib-2.0/glib/gslist.h \
+  /opt/local/include/glib-2.0/glib/gstring.h \
+  /opt/local/include/glib-2.0/glib/gunicode.h \
+  /opt/local/include/glib-2.0/glib/gkeyfile.h \
+  /opt/local/include/glib-2.0/glib/gmappedfile.h \
+  /opt/local/include/glib-2.0/glib/gmarkup.h \
+  /opt/local/include/glib-2.0/glib/gmessages.h \
+  /opt/local/include/glib-2.0/glib/gnode.h \
+  /opt/local/include/glib-2.0/glib/goption.h \
+  /opt/local/include/glib-2.0/glib/gpattern.h \
+  /opt/local/include/glib-2.0/glib/gprimes.h \
+  /opt/local/include/glib-2.0/glib/gqsort.h \
+  /opt/local/include/glib-2.0/glib/gqueue.h \
+  /opt/local/include/glib-2.0/glib/grand.h \
+  /opt/local/include/glib-2.0/glib/grel.h \
+  /opt/local/include/glib-2.0/glib/gregex.h \
+  /opt/local/include/glib-2.0/glib/gscanner.h \
+  /opt/local/include/glib-2.0/glib/gsequence.h \
+  /opt/local/include/glib-2.0/glib/gshell.h \
+  /opt/local/include/glib-2.0/glib/gspawn.h \
+  /opt/local/include/glib-2.0/glib/gstrfuncs.h \
+  /opt/local/include/glib-2.0/glib/gtestutils.h \
+  /opt/local/include/glib-2.0/glib/gthreadpool.h \
+  /opt/local/include/glib-2.0/glib/gtimer.h \
+  /opt/local/include/glib-2.0/glib/gtree.h \
+  /opt/local/include/glib-2.0/glib/gurifuncs.h \
+  /opt/local/include/pango-1.0/pango/pango.h \
+  /opt/local/include/pango-1.0/pango/pango-attributes.h \
+  /opt/local/include/pango-1.0/pango/pango-font.h \
+  /opt/local/include/pango-1.0/pango/pango-coverage.h \
+  /opt/local/include/pango-1.0/pango/pango-types.h \
+  /opt/local/include/glib-2.0/glib-object.h \
+  /opt/local/include/glib-2.0/gobject/gboxed.h \
+  /opt/local/include/glib-2.0/gobject/gtype.h \
+  /opt/local/include/glib-2.0/gobject/genums.h \
+  /opt/local/include/glib-2.0/gobject/gobject.h \
+  /opt/local/include/glib-2.0/gobject/gvalue.h \
+  /opt/local/include/glib-2.0/gobject/gparam.h \
+  /opt/local/include/glib-2.0/gobject/gclosure.h \
+  /opt/local/include/glib-2.0/gobject/gsignal.h \
+  /opt/local/include/glib-2.0/gobject/gmarshal.h \
+  /opt/local/include/glib-2.0/gobject/gparamspecs.h \
+  /opt/local/include/glib-2.0/gobject/gsourceclosure.h \
+  /opt/local/include/glib-2.0/gobject/gtypemodule.h \
+  /opt/local/include/glib-2.0/gobject/gtypeplugin.h \
+  /opt/local/include/glib-2.0/gobject/gvaluearray.h \
+  /opt/local/include/glib-2.0/gobject/gvaluetypes.h \
+  /opt/local/include/pango-1.0/pango/pango-gravity.h \
+  /opt/local/include/pango-1.0/pango/pango-matrix.h \
+  /opt/local/include/pango-1.0/pango/pango-script.h \
+  /opt/local/include/pango-1.0/pango/pango-language.h \
+  /opt/local/include/pango-1.0/pango/pango-bidi-type.h \
+  /opt/local/include/pango-1.0/pango/pango-break.h \
+  /opt/local/include/pango-1.0/pango/pango-item.h \
+  /opt/local/include/pango-1.0/pango/pango-context.h \
+  /opt/local/include/pango-1.0/pango/pango-fontmap.h \
+  /opt/local/include/pango-1.0/pango/pango-fontset.h \
+  /opt/local/include/pango-1.0/pango/pango-engine.h \
+  /opt/local/include/pango-1.0/pango/pango-glyph.h \
+  /opt/local/include/pango-1.0/pango/pango-enum-types.h \
+  /opt/local/include/pango-1.0/pango/pango-features.h \
+  /opt/local/include/pango-1.0/pango/pango-glyph-item.h \
+  /opt/local/include/pango-1.0/pango/pango-layout.h \
+  /opt/local/include/pango-1.0/pango/pango-tabs.h \
+  /opt/local/include/pango-1.0/pango/pango-renderer.h \
+  /opt/local/include/pango-1.0/pango/pango-utils.h \
+  /opt/local/lib/gtk-2.0/include/gdkconfig.h \
+  /opt/local/include/gtk-2.0/gdk/gdkdnd.h \
+  /opt/local/include/gtk-2.0/gdk/gdkinput.h \
+  /opt/local/include/gtk-2.0/gtk/gtktypeutils.h \
+  /opt/local/include/gtk-2.0/gtk/gtktypebuiltins.h \
+  /opt/local/include/sigc++-2.0/sigc++/sigc++.h \
+  /opt/local/include/sigc++-2.0/sigc++/signal.h \
+  /opt/local/include/sigc++-2.0/sigc++/signal_base.h \
+  /opt/local/lib/sigc++-2.0/include/sigc++config.h \
+  /opt/local/include/sigc++-2.0/sigc++/type_traits.h \
+  /opt/local/include/sigc++-2.0/sigc++/trackable.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/slot.h \
+  /opt/local/include/sigc++-2.0/sigc++/visit_each.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/adaptor_trait.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/functor_trait.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/ptr_fun.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/mem_fun.h \
+  /opt/local/include/sigc++-2.0/sigc++/limit_reference.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/deduce_result_type.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/slot_base.h \
+  /opt/local/include/sigc++-2.0/sigc++/connection.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/adaptors.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/bind.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/bound_argument.h \
+  /opt/local/include/sigc++-2.0/sigc++/reference_wrapper.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/bind_return.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/hide.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/retype_return.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/retype.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/compose.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/exception_catch.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/lambda.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/base.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/select.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/operator.h \
+  /opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/group.h \
+  /opt/local/include/sigc++-2.0/sigc++/functors/functors.h 2geom/matrix.h \
+  2geom/point.h /usr/include/c++/4.0.0/iostream \
+  /usr/include/c++/4.0.0/ostream /usr/include/c++/4.0.0/ios \
+  /usr/include/c++/4.0.0/bits/char_traits.h \
+  /usr/include/c++/4.0.0/bits/localefwd.h \
+  /usr/include/c++/4.0.0/bits/ios_base.h \
+  /usr/include/c++/4.0.0/bits/atomicity.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/atomic_word.h \
+  /usr/include/c++/4.0.0/bits/locale_classes.h \
+  /usr/include/c++/4.0.0/string /usr/include/c++/4.0.0/memory \
+  /usr/include/c++/4.0.0/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/4.0.0/limits \
+  /usr/include/c++/4.0.0/bits/stl_function.h \
+  /usr/include/c++/4.0.0/bits/basic_string.h \
+  /usr/include/c++/4.0.0/algorithm /usr/include/c++/4.0.0/bits/stl_algo.h \
+  /usr/include/c++/4.0.0/bits/stl_heap.h \
+  /usr/include/c++/4.0.0/bits/stl_tempbuf.h \
+  /usr/include/c++/4.0.0/bits/basic_string.tcc \
+  /usr/include/c++/4.0.0/streambuf \
+  /usr/include/c++/4.0.0/bits/streambuf.tcc \
+  /usr/include/c++/4.0.0/bits/basic_ios.h \
+  /usr/include/c++/4.0.0/bits/streambuf_iterator.h \
+  /usr/include/c++/4.0.0/bits/locale_facets.h \
+  /usr/include/c++/4.0.0/cwctype /usr/include/wctype.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_base.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_inline.h \
+  /usr/include/c++/4.0.0/bits/codecvt.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/time_members.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/messages_members.h \
+  /usr/include/c++/4.0.0/bits/basic_ios.tcc \
+  /usr/include/c++/4.0.0/bits/ostream.tcc /usr/include/c++/4.0.0/locale \
+  /usr/include/c++/4.0.0/bits/locale_facets.tcc \
+  /usr/include/c++/4.0.0/typeinfo /usr/include/c++/4.0.0/istream \
+  /usr/include/c++/4.0.0/bits/istream.tcc 2geom/coord.h \
+  /usr/include/c++/4.0.0/cmath /usr/include/math.h \
+  /usr/include/architecture/i386/math.h \
+  /usr/include/c++/4.0.0/bits/cmath.tcc 2geom/isnan.h 2geom/utils.h \
+  /usr/include/c++/4.0.0/vector /usr/include/c++/4.0.0/bits/stl_vector.h \
+  /usr/include/c++/4.0.0/bits/stl_bvector.h \
+  /usr/include/c++/4.0.0/bits/vector.tcc 2geom/rect.h 2geom/d2.h \
+  2geom/interval.h /opt/local/include/boost/optional/optional.hpp \
+  /opt/local/include/boost/config.hpp \
+  /opt/local/include/boost/config/user.hpp \
+  /opt/local/include/boost/config/select_compiler_config.hpp \
+  /opt/local/include/boost/config/compiler/gcc.hpp \
+  /opt/local/include/boost/config/select_stdlib_config.hpp \
+  /opt/local/include/boost/config/no_tr1/utility.hpp \
+  /usr/include/c++/4.0.0/utility /usr/include/c++/4.0.0/bits/stl_relops.h \
+  /opt/local/include/boost/config/stdlib/libstdcpp3.hpp \
+  /opt/local/include/boost/config/select_platform_config.hpp \
+  /opt/local/include/boost/config/platform/macos.hpp \
+  /opt/local/include/boost/config/posix_features.hpp \
+  /opt/local/include/boost/config/suffix.hpp \
+  /opt/local/include/boost/assert.hpp /opt/local/include/boost/type.hpp \
+  /opt/local/include/boost/type_traits/alignment_of.hpp \
+  /opt/local/include/boost/type_traits/intrinsics.hpp \
+  /opt/local/include/boost/type_traits/config.hpp \
+  /opt/local/include/boost/detail/workaround.hpp \
+  /opt/local/include/boost/type_traits/detail/size_t_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/template_arity_spec.hpp \
+  /opt/local/include/boost/mpl/int.hpp \
+  /opt/local/include/boost/mpl/int_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /opt/local/include/boost/mpl/aux_/config/adl.hpp \
+  /opt/local/include/boost/mpl/aux_/config/msvc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/intel.hpp \
+  /opt/local/include/boost/mpl/aux_/config/gcc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /opt/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /opt/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /opt/local/include/boost/mpl/aux_/integral_wrapper.hpp \
+  /opt/local/include/boost/mpl/integral_c_tag.hpp \
+  /opt/local/include/boost/mpl/aux_/config/static_constant.hpp \
+  /opt/local/include/boost/mpl/aux_/static_cast.hpp \
+  /opt/local/include/boost/preprocessor/cat.hpp \
+  /opt/local/include/boost/preprocessor/config/config.hpp \
+  /opt/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /opt/local/include/boost/mpl/aux_/config/preprocessor.hpp \
+  /opt/local/include/boost/preprocessor/comma_if.hpp \
+  /opt/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /opt/local/include/boost/preprocessor/control/if.hpp \
+  /opt/local/include/boost/preprocessor/control/iif.hpp \
+  /opt/local/include/boost/preprocessor/logical/bool.hpp \
+  /opt/local/include/boost/preprocessor/facilities/empty.hpp \
+  /opt/local/include/boost/preprocessor/punctuation/comma.hpp \
+  /opt/local/include/boost/preprocessor/repeat.hpp \
+  /opt/local/include/boost/preprocessor/repetition/repeat.hpp \
+  /opt/local/include/boost/preprocessor/debug/error.hpp \
+  /opt/local/include/boost/preprocessor/detail/auto_rec.hpp \
+  /opt/local/include/boost/preprocessor/tuple/eat.hpp \
+  /opt/local/include/boost/preprocessor/inc.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/inc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/lambda.hpp \
+  /opt/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /opt/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /opt/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
+  /opt/local/include/boost/type_traits/integral_constant.hpp \
+  /opt/local/include/boost/mpl/bool.hpp \
+  /opt/local/include/boost/mpl/bool_fwd.hpp \
+  /opt/local/include/boost/mpl/integral_c.hpp \
+  /opt/local/include/boost/mpl/integral_c_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /opt/local/include/boost/mpl/size_t.hpp \
+  /opt/local/include/boost/mpl/size_t_fwd.hpp \
+  /opt/local/include/boost/type_traits/detail/size_t_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/type_with_alignment.hpp \
+  /opt/local/include/boost/mpl/if.hpp \
+  /opt/local/include/boost/mpl/aux_/value_wknd.hpp \
+  /opt/local/include/boost/mpl/aux_/config/integral.hpp \
+  /opt/local/include/boost/mpl/aux_/config/eti.hpp \
+  /opt/local/include/boost/mpl/aux_/na_spec.hpp \
+  /opt/local/include/boost/mpl/lambda_fwd.hpp \
+  /opt/local/include/boost/mpl/void_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/na.hpp \
+  /opt/local/include/boost/mpl/aux_/na_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
+  /opt/local/include/boost/mpl/aux_/arity.hpp \
+  /opt/local/include/boost/mpl/aux_/config/dtp.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
+  /opt/local/include/boost/mpl/limits/arity.hpp \
+  /opt/local/include/boost/preprocessor/logical/and.hpp \
+  /opt/local/include/boost/preprocessor/logical/bitand.hpp \
+  /opt/local/include/boost/preprocessor/identity.hpp \
+  /opt/local/include/boost/preprocessor/facilities/identity.hpp \
+  /opt/local/include/boost/preprocessor/empty.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/add.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /opt/local/include/boost/preprocessor/control/while.hpp \
+  /opt/local/include/boost/preprocessor/list/fold_left.hpp \
+  /opt/local/include/boost/preprocessor/list/detail/fold_left.hpp \
+  /opt/local/include/boost/preprocessor/control/expr_iif.hpp \
+  /opt/local/include/boost/preprocessor/list/adt.hpp \
+  /opt/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /opt/local/include/boost/preprocessor/detail/check.hpp \
+  /opt/local/include/boost/preprocessor/logical/compl.hpp \
+  /opt/local/include/boost/preprocessor/list/fold_right.hpp \
+  /opt/local/include/boost/preprocessor/list/detail/fold_right.hpp \
+  /opt/local/include/boost/preprocessor/list/reverse.hpp \
+  /opt/local/include/boost/preprocessor/control/detail/while.hpp \
+  /opt/local/include/boost/preprocessor/tuple/elem.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/sub.hpp \
+  /opt/local/include/boost/preprocessor/list/for_each_i.hpp \
+  /opt/local/include/boost/preprocessor/repetition/for.hpp \
+  /opt/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /opt/local/include/boost/preprocessor/tuple/rem.hpp \
+  /opt/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /opt/local/include/boost/preprocessor/list/transform.hpp \
+  /opt/local/include/boost/preprocessor/list/append.hpp \
+  /opt/local/include/boost/type_traits/is_pod.hpp \
+  /opt/local/include/boost/type_traits/is_void.hpp \
+  /opt/local/include/boost/type_traits/detail/bool_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/bool_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/is_scalar.hpp \
+  /opt/local/include/boost/type_traits/is_arithmetic.hpp \
+  /opt/local/include/boost/type_traits/is_integral.hpp \
+  /opt/local/include/boost/type_traits/is_float.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_or.hpp \
+  /opt/local/include/boost/type_traits/is_enum.hpp \
+  /opt/local/include/boost/type_traits/add_reference.hpp \
+  /opt/local/include/boost/type_traits/is_reference.hpp \
+  /opt/local/include/boost/type_traits/detail/type_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/type_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/is_convertible.hpp \
+  /opt/local/include/boost/type_traits/detail/yes_no_type.hpp \
+  /opt/local/include/boost/type_traits/is_array.hpp \
+  /opt/local/include/boost/type_traits/ice.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_and.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_not.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_eq.hpp \
+  /opt/local/include/boost/type_traits/is_abstract.hpp \
+  /opt/local/include/boost/static_assert.hpp \
+  /opt/local/include/boost/type_traits/is_class.hpp \
+  /opt/local/include/boost/type_traits/is_union.hpp \
+  /opt/local/include/boost/type_traits/remove_cv.hpp \
+  /opt/local/include/boost/type_traits/broken_compiler_spec.hpp \
+  /opt/local/include/boost/type_traits/detail/cv_traits_impl.hpp \
+  /opt/local/include/boost/type_traits/is_function.hpp \
+  /opt/local/include/boost/type_traits/detail/false_result.hpp \
+  /opt/local/include/boost/type_traits/detail/is_function_ptr_helper.hpp \
+  /opt/local/include/boost/type_traits/is_pointer.hpp \
+  /opt/local/include/boost/type_traits/is_member_pointer.hpp \
+  /opt/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /opt/local/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+  /opt/local/include/boost/type_traits/remove_reference.hpp \
+  /opt/local/include/boost/mpl/not.hpp \
+  /opt/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
+  /opt/local/include/boost/detail/reference_content.hpp \
+  /opt/local/include/boost/type_traits/has_nothrow_copy.hpp \
+  /opt/local/include/boost/type_traits/has_trivial_copy.hpp \
+  /opt/local/include/boost/type_traits/is_volatile.hpp \
+  /opt/local/include/boost/mpl/void.hpp /opt/local/include/boost/none.hpp \
+  /opt/local/include/boost/none_t.hpp \
+  /opt/local/include/boost/utility/compare_pointees.hpp \
+  /usr/include/c++/4.0.0/functional \
+  /opt/local/include/boost/optional/optional_fwd.hpp \
+  /opt/local/include/boost/concept_check.hpp \
+  /opt/local/include/boost/concept/assert.hpp \
+  /opt/local/include/boost/concept/detail/general.hpp \
+  /opt/local/include/boost/concept/detail/has_constraints.hpp \
+  /opt/local/include/boost/iterator.hpp /usr/include/c++/4.0.0/iterator \
+  /usr/include/c++/4.0.0/bits/stream_iterator.h \
+  /opt/local/include/boost/type_traits/conversion_traits.hpp \
+  /opt/local/include/boost/type_traits/is_same.hpp \
+  /opt/local/include/boost/mpl/assert.hpp \
+  /opt/local/include/boost/mpl/aux_/yes_no.hpp \
+  /opt/local/include/boost/mpl/aux_/config/arrays.hpp \
+  /opt/local/include/boost/mpl/aux_/config/pp_counter.hpp \
+  /opt/local/include/boost/detail/iterator.hpp \
+  /opt/local/include/boost/concept/usage.hpp \
+  /opt/local/include/boost/concept/detail/concept_def.hpp \
+  /opt/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /opt/local/include/boost/preprocessor/seq/seq.hpp \
+  /opt/local/include/boost/preprocessor/seq/elem.hpp \
+  /opt/local/include/boost/preprocessor/seq/size.hpp \
+  /opt/local/include/boost/preprocessor/seq/enum.hpp \
+  /opt/local/include/boost/concept/detail/concept_undef.hpp \
+  2geom/concepts.h 2geom/sbasis.h 2geom/linear.h 2geom/exception.h \
+  /usr/include/c++/4.0.0/sstream /usr/include/c++/4.0.0/bits/sstream.tcc \
+  2geom/forward.h 2geom/d2-sbasis.h 2geom/sbasis-2d.h 2geom/piecewise.h \
+  /usr/include/c++/4.0.0/map /usr/include/c++/4.0.0/bits/stl_tree.h \
+  /usr/include/c++/4.0.0/bits/stl_map.h \
+  /usr/include/c++/4.0.0/bits/stl_multimap.h ui/view/view.h message.h \
+  gc-managed.h gc-core.h /opt/local/include/gc.h \
+  /opt/local/include/gc/gc.h /opt/local/include/gc/gc_version.h \
+  /opt/local/include/gc/gc_config_macros.h gc-finalized.h gc-core.h \
+  gc-anchored.h gc-managed.h libnr/nr-forward.h \
+  ui/view/edit-widget-interface.h libnr/nr-point.h libnr/nr-coord.h \
+  libnr/nr-dim2.h decimal-round.h round.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/window.h \
+  /opt/local/include/glibmm-2.4/glibmm.h \
+  /opt/local/lib/glibmm-2.4/include/glibmmconfig.h \
+  /opt/local/include/glibmm-2.4/glibmm/arrayhandle.h \
+  /opt/local/include/glibmm-2.4/glibmm/containerhandle_shared.h \
+  /usr/include/c++/4.0.0/deque /usr/include/c++/4.0.0/bits/stl_deque.h \
+  /usr/include/c++/4.0.0/bits/deque.tcc \
+  /opt/local/include/glibmm-2.4/glibmm/refptr.h \
+  /opt/local/include/glibmm-2.4/glibmm/ustring.h \
+  /opt/local/include/glibmm-2.4/glibmm/unicode.h \
+  /opt/local/include/glibmm-2.4/glibmm/wrap.h \
+  /opt/local/include/glibmm-2.4/glibmm/objectbase.h \
+  /opt/local/include/glibmm-2.4/glibmm/signalproxy.h \
+  /opt/local/include/glibmm-2.4/glibmm/signalproxy_connectionnode.h \
+  /opt/local/include/glibmm-2.4/glibmm/propertyproxy.h \
+  /opt/local/include/glibmm-2.4/glibmm/propertyproxy_base.h \
+  /opt/local/include/glibmm-2.4/glibmm/value.h \
+  /opt/local/include/glibmm-2.4/glibmm/value_custom.h \
+  /opt/local/include/glibmm-2.4/glibmm/value_basictypes.h \
+  /opt/local/include/glibmm-2.4/glibmm/quark.h \
+  /opt/local/include/glibmm-2.4/glibmm/debug.h \
+  /opt/local/include/glibmm-2.4/glibmm/checksum.h \
+  /opt/local/include/glibmm-2.4/glibmm/class.h \
+  /opt/local/include/glibmm-2.4/glibmm/convert.h \
+  /opt/local/include/glibmm-2.4/glibmm/error.h \
+  /opt/local/include/glibmm-2.4/glibmm/exception.h \
+  /opt/local/include/glibmm-2.4/glibmm/date.h \
+  /opt/local/include/glibmm-2.4/glibmm/dispatcher.h \
+  /opt/local/include/glibmm-2.4/glibmm/main.h \
+  /opt/local/include/glibmm-2.4/glibmm/timeval.h \
+  /opt/local/include/glibmm-2.4/glibmm/priorities.h \
+  /opt/local/include/glibmm-2.4/glibmm/exceptionhandler.h \
+  /opt/local/include/glibmm-2.4/glibmm/fileutils.h \
+  /opt/local/include/glibmm-2.4/glibmm/helperlist.h \
+  /opt/local/include/glibmm-2.4/glibmm/containers.h \
+  /opt/local/include/glibmm-2.4/glibmm/sarray.h \
+  /opt/local/include/glibmm-2.4/glibmm/interface.h \
+  /opt/local/include/glibmm-2.4/glibmm/object.h \
+  /opt/local/include/glibmm-2.4/glibmm/utility.h \
+  /opt/local/include/glibmm-2.4/glibmm/iochannel.h \
+  /opt/local/include/glibmm-2.4/glibmm/init.h \
+  /opt/local/include/glibmm-2.4/glibmm/keyfile.h \
+  /opt/local/include/glibmm-2.4/glibmm/streamiochannel.h \
+  /opt/local/include/glibmm-2.4/glibmm/listhandle.h \
+  /opt/local/include/glibmm-2.4/glibmm/markup.h \
+  /opt/local/include/glibmm-2.4/glibmm/miscutils.h \
+  /opt/local/include/glibmm-2.4/glibmm/module.h \
+  /opt/local/include/glibmm-2.4/glibmm/nodetree.h \
+  /usr/include/c++/4.0.0/stack /usr/include/c++/4.0.0/bits/stl_stack.h \
+  /opt/local/include/glibmm-2.4/glibmm/optioncontext.h \
+  /opt/local/include/glibmm-2.4/glibmm/optionentry.h \
+  /opt/local/include/glibmm-2.4/glibmm/optiongroup.h \
+  /opt/local/include/glibmm-2.4/glibmm/pattern.h \
+  /opt/local/include/glibmm-2.4/glibmm/property.h \
+  /opt/local/include/glibmm-2.4/glibmm/random.h \
+  /opt/local/include/glibmm-2.4/glibmm/regex.h \
+  /opt/local/include/glibmm-2.4/glibmm/shell.h \
+  /opt/local/include/glibmm-2.4/glibmm/slisthandle.h \
+  /opt/local/include/glibmm-2.4/glibmm/spawn.h \
+  /opt/local/include/glibmm-2.4/glibmm/stringutils.h \
+  /opt/local/include/glibmm-2.4/glibmm/thread.h \
+  /opt/local/include/glibmm-2.4/glibmm/threadpool.h \
+  /opt/local/include/glibmm-2.4/glibmm/timer.h \
+  /opt/local/include/glibmm-2.4/glibmm/uriutils.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/bin.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/container.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/widget.h \
+  /opt/local/include/pangomm-1.4/pangomm/context.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontdescription.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontmetrics.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontset.h \
+  /opt/local/include/pangomm-1.4/pangomm/language.h \
+  /opt/local/include/pangomm-1.4/pangomm/font.h \
+  /opt/local/include/pangomm-1.4/pangomm/rectangle.h \
+  /opt/local/include/pangomm-1.4/pangomm/glyph.h \
+  /opt/local/include/pangomm-1.4/pangomm/coverage.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontmap.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontfamily.h \
+  /opt/local/include/pangomm-1.4/pangomm/fontface.h \
+  /opt/local/include/pangomm-1.4/pangomm/item.h \
+  /opt/local/include/pangomm-1.4/pangomm/attributes.h \
+  /opt/local/include/pangomm-1.4/pangomm/color.h \
+  /opt/local/include/pangomm-1.4/pangomm/attrlist.h \
+  /opt/local/include/pangomm-1.4/pangomm/attriter.h \
+  /opt/local/include/pangomm-1.4/pangomm/types.h \
+  /opt/local/include/cairomm-1.0/cairomm/context.h \
+  /opt/local/include/cairomm-1.0/cairomm/surface.h \
+  /opt/local/include/cairomm-1.0/cairomm/enums.h \
+  /opt/local/include/cairomm-1.0/cairomm/exception.h \
+  /usr/include/c++/4.0.0/stdexcept \
+  /opt/local/include/cairomm-1.0/cairomm/fontoptions.h \
+  /opt/local/include/cairomm-1.0/cairomm/refptr.h \
+  /opt/local/include/cairo/cairo-pdf.h /opt/local/include/cairo/cairo.h \
+  /opt/local/include/cairo/cairo-ps.h /opt/local/include/cairo/cairo.h \
+  /opt/local/include/cairo/cairo-svg.h /opt/local/include/cairo/cairo.h \
+  /opt/local/include/cairomm-1.0/cairomm/fontface.h \
+  /opt/local/include/cairomm-1.0/cairomm/pattern.h \
+  /opt/local/include/cairomm-1.0/cairomm/path.h \
+  /usr/include/c++/4.0.0/valarray /usr/include/c++/4.0.0/numeric \
+  /usr/include/c++/4.0.0/bits/stl_numeric.h \
+  /usr/include/c++/4.0.0/bits/valarray_array.h \
+  /usr/include/c++/4.0.0/bits/valarray_array.tcc \
+  /usr/include/c++/4.0.0/bits/valarray_before.h \
+  /usr/include/c++/4.0.0/bits/slice_array.h \
+  /usr/include/c++/4.0.0/bits/valarray_after.h \
+  /usr/include/c++/4.0.0/bits/gslice.h \
+  /usr/include/c++/4.0.0/bits/gslice_array.h \
+  /usr/include/c++/4.0.0/bits/mask_array.h \
+  /usr/include/c++/4.0.0/bits/indirect_array.h \
+  /opt/local/include/pangomm-1.4/pangomm/layout.h \
+  /opt/local/include/pangomm-1.4/pangomm/tabarray.h \
+  /opt/local/include/pangomm-1.4/pangomm/layoutline.h \
+  /opt/local/include/pangomm-1.4/pangomm/layoutiter.h \
+  /opt/local/include/pangomm-1.4/pangomm/layoutrun.h \
+  /opt/local/lib/gtkmm-2.4/include/gtkmmconfig.h \
+  /opt/local/lib/gdkmm-2.4/include/gdkmmconfig.h \
+  /opt/local/include/atkmm-1.6/atkmm/object.h \
+  /opt/local/include/atkmm-1.6/atkmm/component.h \
+  /opt/local/include/atkmm-1.6/atkmm/relation.h \
+  /opt/local/include/atkmm-1.6/atkmm/implementor.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/event.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/window.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/drawable.h \
+  /opt/local/include/gtk-2.0/gdk/gdkdrawable.h \
+  /opt/local/include/gtk-2.0/gdk/gdkgc.h \
+  /opt/local/include/gtk-2.0/gdk/gdkrgb.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-features.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-core.h \
+  /opt/local/include/glib-2.0/gio/gio.h \
+  /opt/local/include/glib-2.0/gio/giotypes.h \
+  /opt/local/include/glib-2.0/gio/gioenums.h \
+  /opt/local/include/glib-2.0/gio/gappinfo.h \
+  /opt/local/include/glib-2.0/gio/gasyncresult.h \
+  /opt/local/include/glib-2.0/gio/gbufferedinputstream.h \
+  /opt/local/include/glib-2.0/gio/gfilterinputstream.h \
+  /opt/local/include/glib-2.0/gio/ginputstream.h \
+  /opt/local/include/glib-2.0/gio/gbufferedoutputstream.h \
+  /opt/local/include/glib-2.0/gio/gfilteroutputstream.h \
+  /opt/local/include/glib-2.0/gio/goutputstream.h \
+  /opt/local/include/glib-2.0/gio/gcancellable.h \
+  /opt/local/include/glib-2.0/gio/gcontenttype.h \
+  /opt/local/include/glib-2.0/gio/gdatainputstream.h \
+  /opt/local/include/glib-2.0/gio/gdataoutputstream.h \
+  /opt/local/include/glib-2.0/gio/gdrive.h \
+  /opt/local/include/glib-2.0/gio/gemblemedicon.h \
+  /opt/local/include/glib-2.0/gio/gicon.h \
+  /opt/local/include/glib-2.0/gio/gemblem.h \
+  /opt/local/include/glib-2.0/gio/gfile.h \
+  /opt/local/include/glib-2.0/gio/gfileattribute.h \
+  /opt/local/include/glib-2.0/gio/gfileenumerator.h \
+  /opt/local/include/glib-2.0/gio/gfileicon.h \
+  /opt/local/include/glib-2.0/gio/gfileinfo.h \
+  /opt/local/include/glib-2.0/gio/gfileinputstream.h \
+  /opt/local/include/glib-2.0/gio/gfilemonitor.h \
+  /opt/local/include/glib-2.0/gio/gfilenamecompleter.h \
+  /opt/local/include/glib-2.0/gio/gfileoutputstream.h \
+  /opt/local/include/glib-2.0/gio/gioenumtypes.h \
+  /opt/local/include/glib-2.0/gio/gioerror.h \
+  /opt/local/include/glib-2.0/gio/giomodule.h \
+  /opt/local/include/glib-2.0/gmodule.h \
+  /opt/local/include/glib-2.0/gio/gioscheduler.h \
+  /opt/local/include/glib-2.0/gio/gloadableicon.h \
+  /opt/local/include/glib-2.0/gio/gmemoryinputstream.h \
+  /opt/local/include/glib-2.0/gio/gmemoryoutputstream.h \
+  /opt/local/include/glib-2.0/gio/gmount.h \
+  /opt/local/include/glib-2.0/gio/gmountoperation.h \
+  /opt/local/include/glib-2.0/gio/gnativevolumemonitor.h \
+  /opt/local/include/glib-2.0/gio/gvolumemonitor.h \
+  /opt/local/include/glib-2.0/gio/gseekable.h \
+  /opt/local/include/glib-2.0/gio/gsimpleasyncresult.h \
+  /opt/local/include/glib-2.0/gio/gthemedicon.h \
+  /opt/local/include/glib-2.0/gio/gvfs.h \
+  /opt/local/include/glib-2.0/gio/gvolume.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-transform.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-animation.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-simple-anim.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-io.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-loader.h \
+  /opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-enum-types.h \
+  /opt/local/include/pangomm-1.4/pangomm/glyphstring.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/gc.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/types.h \
+  /opt/local/include/gtk-2.0/gdk/gdk.h \
+  /opt/local/include/gtk-2.0/gdk/gdkapplaunchcontext.h \
+  /opt/local/include/gtk-2.0/gdk/gdkscreen.h \
+  /opt/local/include/gtk-2.0/gdk/gdkdisplay.h \
+  /opt/local/include/gtk-2.0/gdk/gdkcairo.h \
+  /opt/local/include/gtk-2.0/gdk/gdkpixbuf.h \
+  /opt/local/include/pango-1.0/pango/pangocairo.h \
+  /opt/local/include/gtk-2.0/gdk/gdkcursor.h \
+  /opt/local/include/gtk-2.0/gdk/gdkdisplaymanager.h \
+  /opt/local/include/gtk-2.0/gdk/gdkenumtypes.h \
+  /opt/local/include/gtk-2.0/gdk/gdkfont.h \
+  /opt/local/include/gtk-2.0/gdk/gdkimage.h \
+  /opt/local/include/gtk-2.0/gdk/gdkkeys.h \
+  /opt/local/include/gtk-2.0/gdk/gdkpango.h \
+  /opt/local/include/gtk-2.0/gdk/gdkpixmap.h \
+  /opt/local/include/gtk-2.0/gdk/gdkproperty.h \
+  /opt/local/include/gtk-2.0/gdk/gdkregion.h \
+  /opt/local/include/gtk-2.0/gdk/gdkselection.h \
+  /opt/local/include/gtk-2.0/gdk/gdkspawn.h \
+  /opt/local/include/gtk-2.0/gdk/gdktestutils.h \
+  /opt/local/include/gtk-2.0/gdk/gdkwindow.h \
+  /opt/local/include/gtk-2.0/gdk/gdkvisual.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/rectangle.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/region.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/screen.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/image.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/visual.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/colormap.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/color.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/rgbcmap.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/bitmap.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixmap.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/dragcontext.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixbuf.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixbufformat.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/stockid.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/enums.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/display.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/device.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/targetlist.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/targetentry.h \
+  /opt/local/include/gtk-2.0/gtk/gtkselection.h \
+  /opt/local/include/gtk-2.0/gtk/gtkenums.h \
+  /opt/local/include/gtk-2.0/gtk/gtkwidget.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaccelgroup.h \
+  /opt/local/include/gtk-2.0/gtk/gtkobject.h \
+  /opt/local/include/gtk-2.0/gtk/gtkdebug.h \
+  /opt/local/include/gtk-2.0/gtk/gtkadjustment.h \
+  /opt/local/include/gtk-2.0/gtk/gtkstyle.h \
+  /opt/local/include/gtk-2.0/gtk/gtksettings.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrc.h \
+  /opt/local/include/atk-1.0/atk/atk.h \
+  /opt/local/include/atk-1.0/atk/atkobject.h \
+  /opt/local/include/atk-1.0/atk/atkstate.h \
+  /opt/local/include/atk-1.0/atk/atkrelationtype.h \
+  /opt/local/include/atk-1.0/atk/atkaction.h \
+  /opt/local/include/atk-1.0/atk/atkcomponent.h \
+  /opt/local/include/atk-1.0/atk/atkutil.h \
+  /opt/local/include/atk-1.0/atk/atkdocument.h \
+  /opt/local/include/atk-1.0/atk/atkeditabletext.h \
+  /opt/local/include/atk-1.0/atk/atktext.h \
+  /opt/local/include/atk-1.0/atk/atkgobjectaccessible.h \
+  /opt/local/include/atk-1.0/atk/atkhyperlink.h \
+  /opt/local/include/atk-1.0/atk/atkhyperlinkimpl.h \
+  /opt/local/include/atk-1.0/atk/atkhypertext.h \
+  /opt/local/include/atk-1.0/atk/atkimage.h \
+  /opt/local/include/atk-1.0/atk/atknoopobject.h \
+  /opt/local/include/atk-1.0/atk/atknoopobjectfactory.h \
+  /opt/local/include/atk-1.0/atk/atkobjectfactory.h \
+  /opt/local/include/atk-1.0/atk/atkregistry.h \
+  /opt/local/include/atk-1.0/atk/atkobjectfactory.h \
+  /opt/local/include/atk-1.0/atk/atkrelation.h \
+  /opt/local/include/atk-1.0/atk/atkrelationset.h \
+  /opt/local/include/atk-1.0/atk/atkselection.h \
+  /opt/local/include/atk-1.0/atk/atkstateset.h \
+  /opt/local/include/atk-1.0/atk/atkstreamablecontent.h \
+  /opt/local/include/atk-1.0/atk/atktable.h \
+  /opt/local/include/atk-1.0/atk/atkmisc.h \
+  /opt/local/include/atk-1.0/atk/atkvalue.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextiter.h \
+  /opt/local/include/gtk-2.0/gtk/gtktexttag.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextchild.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/rc.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/style.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/object.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/base.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/iconsource.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/iconset.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/clipboard.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/selectiondata.h display/rendermode.h \
+  display/snap-indicator.h forward.h display/display-forward.h \
+  snapped-point.h libnr/nr-coord.h libnr/nr-point.h libnr/nr-values.h \
+  sp-item.h display/nr-arena-forward.h sp-object.h forward.h version.h \
+  util/forward-pointer-iterator.h traits/reference.h libnr/nr-rect.h \
+  libnr/nr-i-coord.h /opt/local/include/boost/optional.hpp \
+  libnr/nr-point-matrix-ops.h libnr/nr-matrix.h libnr/nr-rotate.h \
+  libnr/nr-point-fns.h libnr/nr-point-ops.h libnr/nr-macros.h \
+  libnr/nr-scale.h libnr/nr-translate.h libnr/nr-convert2geom.h \
+  2geom/transforms.h snap-preferences.h extension/print.h \
+  extension/extension.h /usr/include/c++/4.0.0/fstream \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/basic_file.h \
+  /usr/include/c++/4.0.0/bits/fstream.tcc \
+  /opt/local/include/gtkmm-2.4/gtkmm/box.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcontainer.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/table.h \
+  /opt/local/include/gtk-2.0/gtk/gtktable.h xml/repr.h xml/node.h \
+  util/list.h xml/xml-forward.h xml/document.h xml/sp-css-attr.h \
+  io/inkscapestream.h extension/extension-forward.h \
+  display/nr-arena-forward.h extension/system.h document.h \
+  /opt/local/include/gtk-2.0/gtk/gtksignal.h \
+  /opt/local/include/gtk-2.0/gtk/gtk.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaboutdialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkdialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkwindow.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbin.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaccellabel.h \
+  /opt/local/include/gtk-2.0/gtk/gtklabel.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmisc.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmenu.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmenushell.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaccelmap.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaccessible.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaction.h \
+  /opt/local/include/gtk-2.0/gtk/gtkactiongroup.h \
+  /opt/local/include/gtk-2.0/gtk/gtkalignment.h \
+  /opt/local/include/gtk-2.0/gtk/gtkarrow.h \
+  /opt/local/include/gtk-2.0/gtk/gtkaspectframe.h \
+  /opt/local/include/gtk-2.0/gtk/gtkframe.h \
+  /opt/local/include/gtk-2.0/gtk/gtkassistant.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbindings.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbuildable.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbuilder.h \
+  /opt/local/include/gtk-2.0/gtk/gtkbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkimage.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcalendar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcelleditable.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcelllayout.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrenderer.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreeviewcolumn.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreemodel.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreesortable.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrendereraccel.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrenderertext.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrenderercombo.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrendererpixbuf.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrendererprogress.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrendererspin.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellrenderertoggle.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcellview.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcheckbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtktogglebutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcheckmenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkclipboard.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcolorbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcolorsel.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcolorseldialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcombobox.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreeview.h \
+  /opt/local/include/gtk-2.0/gtk/gtkdnd.h \
+  /opt/local/include/gtk-2.0/gtk/gtkentry.h \
+  /opt/local/include/gtk-2.0/gtk/gtkeditable.h \
+  /opt/local/include/gtk-2.0/gtk/gtkimcontext.h \
+  /opt/local/include/gtk-2.0/gtk/gtkentrycompletion.h \
+  /opt/local/include/gtk-2.0/gtk/gtkliststore.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreemodelfilter.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcomboboxentry.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcurve.h \
+  /opt/local/include/gtk-2.0/gtk/gtkdrawingarea.h \
+  /opt/local/include/gtk-2.0/gtk/gtkeventbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkexpander.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfixed.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilechooser.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilefilter.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilechooserbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilechooserdialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilechooserwidget.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfontbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfontsel.h \
+  /opt/local/include/gtk-2.0/gtk/gtkgamma.h \
+  /opt/local/include/gtk-2.0/gtk/gtkgc.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhandlebox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhbbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhpaned.h \
+  /opt/local/include/gtk-2.0/gtk/gtkpaned.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhruler.h \
+  /opt/local/include/gtk-2.0/gtk/gtkruler.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhscale.h \
+  /opt/local/include/gtk-2.0/gtk/gtkscale.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrange.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhscrollbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkscrollbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhseparator.h \
+  /opt/local/include/gtk-2.0/gtk/gtkseparator.h \
+  /opt/local/include/gtk-2.0/gtk/gtkhsv.h \
+  /opt/local/include/gtk-2.0/gtk/gtkiconfactory.h \
+  /opt/local/include/gtk-2.0/gtk/gtkicontheme.h \
+  /opt/local/include/gtk-2.0/gtk/gtkiconview.h \
+  /opt/local/include/gtk-2.0/gtk/gtktooltip.h \
+  /opt/local/include/gtk-2.0/gtk/gtkimagemenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkimcontextsimple.h \
+  /opt/local/include/gtk-2.0/gtk/gtkimmulticontext.h \
+  /opt/local/include/gtk-2.0/gtk/gtkinputdialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkinvisible.h \
+  /opt/local/include/gtk-2.0/gtk/gtklayout.h \
+  /opt/local/include/gtk-2.0/gtk/gtklinkbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmain.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmenubar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmenutoolbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoolbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoolitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtktooltips.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmessagedialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmodules.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmountoperation.h \
+  /opt/local/include/gtk-2.0/gtk/gtknotebook.h \
+  /opt/local/include/gtk-2.0/gtk/gtkpagesetup.h \
+  /opt/local/include/gtk-2.0/gtk/gtkpapersize.h \
+  /opt/local/include/gtk-2.0/gtk/gtkplug.h \
+  /opt/local/include/gtk-2.0/gtk/gtksocket.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprintcontext.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprintoperation.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprintsettings.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprintoperationpreview.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprogressbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkprogress.h \
+  /opt/local/include/gtk-2.0/gtk/gtkradioaction.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoggleaction.h \
+  /opt/local/include/gtk-2.0/gtk/gtkradiobutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkradiomenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkradiotoolbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoggletoolbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentaction.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentmanager.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentchooser.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentfilter.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentchooserdialog.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentchoosermenu.h \
+  /opt/local/include/gtk-2.0/gtk/gtkrecentchooserwidget.h \
+  /opt/local/include/gtk-2.0/gtk/gtkscalebutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkscrolledwindow.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvscrollbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkviewport.h \
+  /opt/local/include/gtk-2.0/gtk/gtkseparatormenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkseparatortoolitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkshow.h \
+  /opt/local/include/gtk-2.0/gtk/gtksizegroup.h \
+  /opt/local/include/gtk-2.0/gtk/gtkspinbutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkstatusbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkstatusicon.h \
+  /opt/local/include/gtk-2.0/gtk/gtkstock.h \
+  /opt/local/include/gtk-2.0/gtk/gtktearoffmenuitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextbuffer.h \
+  /opt/local/include/gtk-2.0/gtk/gtktexttagtable.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextmark.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextbufferrichtext.h \
+  /opt/local/include/gtk-2.0/gtk/gtktextview.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoolbar.h \
+  /opt/local/include/gtk-2.0/gtk/gtkpixmap.h \
+  /opt/local/include/gtk-2.0/gtk/gtktoolshell.h \
+  /opt/local/include/gtk-2.0/gtk/gtktestutils.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreednd.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreemodelsort.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreeselection.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreestore.h \
+  /opt/local/include/gtk-2.0/gtk/gtkuimanager.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvbbox.h \
+  /opt/local/include/gtk-2.0/gtk/gtkversion.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvolumebutton.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvpaned.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvruler.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvscale.h \
+  /opt/local/include/gtk-2.0/gtk/gtkvseparator.h \
+  /opt/local/include/gtk-2.0/gtk/gtktext.h \
+  /opt/local/include/gtk-2.0/gtk/gtktree.h \
+  /opt/local/include/gtk-2.0/gtk/gtktreeitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkclist.h \
+  /opt/local/include/gtk-2.0/gtk/gtkcombo.h \
+  /opt/local/include/gtk-2.0/gtk/gtkctree.h \
+  /opt/local/include/gtk-2.0/gtk/gtkfilesel.h \
+  /opt/local/include/gtk-2.0/gtk/gtkitemfactory.h \
+  /opt/local/include/gtk-2.0/gtk/gtklist.h \
+  /opt/local/include/gtk-2.0/gtk/gtklistitem.h \
+  /opt/local/include/gtk-2.0/gtk/gtkoldeditable.h \
+  /opt/local/include/gtk-2.0/gtk/gtkoptionmenu.h \
+  /opt/local/include/gtk-2.0/gtk/gtkpreview.h \
+  /opt/local/include/gtk-2.0/gtk/gtktipsquery.h \
+  /opt/local/include/gtk-2.0/gtk/gtkmarshal.h \
+  /opt/local/include/sigc++-2.0/sigc++/class_slot.h \
+  /opt/local/include/sigc++-2.0/sigc++/slot.h libcroco/cr-cascade.h \
+  libcroco/cr-stylesheet.h libcroco/cr-utils.h libcroco/cr-statement.h \
+  libcroco/cr-term.h libcroco/cr-rgb.h libcroco/cr-parsing-location.h \
+  libcroco/cr-num.h libcroco/cr-string.h libcroco/cr-selector.h \
+  libcroco/cr-simple-sel.h libcroco/cr-additional-sel.h \
+  libcroco/cr-attr-sel.h libcroco/cr-pseudo.h libcroco/cr-declaration.h \
+  gc-managed.h gc-finalized.h gc-anchored.h verbs.h require-config.h \
+  helper/helper-forward.h forward.h /usr/include/c++/4.0.0/set \
+  /usr/include/c++/4.0.0/bits/stl_set.h \
+  /usr/include/c++/4.0.0/bits/stl_multiset.h extension/extension.h \
+  print.h /opt/local/include/gtkmm-2.4/gtkmm.h \
+  /opt/local/include/giomm-2.4/giomm.h \
+  /opt/local/include/giomm-2.4/giomm/appinfo.h \
+  /opt/local/include/giomm-2.4/giomm/icon.h \
+  /opt/local/include/giomm-2.4/giomm/asyncresult.h \
+  /opt/local/include/giomm-2.4/giomm/bufferedinputstream.h \
+  /opt/local/include/giomm-2.4/giomm/filterinputstream.h \
+  /opt/local/include/giomm-2.4/giomm/inputstream.h \
+  /opt/local/include/giomm-2.4/giomm/cancellable.h \
+  /opt/local/include/giomm-2.4/giomm/bufferedoutputstream.h \
+  /opt/local/include/giomm-2.4/giomm/filteroutputstream.h \
+  /opt/local/include/giomm-2.4/giomm/outputstream.h \
+  /opt/local/include/giomm-2.4/giomm/datainputstream.h \
+  /opt/local/include/giomm-2.4/giomm/enums.h \
+  /opt/local/include/giomm-2.4/giomm/dataoutputstream.h \
+  /opt/local/include/giomm-2.4/giomm/drive.h \
+  /opt/local/include/giomm-2.4/giomm/mount.h \
+  /opt/local/include/giomm-2.4/giomm/file.h \
+  /opt/local/include/giomm-2.4/giomm/fileattributeinfolist.h \
+  /opt/local/include/giomm-2.4/giomm/fileattributeinfo.h \
+  /opt/local/include/giomm-2.4/giomm/fileenumerator.h \
+  /opt/local/include/giomm-2.4/giomm/fileinfo.h \
+  /opt/local/include/giomm-2.4/giomm/fileinputstream.h \
+  /opt/local/include/giomm-2.4/giomm/seekable.h \
+  /opt/local/include/giomm-2.4/giomm/filemonitor.h \
+  /opt/local/include/giomm-2.4/giomm/fileoutputstream.h \
+  /opt/local/include/giomm-2.4/giomm/mountoperation.h \
+  /opt/local/include/giomm-2.4/giomm/error.h \
+  /opt/local/include/giomm-2.4/giomm/volume.h \
+  /opt/local/include/giomm-2.4/giomm/fileicon.h \
+  /opt/local/include/giomm-2.4/giomm/loadableicon.h \
+  /opt/local/include/giomm-2.4/giomm/init.h \
+  /opt/local/include/giomm-2.4/giomm/wrap_init.h \
+  /opt/local/include/giomm-2.4/giomm/memoryinputstream.h \
+  /opt/local/include/giomm-2.4/giomm/volumemonitor.h \
+  /opt/local/include/giomm-2.4/giomm/contenttype.h \
+  /opt/local/include/gdkmm-2.4/gdkmm.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixbufanimation.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixbufanimationiter.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/pixbufloader.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/cursor.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/displaymanager.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/general.h \
+  /opt/local/include/gdkmm-2.4/gdkmm/rgb.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/aboutdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/dialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/button.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/buttonbox.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/accelkey.h \
+  /opt/local/include/gtk-2.0/gdk/gdkkeysyms.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/accelgroup.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/adjustment.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/alignment.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/arrow.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/misc.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/aspectframe.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/frame.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/assistant.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/builder.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellview.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/celllayout.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrenderer.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/celleditable.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrenderer_generation.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrenderertext.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrendererpixbuf.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrenderertoggle.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrendereraccel.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treemodel.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treeiter.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treemodelcolumn.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treepath.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/checkbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/togglebutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/checkmenuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/item.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/accellabel.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/label.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrenderercombo.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrendererprogress.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/cellrendererspin.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/colorbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/colorselection.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/combo.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/entry.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/editable.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menu.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menushell.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menu_elems.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/imagemenuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/radiomenuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/radiobutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/radiobuttongroup.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/tearoffmenuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/separatormenuitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/entrycompletion.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/combobox.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treeview.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treeviewcolumn.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treeselection.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/tooltip.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/comboboxentry.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/comboboxentrytext.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/comboboxtext.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/curve.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/drawingarea.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/expander.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/eventbox.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/filechooser.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/filefilter.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/filechooserbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/filechooserdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/filechooserwidget.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/fileselection.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/optionmenu.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/fixed.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/fontbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/fontselection.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/handlebox.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/iconfactory.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/icontheme.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/iconinfo.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/iconview.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/image.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/inputdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/calendar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/invisible.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/layout.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/liststore.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treesortable.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treedragdest.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treedragsource.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/listviewtext.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/linkbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/main.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menubar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/messagedialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/notebook.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/paned.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/pagesetup.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/papersize.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/pagesetupunixdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printsettings.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printcontext.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printer.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printjob.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printoperation.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printoperationpreview.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/printunixdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/progressbar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/radioaction.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/toggleaction.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/action.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/radiotoolbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/toggletoolbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/toolbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/toolitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/tooltips.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/range.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentaction.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentchooser.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentinfo.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentfilter.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentmanager.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentchooserdialog.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentchoosermenu.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/recentchooserwidget.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/ruler.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/scale.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/scrollbar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/scrolledwindow.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/separator.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/separatortoolitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/settings.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/toolbar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/sizegroup.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/spinbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/statusbar.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/statusicon.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/stock.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/stockitem.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textbuffer.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/texttagtable.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/texttag.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textchildanchor.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textmark.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textiter.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textattributes.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/textview.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/menutoolbutton.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treemodelfilter.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treemodelsort.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treerowreference.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/treestore.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/uimanager.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/actiongroup.h \
+  /opt/local/include/gtkmm-2.4/gtkmm/viewport.h \
+  extension/extension-forward.h ui/dialog/print.h \
+  /opt/local/include/glibmm-2.4/glibmm/i18n.h \
+  /opt/local/include/glib-2.0/glib/gi18n.h /opt/local/include/libintl.h \
+  desktop.h sp-item.h ui/widget/rendering-options.h ui/widget/scalar.h \
+  ui/widget/labelled.h display/nr-arena.h display/rendermode.h \
+  libnr/nr-object.h display/nr-arena-forward.h sp-paint-server.h \
+  libnr/nr-pixblock.h libnr/nr-rect-l.h libnr/nr-point-l.h sp-object.h \
+  uri-references.h bad-uri-exception.h forward.h display/nr-arena-item.h \
+  gc-soft-ptr.h gc-core.h display/nr-filter.h \
+  display/nr-filter-primitive.h display/nr-filter-slot.h \
+  display/nr-filter-types.h display/nr-filter-units.h sp-filter-units.h \
+  svg/svg-length.h
+
+../config.h:
+
+inkscape.h:
+
+/usr/include/c++/4.0.0/list:
+
+/usr/include/c++/4.0.0/bits/functexcept.h:
+
+/usr/include/c++/4.0.0/exception_defines.h:
+
+/usr/include/c++/4.0.0/bits/stl_algobase.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h:
+
+/usr/include/c++/4.0.0/cstring:
+
+/usr/include/c++/4.0.0/cstddef:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/c++/4.0.0/climits:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/include/c++/4.0.0/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/available.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/alloca.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/c++/4.0.0/iosfwd:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++locale.h:
+
+/usr/include/c++/4.0.0/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/_locale.h:
+
+/usr/include/c++/4.0.0/cstdio:
+
+/usr/include/stdio.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++io.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/pthread_impl.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_select.h:
+
+/usr/include/c++/4.0.0/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/c++/4.0.0/bits/stringfwd.h:
+
+/usr/include/c++/4.0.0/bits/postypes.h:
+
+/usr/include/c++/4.0.0/cwchar:
+
+/usr/include/c++/4.0.0/ctime:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h:
+
+/usr/include/_wctype.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h:
+
+/usr/include/c++/4.0.0/bits/stl_pair.h:
+
+/usr/include/c++/4.0.0/bits/cpp_type_traits.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/4.0.0/bits/concept_check.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator.h:
+
+/usr/include/c++/4.0.0/debug/debug.h:
+
+/usr/include/c++/4.0.0/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/c++/4.0.0/bits/allocator.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++allocator.h:
+
+/usr/include/c++/4.0.0/ext/new_allocator.h:
+
+/usr/include/c++/4.0.0/new:
+
+/usr/include/c++/4.0.0/exception:
+
+/usr/include/c++/4.0.0/bits/stl_construct.h:
+
+/usr/include/c++/4.0.0/bits/stl_uninitialized.h:
+
+/usr/include/c++/4.0.0/bits/stl_list.h:
+
+/usr/include/c++/4.0.0/bits/list.tcc:
+
+/opt/local/include/glib-2.0/glib/gtypes.h:
+
+/opt/local/lib/glib-2.0/include/glibconfig.h:
+
+/opt/local/include/glib-2.0/glib/gmacros.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h:
+
+desktop.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkevents.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkcolor.h:
+
+/opt/local/include/cairo/cairo.h:
+
+/opt/local/include/cairo/cairo-version.h:
+
+/opt/local/include/cairo/cairo-features.h:
+
+/opt/local/include/cairo/cairo-deprecated.h:
+
+/opt/local/include/gtk-2.0/gdk/gdktypes.h:
+
+/opt/local/include/glib-2.0/glib.h:
+
+/opt/local/include/glib-2.0/glib/galloca.h:
+
+/opt/local/include/glib-2.0/glib/garray.h:
+
+/opt/local/include/glib-2.0/glib/gasyncqueue.h:
+
+/opt/local/include/glib-2.0/glib/gthread.h:
+
+/opt/local/include/glib-2.0/glib/gerror.h:
+
+/opt/local/include/glib-2.0/glib/gquark.h:
+
+/opt/local/include/glib-2.0/glib/gutils.h:
+
+/opt/local/include/glib-2.0/glib/gatomic.h:
+
+/opt/local/include/glib-2.0/glib/gbacktrace.h:
+
+/usr/include/signal.h:
+
+/opt/local/include/glib-2.0/glib/gbase64.h:
+
+/opt/local/include/glib-2.0/glib/gbookmarkfile.h:
+
+/opt/local/include/glib-2.0/glib/gcache.h:
+
+/opt/local/include/glib-2.0/glib/glist.h:
+
+/opt/local/include/glib-2.0/glib/gmem.h:
+
+/opt/local/include/glib-2.0/glib/gslice.h:
+
+/opt/local/include/glib-2.0/glib/gchecksum.h:
+
+/opt/local/include/glib-2.0/glib/gcompletion.h:
+
+/opt/local/include/glib-2.0/glib/gconvert.h:
+
+/opt/local/include/glib-2.0/glib/gdataset.h:
+
+/opt/local/include/glib-2.0/glib/gdate.h:
+
+/opt/local/include/glib-2.0/glib/gdir.h:
+
+/opt/local/include/glib-2.0/glib/gfileutils.h:
+
+/opt/local/include/glib-2.0/glib/ghash.h:
+
+/opt/local/include/glib-2.0/glib/ghook.h:
+
+/opt/local/include/glib-2.0/glib/giochannel.h:
+
+/opt/local/include/glib-2.0/glib/gmain.h:
+
+/opt/local/include/glib-2.0/glib/gslist.h:
+
+/opt/local/include/glib-2.0/glib/gstring.h:
+
+/opt/local/include/glib-2.0/glib/gunicode.h:
+
+/opt/local/include/glib-2.0/glib/gkeyfile.h:
+
+/opt/local/include/glib-2.0/glib/gmappedfile.h:
+
+/opt/local/include/glib-2.0/glib/gmarkup.h:
+
+/opt/local/include/glib-2.0/glib/gmessages.h:
+
+/opt/local/include/glib-2.0/glib/gnode.h:
+
+/opt/local/include/glib-2.0/glib/goption.h:
+
+/opt/local/include/glib-2.0/glib/gpattern.h:
+
+/opt/local/include/glib-2.0/glib/gprimes.h:
+
+/opt/local/include/glib-2.0/glib/gqsort.h:
+
+/opt/local/include/glib-2.0/glib/gqueue.h:
+
+/opt/local/include/glib-2.0/glib/grand.h:
+
+/opt/local/include/glib-2.0/glib/grel.h:
+
+/opt/local/include/glib-2.0/glib/gregex.h:
+
+/opt/local/include/glib-2.0/glib/gscanner.h:
+
+/opt/local/include/glib-2.0/glib/gsequence.h:
+
+/opt/local/include/glib-2.0/glib/gshell.h:
+
+/opt/local/include/glib-2.0/glib/gspawn.h:
+
+/opt/local/include/glib-2.0/glib/gstrfuncs.h:
+
+/opt/local/include/glib-2.0/glib/gtestutils.h:
+
+/opt/local/include/glib-2.0/glib/gthreadpool.h:
+
+/opt/local/include/glib-2.0/glib/gtimer.h:
+
+/opt/local/include/glib-2.0/glib/gtree.h:
+
+/opt/local/include/glib-2.0/glib/gurifuncs.h:
+
+/opt/local/include/pango-1.0/pango/pango.h:
+
+/opt/local/include/pango-1.0/pango/pango-attributes.h:
+
+/opt/local/include/pango-1.0/pango/pango-font.h:
+
+/opt/local/include/pango-1.0/pango/pango-coverage.h:
+
+/opt/local/include/pango-1.0/pango/pango-types.h:
+
+/opt/local/include/glib-2.0/glib-object.h:
+
+/opt/local/include/glib-2.0/gobject/gboxed.h:
+
+/opt/local/include/glib-2.0/gobject/gtype.h:
+
+/opt/local/include/glib-2.0/gobject/genums.h:
+
+/opt/local/include/glib-2.0/gobject/gobject.h:
+
+/opt/local/include/glib-2.0/gobject/gvalue.h:
+
+/opt/local/include/glib-2.0/gobject/gparam.h:
+
+/opt/local/include/glib-2.0/gobject/gclosure.h:
+
+/opt/local/include/glib-2.0/gobject/gsignal.h:
+
+/opt/local/include/glib-2.0/gobject/gmarshal.h:
+
+/opt/local/include/glib-2.0/gobject/gparamspecs.h:
+
+/opt/local/include/glib-2.0/gobject/gsourceclosure.h:
+
+/opt/local/include/glib-2.0/gobject/gtypemodule.h:
+
+/opt/local/include/glib-2.0/gobject/gtypeplugin.h:
+
+/opt/local/include/glib-2.0/gobject/gvaluearray.h:
+
+/opt/local/include/glib-2.0/gobject/gvaluetypes.h:
+
+/opt/local/include/pango-1.0/pango/pango-gravity.h:
+
+/opt/local/include/pango-1.0/pango/pango-matrix.h:
+
+/opt/local/include/pango-1.0/pango/pango-script.h:
+
+/opt/local/include/pango-1.0/pango/pango-language.h:
+
+/opt/local/include/pango-1.0/pango/pango-bidi-type.h:
+
+/opt/local/include/pango-1.0/pango/pango-break.h:
+
+/opt/local/include/pango-1.0/pango/pango-item.h:
+
+/opt/local/include/pango-1.0/pango/pango-context.h:
+
+/opt/local/include/pango-1.0/pango/pango-fontmap.h:
+
+/opt/local/include/pango-1.0/pango/pango-fontset.h:
+
+/opt/local/include/pango-1.0/pango/pango-engine.h:
+
+/opt/local/include/pango-1.0/pango/pango-glyph.h:
+
+/opt/local/include/pango-1.0/pango/pango-enum-types.h:
+
+/opt/local/include/pango-1.0/pango/pango-features.h:
+
+/opt/local/include/pango-1.0/pango/pango-glyph-item.h:
+
+/opt/local/include/pango-1.0/pango/pango-layout.h:
+
+/opt/local/include/pango-1.0/pango/pango-tabs.h:
+
+/opt/local/include/pango-1.0/pango/pango-renderer.h:
+
+/opt/local/include/pango-1.0/pango/pango-utils.h:
+
+/opt/local/lib/gtk-2.0/include/gdkconfig.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkdnd.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkinput.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktypeutils.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktypebuiltins.h:
+
+/opt/local/include/sigc++-2.0/sigc++/sigc++.h:
+
+/opt/local/include/sigc++-2.0/sigc++/signal.h:
+
+/opt/local/include/sigc++-2.0/sigc++/signal_base.h:
+
+/opt/local/lib/sigc++-2.0/include/sigc++config.h:
+
+/opt/local/include/sigc++-2.0/sigc++/type_traits.h:
+
+/opt/local/include/sigc++-2.0/sigc++/trackable.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/slot.h:
+
+/opt/local/include/sigc++-2.0/sigc++/visit_each.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/adaptor_trait.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/functor_trait.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/ptr_fun.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/mem_fun.h:
+
+/opt/local/include/sigc++-2.0/sigc++/limit_reference.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/deduce_result_type.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/slot_base.h:
+
+/opt/local/include/sigc++-2.0/sigc++/connection.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/adaptors.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/bind.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/bound_argument.h:
+
+/opt/local/include/sigc++-2.0/sigc++/reference_wrapper.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/bind_return.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/hide.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/retype_return.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/retype.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/compose.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/exception_catch.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/lambda.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/base.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/select.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/operator.h:
+
+/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda/group.h:
+
+/opt/local/include/sigc++-2.0/sigc++/functors/functors.h:
+
+2geom/matrix.h:
+
+2geom/point.h:
+
+/usr/include/c++/4.0.0/iostream:
+
+/usr/include/c++/4.0.0/ostream:
+
+/usr/include/c++/4.0.0/ios:
+
+/usr/include/c++/4.0.0/bits/char_traits.h:
+
+/usr/include/c++/4.0.0/bits/localefwd.h:
+
+/usr/include/c++/4.0.0/bits/ios_base.h:
+
+/usr/include/c++/4.0.0/bits/atomicity.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/atomic_word.h:
+
+/usr/include/c++/4.0.0/bits/locale_classes.h:
+
+/usr/include/c++/4.0.0/string:
+
+/usr/include/c++/4.0.0/memory:
+
+/usr/include/c++/4.0.0/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/4.0.0/limits:
+
+/usr/include/c++/4.0.0/bits/stl_function.h:
+
+/usr/include/c++/4.0.0/bits/basic_string.h:
+
+/usr/include/c++/4.0.0/algorithm:
+
+/usr/include/c++/4.0.0/bits/stl_algo.h:
+
+/usr/include/c++/4.0.0/bits/stl_heap.h:
+
+/usr/include/c++/4.0.0/bits/stl_tempbuf.h:
+
+/usr/include/c++/4.0.0/bits/basic_string.tcc:
+
+/usr/include/c++/4.0.0/streambuf:
+
+/usr/include/c++/4.0.0/bits/streambuf.tcc:
+
+/usr/include/c++/4.0.0/bits/basic_ios.h:
+
+/usr/include/c++/4.0.0/bits/streambuf_iterator.h:
+
+/usr/include/c++/4.0.0/bits/locale_facets.h:
+
+/usr/include/c++/4.0.0/cwctype:
+
+/usr/include/wctype.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_base.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_inline.h:
+
+/usr/include/c++/4.0.0/bits/codecvt.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/time_members.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/messages_members.h:
+
+/usr/include/c++/4.0.0/bits/basic_ios.tcc:
+
+/usr/include/c++/4.0.0/bits/ostream.tcc:
+
+/usr/include/c++/4.0.0/locale:
+
+/usr/include/c++/4.0.0/bits/locale_facets.tcc:
+
+/usr/include/c++/4.0.0/typeinfo:
+
+/usr/include/c++/4.0.0/istream:
+
+/usr/include/c++/4.0.0/bits/istream.tcc:
+
+2geom/coord.h:
+
+/usr/include/c++/4.0.0/cmath:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
+
+/usr/include/c++/4.0.0/bits/cmath.tcc:
+
+2geom/isnan.h:
+
+2geom/utils.h:
+
+/usr/include/c++/4.0.0/vector:
+
+/usr/include/c++/4.0.0/bits/stl_vector.h:
+
+/usr/include/c++/4.0.0/bits/stl_bvector.h:
+
+/usr/include/c++/4.0.0/bits/vector.tcc:
+
+2geom/rect.h:
+
+2geom/d2.h:
+
+2geom/interval.h:
+
+/opt/local/include/boost/optional/optional.hpp:
+
+/opt/local/include/boost/config.hpp:
+
+/opt/local/include/boost/config/user.hpp:
+
+/opt/local/include/boost/config/select_compiler_config.hpp:
+
+/opt/local/include/boost/config/compiler/gcc.hpp:
+
+/opt/local/include/boost/config/select_stdlib_config.hpp:
+
+/opt/local/include/boost/config/no_tr1/utility.hpp:
+
+/usr/include/c++/4.0.0/utility:
+
+/usr/include/c++/4.0.0/bits/stl_relops.h:
+
+/opt/local/include/boost/config/stdlib/libstdcpp3.hpp:
+
+/opt/local/include/boost/config/select_platform_config.hpp:
+
+/opt/local/include/boost/config/platform/macos.hpp:
+
+/opt/local/include/boost/config/posix_features.hpp:
+
+/opt/local/include/boost/config/suffix.hpp:
+
+/opt/local/include/boost/assert.hpp:
+
+/opt/local/include/boost/type.hpp:
+
+/opt/local/include/boost/type_traits/alignment_of.hpp:
+
+/opt/local/include/boost/type_traits/intrinsics.hpp:
+
+/opt/local/include/boost/type_traits/config.hpp:
+
+/opt/local/include/boost/detail/workaround.hpp:
+
+/opt/local/include/boost/type_traits/detail/size_t_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/template_arity_spec.hpp:
+
+/opt/local/include/boost/mpl/int.hpp:
+
+/opt/local/include/boost/mpl/int_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/adl_barrier.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/adl.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/msvc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/intel.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/gcc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/workaround.hpp:
+
+/opt/local/include/boost/mpl/aux_/nttp_decl.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/nttp.hpp:
+
+/opt/local/include/boost/mpl/aux_/integral_wrapper.hpp:
+
+/opt/local/include/boost/mpl/integral_c_tag.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/static_constant.hpp:
+
+/opt/local/include/boost/mpl/aux_/static_cast.hpp:
+
+/opt/local/include/boost/preprocessor/cat.hpp:
+
+/opt/local/include/boost/preprocessor/config/config.hpp:
+
+/opt/local/include/boost/mpl/aux_/template_arity_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/params.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/preprocessor.hpp:
+
+/opt/local/include/boost/preprocessor/comma_if.hpp:
+
+/opt/local/include/boost/preprocessor/punctuation/comma_if.hpp:
+
+/opt/local/include/boost/preprocessor/control/if.hpp:
+
+/opt/local/include/boost/preprocessor/control/iif.hpp:
+
+/opt/local/include/boost/preprocessor/logical/bool.hpp:
+
+/opt/local/include/boost/preprocessor/facilities/empty.hpp:
+
+/opt/local/include/boost/preprocessor/punctuation/comma.hpp:
+
+/opt/local/include/boost/preprocessor/repeat.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/repeat.hpp:
+
+/opt/local/include/boost/preprocessor/debug/error.hpp:
+
+/opt/local/include/boost/preprocessor/detail/auto_rec.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/eat.hpp:
+
+/opt/local/include/boost/preprocessor/inc.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/inc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/lambda.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/ttp.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/ctps.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/overload_resolution.hpp:
+
+/opt/local/include/boost/type_traits/integral_constant.hpp:
+
+/opt/local/include/boost/mpl/bool.hpp:
+
+/opt/local/include/boost/mpl/bool_fwd.hpp:
+
+/opt/local/include/boost/mpl/integral_c.hpp:
+
+/opt/local/include/boost/mpl/integral_c_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/lambda_support.hpp:
+
+/opt/local/include/boost/mpl/size_t.hpp:
+
+/opt/local/include/boost/mpl/size_t_fwd.hpp:
+
+/opt/local/include/boost/type_traits/detail/size_t_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/type_with_alignment.hpp:
+
+/opt/local/include/boost/mpl/if.hpp:
+
+/opt/local/include/boost/mpl/aux_/value_wknd.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/integral.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/eti.hpp:
+
+/opt/local/include/boost/mpl/aux_/na_spec.hpp:
+
+/opt/local/include/boost/mpl/lambda_fwd.hpp:
+
+/opt/local/include/boost/mpl/void_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/na.hpp:
+
+/opt/local/include/boost/mpl/aux_/na_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/lambda_arity_param.hpp:
+
+/opt/local/include/boost/mpl/aux_/arity.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/dtp.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/enum.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+
+/opt/local/include/boost/mpl/limits/arity.hpp:
+
+/opt/local/include/boost/preprocessor/logical/and.hpp:
+
+/opt/local/include/boost/preprocessor/logical/bitand.hpp:
+
+/opt/local/include/boost/preprocessor/identity.hpp:
+
+/opt/local/include/boost/preprocessor/facilities/identity.hpp:
+
+/opt/local/include/boost/preprocessor/empty.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/add.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/dec.hpp:
+
+/opt/local/include/boost/preprocessor/control/while.hpp:
+
+/opt/local/include/boost/preprocessor/list/fold_left.hpp:
+
+/opt/local/include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/opt/local/include/boost/preprocessor/control/expr_iif.hpp:
+
+/opt/local/include/boost/preprocessor/list/adt.hpp:
+
+/opt/local/include/boost/preprocessor/detail/is_binary.hpp:
+
+/opt/local/include/boost/preprocessor/detail/check.hpp:
+
+/opt/local/include/boost/preprocessor/logical/compl.hpp:
+
+/opt/local/include/boost/preprocessor/list/fold_right.hpp:
+
+/opt/local/include/boost/preprocessor/list/detail/fold_right.hpp:
+
+/opt/local/include/boost/preprocessor/list/reverse.hpp:
+
+/opt/local/include/boost/preprocessor/control/detail/while.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/elem.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/sub.hpp:
+
+/opt/local/include/boost/preprocessor/list/for_each_i.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/for.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/detail/for.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/rem.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/to_list.hpp:
+
+/opt/local/include/boost/preprocessor/list/transform.hpp:
+
+/opt/local/include/boost/preprocessor/list/append.hpp:
+
+/opt/local/include/boost/type_traits/is_pod.hpp:
+
+/opt/local/include/boost/type_traits/is_void.hpp:
+
+/opt/local/include/boost/type_traits/detail/bool_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/bool_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/is_scalar.hpp:
+
+/opt/local/include/boost/type_traits/is_arithmetic.hpp:
+
+/opt/local/include/boost/type_traits/is_integral.hpp:
+
+/opt/local/include/boost/type_traits/is_float.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_or.hpp:
+
+/opt/local/include/boost/type_traits/is_enum.hpp:
+
+/opt/local/include/boost/type_traits/add_reference.hpp:
+
+/opt/local/include/boost/type_traits/is_reference.hpp:
+
+/opt/local/include/boost/type_traits/detail/type_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/type_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/is_convertible.hpp:
+
+/opt/local/include/boost/type_traits/detail/yes_no_type.hpp:
+
+/opt/local/include/boost/type_traits/is_array.hpp:
+
+/opt/local/include/boost/type_traits/ice.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_and.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_not.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_eq.hpp:
+
+/opt/local/include/boost/type_traits/is_abstract.hpp:
+
+/opt/local/include/boost/static_assert.hpp:
+
+/opt/local/include/boost/type_traits/is_class.hpp:
+
+/opt/local/include/boost/type_traits/is_union.hpp:
+
+/opt/local/include/boost/type_traits/remove_cv.hpp:
+
+/opt/local/include/boost/type_traits/broken_compiler_spec.hpp:
+
+/opt/local/include/boost/type_traits/detail/cv_traits_impl.hpp:
+
+/opt/local/include/boost/type_traits/is_function.hpp:
+
+/opt/local/include/boost/type_traits/detail/false_result.hpp:
+
+/opt/local/include/boost/type_traits/detail/is_function_ptr_helper.hpp:
+
+/opt/local/include/boost/type_traits/is_pointer.hpp:
+
+/opt/local/include/boost/type_traits/is_member_pointer.hpp:
+
+/opt/local/include/boost/type_traits/is_member_function_pointer.hpp:
+
+/opt/local/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/opt/local/include/boost/type_traits/remove_reference.hpp:
+
+/opt/local/include/boost/mpl/not.hpp:
+
+/opt/local/include/boost/mpl/aux_/nested_type_wknd.hpp:
+
+/opt/local/include/boost/detail/reference_content.hpp:
+
+/opt/local/include/boost/type_traits/has_nothrow_copy.hpp:
+
+/opt/local/include/boost/type_traits/has_trivial_copy.hpp:
+
+/opt/local/include/boost/type_traits/is_volatile.hpp:
+
+/opt/local/include/boost/mpl/void.hpp:
+
+/opt/local/include/boost/none.hpp:
+
+/opt/local/include/boost/none_t.hpp:
+
+/opt/local/include/boost/utility/compare_pointees.hpp:
+
+/usr/include/c++/4.0.0/functional:
+
+/opt/local/include/boost/optional/optional_fwd.hpp:
+
+/opt/local/include/boost/concept_check.hpp:
+
+/opt/local/include/boost/concept/assert.hpp:
+
+/opt/local/include/boost/concept/detail/general.hpp:
+
+/opt/local/include/boost/concept/detail/has_constraints.hpp:
+
+/opt/local/include/boost/iterator.hpp:
+
+/usr/include/c++/4.0.0/iterator:
+
+/usr/include/c++/4.0.0/bits/stream_iterator.h:
+
+/opt/local/include/boost/type_traits/conversion_traits.hpp:
+
+/opt/local/include/boost/type_traits/is_same.hpp:
+
+/opt/local/include/boost/mpl/assert.hpp:
+
+/opt/local/include/boost/mpl/aux_/yes_no.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/arrays.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/pp_counter.hpp:
+
+/opt/local/include/boost/detail/iterator.hpp:
+
+/opt/local/include/boost/concept/usage.hpp:
+
+/opt/local/include/boost/concept/detail/concept_def.hpp:
+
+/opt/local/include/boost/preprocessor/seq/for_each_i.hpp:
+
+/opt/local/include/boost/preprocessor/seq/seq.hpp:
+
+/opt/local/include/boost/preprocessor/seq/elem.hpp:
+
+/opt/local/include/boost/preprocessor/seq/size.hpp:
+
+/opt/local/include/boost/preprocessor/seq/enum.hpp:
+
+/opt/local/include/boost/concept/detail/concept_undef.hpp:
+
+2geom/concepts.h:
+
+2geom/sbasis.h:
+
+2geom/linear.h:
+
+2geom/exception.h:
+
+/usr/include/c++/4.0.0/sstream:
+
+/usr/include/c++/4.0.0/bits/sstream.tcc:
+
+2geom/forward.h:
+
+2geom/d2-sbasis.h:
+
+2geom/sbasis-2d.h:
+
+2geom/piecewise.h:
+
+/usr/include/c++/4.0.0/map:
+
+/usr/include/c++/4.0.0/bits/stl_tree.h:
+
+/usr/include/c++/4.0.0/bits/stl_map.h:
+
+/usr/include/c++/4.0.0/bits/stl_multimap.h:
+
+ui/view/view.h:
+
+message.h:
+
+gc-managed.h:
+
+gc-core.h:
+
+/opt/local/include/gc.h:
+
+/opt/local/include/gc/gc.h:
+
+/opt/local/include/gc/gc_version.h:
+
+/opt/local/include/gc/gc_config_macros.h:
+
+gc-finalized.h:
+
+gc-core.h:
+
+gc-anchored.h:
+
+gc-managed.h:
+
+libnr/nr-forward.h:
+
+ui/view/edit-widget-interface.h:
+
+libnr/nr-point.h:
+
+libnr/nr-coord.h:
+
+libnr/nr-dim2.h:
+
+decimal-round.h:
+
+round.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/window.h:
+
+/opt/local/include/glibmm-2.4/glibmm.h:
+
+/opt/local/lib/glibmm-2.4/include/glibmmconfig.h:
+
+/opt/local/include/glibmm-2.4/glibmm/arrayhandle.h:
+
+/opt/local/include/glibmm-2.4/glibmm/containerhandle_shared.h:
+
+/usr/include/c++/4.0.0/deque:
+
+/usr/include/c++/4.0.0/bits/stl_deque.h:
+
+/usr/include/c++/4.0.0/bits/deque.tcc:
+
+/opt/local/include/glibmm-2.4/glibmm/refptr.h:
+
+/opt/local/include/glibmm-2.4/glibmm/ustring.h:
+
+/opt/local/include/glibmm-2.4/glibmm/unicode.h:
+
+/opt/local/include/glibmm-2.4/glibmm/wrap.h:
+
+/opt/local/include/glibmm-2.4/glibmm/objectbase.h:
+
+/opt/local/include/glibmm-2.4/glibmm/signalproxy.h:
+
+/opt/local/include/glibmm-2.4/glibmm/signalproxy_connectionnode.h:
+
+/opt/local/include/glibmm-2.4/glibmm/propertyproxy.h:
+
+/opt/local/include/glibmm-2.4/glibmm/propertyproxy_base.h:
+
+/opt/local/include/glibmm-2.4/glibmm/value.h:
+
+/opt/local/include/glibmm-2.4/glibmm/value_custom.h:
+
+/opt/local/include/glibmm-2.4/glibmm/value_basictypes.h:
+
+/opt/local/include/glibmm-2.4/glibmm/quark.h:
+
+/opt/local/include/glibmm-2.4/glibmm/debug.h:
+
+/opt/local/include/glibmm-2.4/glibmm/checksum.h:
+
+/opt/local/include/glibmm-2.4/glibmm/class.h:
+
+/opt/local/include/glibmm-2.4/glibmm/convert.h:
+
+/opt/local/include/glibmm-2.4/glibmm/error.h:
+
+/opt/local/include/glibmm-2.4/glibmm/exception.h:
+
+/opt/local/include/glibmm-2.4/glibmm/date.h:
+
+/opt/local/include/glibmm-2.4/glibmm/dispatcher.h:
+
+/opt/local/include/glibmm-2.4/glibmm/main.h:
+
+/opt/local/include/glibmm-2.4/glibmm/timeval.h:
+
+/opt/local/include/glibmm-2.4/glibmm/priorities.h:
+
+/opt/local/include/glibmm-2.4/glibmm/exceptionhandler.h:
+
+/opt/local/include/glibmm-2.4/glibmm/fileutils.h:
+
+/opt/local/include/glibmm-2.4/glibmm/helperlist.h:
+
+/opt/local/include/glibmm-2.4/glibmm/containers.h:
+
+/opt/local/include/glibmm-2.4/glibmm/sarray.h:
+
+/opt/local/include/glibmm-2.4/glibmm/interface.h:
+
+/opt/local/include/glibmm-2.4/glibmm/object.h:
+
+/opt/local/include/glibmm-2.4/glibmm/utility.h:
+
+/opt/local/include/glibmm-2.4/glibmm/iochannel.h:
+
+/opt/local/include/glibmm-2.4/glibmm/init.h:
+
+/opt/local/include/glibmm-2.4/glibmm/keyfile.h:
+
+/opt/local/include/glibmm-2.4/glibmm/streamiochannel.h:
+
+/opt/local/include/glibmm-2.4/glibmm/listhandle.h:
+
+/opt/local/include/glibmm-2.4/glibmm/markup.h:
+
+/opt/local/include/glibmm-2.4/glibmm/miscutils.h:
+
+/opt/local/include/glibmm-2.4/glibmm/module.h:
+
+/opt/local/include/glibmm-2.4/glibmm/nodetree.h:
+
+/usr/include/c++/4.0.0/stack:
+
+/usr/include/c++/4.0.0/bits/stl_stack.h:
+
+/opt/local/include/glibmm-2.4/glibmm/optioncontext.h:
+
+/opt/local/include/glibmm-2.4/glibmm/optionentry.h:
+
+/opt/local/include/glibmm-2.4/glibmm/optiongroup.h:
+
+/opt/local/include/glibmm-2.4/glibmm/pattern.h:
+
+/opt/local/include/glibmm-2.4/glibmm/property.h:
+
+/opt/local/include/glibmm-2.4/glibmm/random.h:
+
+/opt/local/include/glibmm-2.4/glibmm/regex.h:
+
+/opt/local/include/glibmm-2.4/glibmm/shell.h:
+
+/opt/local/include/glibmm-2.4/glibmm/slisthandle.h:
+
+/opt/local/include/glibmm-2.4/glibmm/spawn.h:
+
+/opt/local/include/glibmm-2.4/glibmm/stringutils.h:
+
+/opt/local/include/glibmm-2.4/glibmm/thread.h:
+
+/opt/local/include/glibmm-2.4/glibmm/threadpool.h:
+
+/opt/local/include/glibmm-2.4/glibmm/timer.h:
+
+/opt/local/include/glibmm-2.4/glibmm/uriutils.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/bin.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/container.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/widget.h:
+
+/opt/local/include/pangomm-1.4/pangomm/context.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontdescription.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontmetrics.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontset.h:
+
+/opt/local/include/pangomm-1.4/pangomm/language.h:
+
+/opt/local/include/pangomm-1.4/pangomm/font.h:
+
+/opt/local/include/pangomm-1.4/pangomm/rectangle.h:
+
+/opt/local/include/pangomm-1.4/pangomm/glyph.h:
+
+/opt/local/include/pangomm-1.4/pangomm/coverage.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontmap.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontfamily.h:
+
+/opt/local/include/pangomm-1.4/pangomm/fontface.h:
+
+/opt/local/include/pangomm-1.4/pangomm/item.h:
+
+/opt/local/include/pangomm-1.4/pangomm/attributes.h:
+
+/opt/local/include/pangomm-1.4/pangomm/color.h:
+
+/opt/local/include/pangomm-1.4/pangomm/attrlist.h:
+
+/opt/local/include/pangomm-1.4/pangomm/attriter.h:
+
+/opt/local/include/pangomm-1.4/pangomm/types.h:
+
+/opt/local/include/cairomm-1.0/cairomm/context.h:
+
+/opt/local/include/cairomm-1.0/cairomm/surface.h:
+
+/opt/local/include/cairomm-1.0/cairomm/enums.h:
+
+/opt/local/include/cairomm-1.0/cairomm/exception.h:
+
+/usr/include/c++/4.0.0/stdexcept:
+
+/opt/local/include/cairomm-1.0/cairomm/fontoptions.h:
+
+/opt/local/include/cairomm-1.0/cairomm/refptr.h:
+
+/opt/local/include/cairo/cairo-pdf.h:
+
+/opt/local/include/cairo/cairo.h:
+
+/opt/local/include/cairo/cairo-ps.h:
+
+/opt/local/include/cairo/cairo.h:
+
+/opt/local/include/cairo/cairo-svg.h:
+
+/opt/local/include/cairo/cairo.h:
+
+/opt/local/include/cairomm-1.0/cairomm/fontface.h:
+
+/opt/local/include/cairomm-1.0/cairomm/pattern.h:
+
+/opt/local/include/cairomm-1.0/cairomm/path.h:
+
+/usr/include/c++/4.0.0/valarray:
+
+/usr/include/c++/4.0.0/numeric:
+
+/usr/include/c++/4.0.0/bits/stl_numeric.h:
+
+/usr/include/c++/4.0.0/bits/valarray_array.h:
+
+/usr/include/c++/4.0.0/bits/valarray_array.tcc:
+
+/usr/include/c++/4.0.0/bits/valarray_before.h:
+
+/usr/include/c++/4.0.0/bits/slice_array.h:
+
+/usr/include/c++/4.0.0/bits/valarray_after.h:
+
+/usr/include/c++/4.0.0/bits/gslice.h:
+
+/usr/include/c++/4.0.0/bits/gslice_array.h:
+
+/usr/include/c++/4.0.0/bits/mask_array.h:
+
+/usr/include/c++/4.0.0/bits/indirect_array.h:
+
+/opt/local/include/pangomm-1.4/pangomm/layout.h:
+
+/opt/local/include/pangomm-1.4/pangomm/tabarray.h:
+
+/opt/local/include/pangomm-1.4/pangomm/layoutline.h:
+
+/opt/local/include/pangomm-1.4/pangomm/layoutiter.h:
+
+/opt/local/include/pangomm-1.4/pangomm/layoutrun.h:
+
+/opt/local/lib/gtkmm-2.4/include/gtkmmconfig.h:
+
+/opt/local/lib/gdkmm-2.4/include/gdkmmconfig.h:
+
+/opt/local/include/atkmm-1.6/atkmm/object.h:
+
+/opt/local/include/atkmm-1.6/atkmm/component.h:
+
+/opt/local/include/atkmm-1.6/atkmm/relation.h:
+
+/opt/local/include/atkmm-1.6/atkmm/implementor.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/event.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/window.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/drawable.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkdrawable.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkgc.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkrgb.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-features.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-core.h:
+
+/opt/local/include/glib-2.0/gio/gio.h:
+
+/opt/local/include/glib-2.0/gio/giotypes.h:
+
+/opt/local/include/glib-2.0/gio/gioenums.h:
+
+/opt/local/include/glib-2.0/gio/gappinfo.h:
+
+/opt/local/include/glib-2.0/gio/gasyncresult.h:
+
+/opt/local/include/glib-2.0/gio/gbufferedinputstream.h:
+
+/opt/local/include/glib-2.0/gio/gfilterinputstream.h:
+
+/opt/local/include/glib-2.0/gio/ginputstream.h:
+
+/opt/local/include/glib-2.0/gio/gbufferedoutputstream.h:
+
+/opt/local/include/glib-2.0/gio/gfilteroutputstream.h:
+
+/opt/local/include/glib-2.0/gio/goutputstream.h:
+
+/opt/local/include/glib-2.0/gio/gcancellable.h:
+
+/opt/local/include/glib-2.0/gio/gcontenttype.h:
+
+/opt/local/include/glib-2.0/gio/gdatainputstream.h:
+
+/opt/local/include/glib-2.0/gio/gdataoutputstream.h:
+
+/opt/local/include/glib-2.0/gio/gdrive.h:
+
+/opt/local/include/glib-2.0/gio/gemblemedicon.h:
+
+/opt/local/include/glib-2.0/gio/gicon.h:
+
+/opt/local/include/glib-2.0/gio/gemblem.h:
+
+/opt/local/include/glib-2.0/gio/gfile.h:
+
+/opt/local/include/glib-2.0/gio/gfileattribute.h:
+
+/opt/local/include/glib-2.0/gio/gfileenumerator.h:
+
+/opt/local/include/glib-2.0/gio/gfileicon.h:
+
+/opt/local/include/glib-2.0/gio/gfileinfo.h:
+
+/opt/local/include/glib-2.0/gio/gfileinputstream.h:
+
+/opt/local/include/glib-2.0/gio/gfilemonitor.h:
+
+/opt/local/include/glib-2.0/gio/gfilenamecompleter.h:
+
+/opt/local/include/glib-2.0/gio/gfileoutputstream.h:
+
+/opt/local/include/glib-2.0/gio/gioenumtypes.h:
+
+/opt/local/include/glib-2.0/gio/gioerror.h:
+
+/opt/local/include/glib-2.0/gio/giomodule.h:
+
+/opt/local/include/glib-2.0/gmodule.h:
+
+/opt/local/include/glib-2.0/gio/gioscheduler.h:
+
+/opt/local/include/glib-2.0/gio/gloadableicon.h:
+
+/opt/local/include/glib-2.0/gio/gmemoryinputstream.h:
+
+/opt/local/include/glib-2.0/gio/gmemoryoutputstream.h:
+
+/opt/local/include/glib-2.0/gio/gmount.h:
+
+/opt/local/include/glib-2.0/gio/gmountoperation.h:
+
+/opt/local/include/glib-2.0/gio/gnativevolumemonitor.h:
+
+/opt/local/include/glib-2.0/gio/gvolumemonitor.h:
+
+/opt/local/include/glib-2.0/gio/gseekable.h:
+
+/opt/local/include/glib-2.0/gio/gsimpleasyncresult.h:
+
+/opt/local/include/glib-2.0/gio/gthemedicon.h:
+
+/opt/local/include/glib-2.0/gio/gvfs.h:
+
+/opt/local/include/glib-2.0/gio/gvolume.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-transform.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-animation.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-simple-anim.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-io.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-loader.h:
+
+/opt/local/include/gtk-2.0/gdk-pixbuf/gdk-pixbuf-enum-types.h:
+
+/opt/local/include/pangomm-1.4/pangomm/glyphstring.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/gc.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/types.h:
+
+/opt/local/include/gtk-2.0/gdk/gdk.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkapplaunchcontext.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkscreen.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkdisplay.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkcairo.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkpixbuf.h:
+
+/opt/local/include/pango-1.0/pango/pangocairo.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkcursor.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkdisplaymanager.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkenumtypes.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkfont.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkimage.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkkeys.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkpango.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkpixmap.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkproperty.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkregion.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkselection.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkspawn.h:
+
+/opt/local/include/gtk-2.0/gdk/gdktestutils.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkwindow.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkvisual.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/rectangle.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/region.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/screen.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/image.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/visual.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/colormap.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/color.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/rgbcmap.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/bitmap.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixmap.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/dragcontext.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixbuf.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixbufformat.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/stockid.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/enums.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/display.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/device.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/targetlist.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/targetentry.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkselection.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkenums.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkwidget.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaccelgroup.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkobject.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkdebug.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkadjustment.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkstyle.h:
+
+/opt/local/include/gtk-2.0/gtk/gtksettings.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrc.h:
+
+/opt/local/include/atk-1.0/atk/atk.h:
+
+/opt/local/include/atk-1.0/atk/atkobject.h:
+
+/opt/local/include/atk-1.0/atk/atkstate.h:
+
+/opt/local/include/atk-1.0/atk/atkrelationtype.h:
+
+/opt/local/include/atk-1.0/atk/atkaction.h:
+
+/opt/local/include/atk-1.0/atk/atkcomponent.h:
+
+/opt/local/include/atk-1.0/atk/atkutil.h:
+
+/opt/local/include/atk-1.0/atk/atkdocument.h:
+
+/opt/local/include/atk-1.0/atk/atkeditabletext.h:
+
+/opt/local/include/atk-1.0/atk/atktext.h:
+
+/opt/local/include/atk-1.0/atk/atkgobjectaccessible.h:
+
+/opt/local/include/atk-1.0/atk/atkhyperlink.h:
+
+/opt/local/include/atk-1.0/atk/atkhyperlinkimpl.h:
+
+/opt/local/include/atk-1.0/atk/atkhypertext.h:
+
+/opt/local/include/atk-1.0/atk/atkimage.h:
+
+/opt/local/include/atk-1.0/atk/atknoopobject.h:
+
+/opt/local/include/atk-1.0/atk/atknoopobjectfactory.h:
+
+/opt/local/include/atk-1.0/atk/atkobjectfactory.h:
+
+/opt/local/include/atk-1.0/atk/atkregistry.h:
+
+/opt/local/include/atk-1.0/atk/atkobjectfactory.h:
+
+/opt/local/include/atk-1.0/atk/atkrelation.h:
+
+/opt/local/include/atk-1.0/atk/atkrelationset.h:
+
+/opt/local/include/atk-1.0/atk/atkselection.h:
+
+/opt/local/include/atk-1.0/atk/atkstateset.h:
+
+/opt/local/include/atk-1.0/atk/atkstreamablecontent.h:
+
+/opt/local/include/atk-1.0/atk/atktable.h:
+
+/opt/local/include/atk-1.0/atk/atkmisc.h:
+
+/opt/local/include/atk-1.0/atk/atkvalue.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextiter.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktexttag.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextchild.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/rc.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/style.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/object.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/base.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/iconsource.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/iconset.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/clipboard.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/selectiondata.h:
+
+display/rendermode.h:
+
+display/snap-indicator.h:
+
+forward.h:
+
+display/display-forward.h:
+
+snapped-point.h:
+
+libnr/nr-coord.h:
+
+libnr/nr-point.h:
+
+libnr/nr-values.h:
+
+sp-item.h:
+
+display/nr-arena-forward.h:
+
+sp-object.h:
+
+forward.h:
+
+version.h:
+
+util/forward-pointer-iterator.h:
+
+traits/reference.h:
+
+libnr/nr-rect.h:
+
+libnr/nr-i-coord.h:
+
+/opt/local/include/boost/optional.hpp:
+
+libnr/nr-point-matrix-ops.h:
+
+libnr/nr-matrix.h:
+
+libnr/nr-rotate.h:
+
+libnr/nr-point-fns.h:
+
+libnr/nr-point-ops.h:
+
+libnr/nr-macros.h:
+
+libnr/nr-scale.h:
+
+libnr/nr-translate.h:
+
+libnr/nr-convert2geom.h:
+
+2geom/transforms.h:
+
+snap-preferences.h:
+
+extension/print.h:
+
+extension/extension.h:
+
+/usr/include/c++/4.0.0/fstream:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/basic_file.h:
+
+/usr/include/c++/4.0.0/bits/fstream.tcc:
+
+/opt/local/include/gtkmm-2.4/gtkmm/box.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcontainer.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/table.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktable.h:
+
+xml/repr.h:
+
+xml/node.h:
+
+util/list.h:
+
+xml/xml-forward.h:
+
+xml/document.h:
+
+xml/sp-css-attr.h:
+
+io/inkscapestream.h:
+
+extension/extension-forward.h:
+
+display/nr-arena-forward.h:
+
+extension/system.h:
+
+document.h:
+
+/opt/local/include/gtk-2.0/gtk/gtksignal.h:
+
+/opt/local/include/gtk-2.0/gtk/gtk.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaboutdialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkdialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkwindow.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbin.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaccellabel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtklabel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmisc.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmenu.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmenushell.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaccelmap.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaccessible.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaction.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkactiongroup.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkalignment.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkarrow.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkaspectframe.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkframe.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkassistant.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbindings.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbuildable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbuilder.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkimage.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcalendar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcelleditable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcelllayout.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrenderer.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreeviewcolumn.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreemodel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreesortable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrendereraccel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrenderertext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrenderercombo.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrendererpixbuf.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrendererprogress.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrendererspin.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellrenderertoggle.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcellview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcheckbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktogglebutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcheckmenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkclipboard.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcolorbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcolorsel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcolorseldialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcombobox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreeview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkdnd.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkentry.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkeditable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkimcontext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkentrycompletion.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkliststore.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreemodelfilter.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcomboboxentry.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcurve.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkdrawingarea.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkeventbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkexpander.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfixed.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilechooser.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilefilter.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilechooserbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilechooserdialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilechooserwidget.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfontbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfontsel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkgamma.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkgc.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhandlebox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhbbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhpaned.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkpaned.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhruler.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkruler.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhscale.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkscale.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrange.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhscrollbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkscrollbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhseparator.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkseparator.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkhsv.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkiconfactory.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkicontheme.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkiconview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktooltip.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkimagemenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkimcontextsimple.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkimmulticontext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkinputdialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkinvisible.h:
+
+/opt/local/include/gtk-2.0/gtk/gtklayout.h:
+
+/opt/local/include/gtk-2.0/gtk/gtklinkbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmain.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmenubar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmenutoolbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoolbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoolitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktooltips.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmessagedialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmodules.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmountoperation.h:
+
+/opt/local/include/gtk-2.0/gtk/gtknotebook.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkpagesetup.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkpapersize.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkplug.h:
+
+/opt/local/include/gtk-2.0/gtk/gtksocket.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprintcontext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprintoperation.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprintsettings.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprintoperationpreview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprogressbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkprogress.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkradioaction.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoggleaction.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkradiobutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkradiomenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkradiotoolbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoggletoolbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentaction.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentmanager.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentchooser.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentfilter.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentchooserdialog.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentchoosermenu.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkrecentchooserwidget.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkscalebutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkscrolledwindow.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvscrollbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkviewport.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkseparatormenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkseparatortoolitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkshow.h:
+
+/opt/local/include/gtk-2.0/gtk/gtksizegroup.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkspinbutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkstatusbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkstatusicon.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkstock.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktearoffmenuitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextbuffer.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktexttagtable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextmark.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextbufferrichtext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktextview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoolbar.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkpixmap.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktoolshell.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktestutils.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreednd.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreemodelsort.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreeselection.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreestore.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkuimanager.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvbbox.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkversion.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvolumebutton.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvpaned.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvruler.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvscale.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkvseparator.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktext.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktree.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktreeitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkclist.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkcombo.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkctree.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkfilesel.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkitemfactory.h:
+
+/opt/local/include/gtk-2.0/gtk/gtklist.h:
+
+/opt/local/include/gtk-2.0/gtk/gtklistitem.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkoldeditable.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkoptionmenu.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkpreview.h:
+
+/opt/local/include/gtk-2.0/gtk/gtktipsquery.h:
+
+/opt/local/include/gtk-2.0/gtk/gtkmarshal.h:
+
+/opt/local/include/sigc++-2.0/sigc++/class_slot.h:
+
+/opt/local/include/sigc++-2.0/sigc++/slot.h:
+
+libcroco/cr-cascade.h:
+
+libcroco/cr-stylesheet.h:
+
+libcroco/cr-utils.h:
+
+libcroco/cr-statement.h:
+
+libcroco/cr-term.h:
+
+libcroco/cr-rgb.h:
+
+libcroco/cr-parsing-location.h:
+
+libcroco/cr-num.h:
+
+libcroco/cr-string.h:
+
+libcroco/cr-selector.h:
+
+libcroco/cr-simple-sel.h:
+
+libcroco/cr-additional-sel.h:
+
+libcroco/cr-attr-sel.h:
+
+libcroco/cr-pseudo.h:
+
+libcroco/cr-declaration.h:
+
+gc-managed.h:
+
+gc-finalized.h:
+
+gc-anchored.h:
+
+verbs.h:
+
+require-config.h:
+
+helper/helper-forward.h:
+
+forward.h:
+
+/usr/include/c++/4.0.0/set:
+
+/usr/include/c++/4.0.0/bits/stl_set.h:
+
+/usr/include/c++/4.0.0/bits/stl_multiset.h:
+
+extension/extension.h:
+
+print.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm.h:
+
+/opt/local/include/giomm-2.4/giomm.h:
+
+/opt/local/include/giomm-2.4/giomm/appinfo.h:
+
+/opt/local/include/giomm-2.4/giomm/icon.h:
+
+/opt/local/include/giomm-2.4/giomm/asyncresult.h:
+
+/opt/local/include/giomm-2.4/giomm/bufferedinputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/filterinputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/inputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/cancellable.h:
+
+/opt/local/include/giomm-2.4/giomm/bufferedoutputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/filteroutputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/outputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/datainputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/enums.h:
+
+/opt/local/include/giomm-2.4/giomm/dataoutputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/drive.h:
+
+/opt/local/include/giomm-2.4/giomm/mount.h:
+
+/opt/local/include/giomm-2.4/giomm/file.h:
+
+/opt/local/include/giomm-2.4/giomm/fileattributeinfolist.h:
+
+/opt/local/include/giomm-2.4/giomm/fileattributeinfo.h:
+
+/opt/local/include/giomm-2.4/giomm/fileenumerator.h:
+
+/opt/local/include/giomm-2.4/giomm/fileinfo.h:
+
+/opt/local/include/giomm-2.4/giomm/fileinputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/seekable.h:
+
+/opt/local/include/giomm-2.4/giomm/filemonitor.h:
+
+/opt/local/include/giomm-2.4/giomm/fileoutputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/mountoperation.h:
+
+/opt/local/include/giomm-2.4/giomm/error.h:
+
+/opt/local/include/giomm-2.4/giomm/volume.h:
+
+/opt/local/include/giomm-2.4/giomm/fileicon.h:
+
+/opt/local/include/giomm-2.4/giomm/loadableicon.h:
+
+/opt/local/include/giomm-2.4/giomm/init.h:
+
+/opt/local/include/giomm-2.4/giomm/wrap_init.h:
+
+/opt/local/include/giomm-2.4/giomm/memoryinputstream.h:
+
+/opt/local/include/giomm-2.4/giomm/volumemonitor.h:
+
+/opt/local/include/giomm-2.4/giomm/contenttype.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixbufanimation.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixbufanimationiter.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/pixbufloader.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/cursor.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/displaymanager.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/general.h:
+
+/opt/local/include/gdkmm-2.4/gdkmm/rgb.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/aboutdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/dialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/button.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/buttonbox.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/accelkey.h:
+
+/opt/local/include/gtk-2.0/gdk/gdkkeysyms.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/accelgroup.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/adjustment.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/alignment.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/arrow.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/misc.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/aspectframe.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/frame.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/assistant.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/builder.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellview.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/celllayout.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrenderer.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/celleditable.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrenderer_generation.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrenderertext.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrendererpixbuf.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrenderertoggle.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrendereraccel.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treemodel.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treeiter.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treemodelcolumn.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treepath.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/checkbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/togglebutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/checkmenuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/item.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/accellabel.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/label.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrenderercombo.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrendererprogress.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/cellrendererspin.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/colorbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/colorselection.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/combo.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/entry.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/editable.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menu.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menushell.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menu_elems.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/imagemenuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/radiomenuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/radiobutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/radiobuttongroup.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/tearoffmenuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/separatormenuitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/entrycompletion.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/combobox.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treeview.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treeviewcolumn.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treeselection.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/tooltip.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/comboboxentry.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/comboboxentrytext.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/comboboxtext.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/curve.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/drawingarea.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/expander.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/eventbox.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/filechooser.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/filefilter.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/filechooserbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/filechooserdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/filechooserwidget.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/fileselection.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/optionmenu.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/fixed.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/fontbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/fontselection.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/handlebox.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/iconfactory.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/icontheme.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/iconinfo.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/iconview.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/image.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/inputdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/calendar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/invisible.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/layout.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/liststore.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treesortable.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treedragdest.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treedragsource.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/listviewtext.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/linkbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/main.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menubar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/messagedialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/notebook.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/paned.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/pagesetup.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/papersize.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/pagesetupunixdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printsettings.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printcontext.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printer.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printjob.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printoperation.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printoperationpreview.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/printunixdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/progressbar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/radioaction.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/toggleaction.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/action.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/radiotoolbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/toggletoolbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/toolbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/toolitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/tooltips.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/range.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentaction.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentchooser.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentinfo.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentfilter.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentmanager.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentchooserdialog.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentchoosermenu.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/recentchooserwidget.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/ruler.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/scale.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/scrollbar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/scrolledwindow.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/separator.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/separatortoolitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/settings.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/toolbar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/sizegroup.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/spinbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/statusbar.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/statusicon.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/stock.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/stockitem.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textbuffer.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/texttagtable.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/texttag.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textchildanchor.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textmark.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textiter.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textattributes.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/textview.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/menutoolbutton.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treemodelfilter.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treemodelsort.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treerowreference.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/treestore.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/uimanager.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/actiongroup.h:
+
+/opt/local/include/gtkmm-2.4/gtkmm/viewport.h:
+
+extension/extension-forward.h:
+
+ui/dialog/print.h:
+
+/opt/local/include/glibmm-2.4/glibmm/i18n.h:
+
+/opt/local/include/glib-2.0/glib/gi18n.h:
+
+/opt/local/include/libintl.h:
+
+desktop.h:
+
+sp-item.h:
+
+ui/widget/rendering-options.h:
+
+ui/widget/scalar.h:
+
+ui/widget/labelled.h:
+
+display/nr-arena.h:
+
+display/rendermode.h:
+
+libnr/nr-object.h:
+
+display/nr-arena-forward.h:
+
+sp-paint-server.h:
+
+libnr/nr-pixblock.h:
+
+libnr/nr-rect-l.h:
+
+libnr/nr-point-l.h:
+
+sp-object.h:
+
+uri-references.h:
+
+bad-uri-exception.h:
+
+forward.h:
+
+display/nr-arena-item.h:
+
+gc-soft-ptr.h:
+
+gc-core.h:
+
+display/nr-filter.h:
+
+display/nr-filter-primitive.h:
+
+display/nr-filter-slot.h:
+
+display/nr-filter-types.h:
+
+display/nr-filter-units.h:
+
+sp-filter-units.h:
+
+svg/svg-length.h:

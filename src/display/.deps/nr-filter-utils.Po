@@ -1,0 +1,28 @@
+display/nr-filter-utils.o display/nr-filter-utils.o:  \
+ display/nr-filter-utils.cpp display/nr-filter-utils.h round.h \
+  /usr/include/c++/4.0.0/cmath \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h \
+  /usr/include/c++/4.0.0/bits/cpp_type_traits.h /usr/include/math.h \
+  /usr/include/architecture/i386/math.h /usr/include/sys/cdefs.h \
+  /usr/include/c++/4.0.0/bits/cmath.tcc
+
+display/nr-filter-utils.h:
+
+round.h:
+
+/usr/include/c++/4.0.0/cmath:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h:
+
+/usr/include/c++/4.0.0/bits/cpp_type_traits.h:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/c++/4.0.0/bits/cmath.tcc:

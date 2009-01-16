@@ -1,0 +1,3 @@
+ui/view/edit.o ui/view/edit.o: ui/view/edit.cpp ../config.h
+
+../config.h:

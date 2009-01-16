@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20527/inkscape/trunk/src/dialogs
+END
+input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/input.cpp
+END
+iconpreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/iconpreview.h
+END
+extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/extensions.cpp
+END
+clonetiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/dialogs/clonetiler.cpp
+END
+sp-attribute-widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/sp-attribute-widget.cpp
+END
+stroke-style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/stroke-style.cpp
+END
+layer-properties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/layer-properties.cpp
+END
+dialog-events.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/dialog-events.h
+END
+eek-color-def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/eek-color-def.cpp
+END
+text-edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/text-edit.h
+END
+in-dt-coordsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dialogs/in-dt-coordsys.cpp
+END
+find.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/find.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/Makefile_insert
+END
+rdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/rdf.h
+END
+swatches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/swatches.cpp
+END
+unclump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/dialogs/unclump.cpp
+END
+fill-style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/fill-style.cpp
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/export.h
+END
+eek-preview.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/eek-preview.h
+END
+item-properties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20527/inkscape/trunk/src/dialogs/item-properties.cpp
+END
+guidelinedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dialogs/guidelinedialog.h
+END
+iconpreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/iconpreview.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/dialogs/CMakeLists.txt
+END
+object-attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/object-attributes.h
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dialogs/makefile.in
+END
+dialog-events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/dialog-events.cpp
+END
+layers-panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/layers-panel.h
+END
+xml-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/xml-tree.h
+END
+extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/extensions.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/input.h
+END
+clonetiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/clonetiler.h
+END
+text-edit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/text-edit.cpp
+END
+sp-attribute-widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/sp-attribute-widget.h
+END
+stroke-style.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/stroke-style.h
+END
+layer-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/layer-properties.h
+END
+rdf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/rdf.cpp
+END
+eek-color-def.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/eek-color-def.h
+END
+export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20377/inkscape/trunk/src/dialogs/export.cpp
+END
+in-dt-coordsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/in-dt-coordsys.h
+END
+eek-preview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/eek-preview.cpp
+END
+guidelinedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/guidelinedialog.cpp
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/find.h
+END
+swatches.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/swatches.h
+END
+unclump.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/unclump.h
+END
+fill-style.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/fill-style.h
+END
+object-attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/object-attributes.cpp
+END
+layers-panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/dialogs/layers-panel.cpp
+END
+item-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/item-properties.h
+END
+xml-tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/dialogs/xml-tree.cpp
+END

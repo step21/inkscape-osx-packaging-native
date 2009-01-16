@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 110
+.deps
+.dirstamp
+.libs
+Makefile
+Makefile.in
+makefile
+*-test
+test-xml
+test-xml.cpp
+test-xml-main.cpp
+libspxml.a
+
+END

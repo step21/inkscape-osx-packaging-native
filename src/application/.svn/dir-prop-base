@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 37
+.deps
+.dirstamp
+makefile
+libinkapp.a
+
+END

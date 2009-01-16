@@ -1,0 +1,1 @@
+pedro/empty.o pedro/empty.o: pedro/empty.cpp

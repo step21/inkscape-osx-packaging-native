@@ -1,0 +1,2 @@
+jabber_whiteboard/empty.o jabber_whiteboard/empty.o:  \
+ jabber_whiteboard/empty.cpp

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets
+END
+LinkStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets/LinkStyleImpl.java
+END
+DocumentStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets/DocumentStyleImpl.java
+END
+StyleSheetListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets/StyleSheetListImpl.java
+END
+StyleSheetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets/StyleSheetImpl.java
+END
+MediaListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/inkscape/dom/stylesheets/MediaListImpl.java
+END

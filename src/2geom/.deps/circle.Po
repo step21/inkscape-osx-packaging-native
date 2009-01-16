@@ -1,0 +1,1201 @@
+2geom/circle.o 2geom/circle.o: 2geom/circle.cpp 2geom/circle.h \
+  2geom/point.h /usr/include/c++/4.0.0/iostream \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h \
+  /usr/include/c++/4.0.0/ostream /usr/include/c++/4.0.0/ios \
+  /usr/include/c++/4.0.0/iosfwd \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++locale.h \
+  /usr/include/c++/4.0.0/clocale /usr/include/locale.h \
+  /usr/include/_locale.h /usr/include/sys/cdefs.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/c++/4.0.0/cstring \
+  /usr/include/c++/4.0.0/cstddef \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h \
+  /usr/include/string.h /usr/include/c++/4.0.0/cstdio \
+  /usr/include/stdio.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++io.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr-default.h \
+  /usr/include/pthread.h /usr/include/pthread_impl.h /usr/include/sched.h \
+  /usr/include/time.h /usr/include/_structs.h /usr/include/sys/_structs.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/sys/select.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/_select.h /usr/include/c++/4.0.0/cctype \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/c++/4.0.0/bits/stringfwd.h \
+  /usr/include/c++/4.0.0/bits/postypes.h /usr/include/c++/4.0.0/cwchar \
+  /usr/include/c++/4.0.0/ctime /usr/include/wchar.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h \
+  /usr/include/_wctype.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h \
+  /usr/include/c++/4.0.0/bits/functexcept.h \
+  /usr/include/c++/4.0.0/exception_defines.h \
+  /usr/include/c++/4.0.0/exception \
+  /usr/include/c++/4.0.0/bits/char_traits.h \
+  /usr/include/c++/4.0.0/bits/stl_algobase.h \
+  /usr/include/c++/4.0.0/climits \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  /usr/include/sys/syslimits.h /usr/include/c++/4.0.0/cstdlib \
+  /usr/include/stdlib.h /usr/include/available.h /usr/include/sys/wait.h \
+  /usr/include/sys/signal.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/resource.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/c++/4.0.0/bits/stl_pair.h \
+  /usr/include/c++/4.0.0/bits/cpp_type_traits.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator_base_types.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/4.0.0/bits/concept_check.h \
+  /usr/include/c++/4.0.0/bits/stl_iterator.h \
+  /usr/include/c++/4.0.0/debug/debug.h /usr/include/c++/4.0.0/cassert \
+  /usr/include/assert.h /usr/include/c++/4.0.0/bits/localefwd.h \
+  /usr/include/c++/4.0.0/bits/ios_base.h \
+  /usr/include/c++/4.0.0/bits/atomicity.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/atomic_word.h \
+  /usr/include/c++/4.0.0/bits/locale_classes.h \
+  /usr/include/c++/4.0.0/string /usr/include/c++/4.0.0/memory \
+  /usr/include/c++/4.0.0/bits/allocator.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++allocator.h \
+  /usr/include/c++/4.0.0/ext/new_allocator.h /usr/include/c++/4.0.0/new \
+  /usr/include/c++/4.0.0/bits/stl_construct.h \
+  /usr/include/c++/4.0.0/bits/stl_uninitialized.h \
+  /usr/include/c++/4.0.0/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/4.0.0/limits \
+  /usr/include/c++/4.0.0/bits/stl_function.h \
+  /usr/include/c++/4.0.0/bits/basic_string.h \
+  /usr/include/c++/4.0.0/algorithm /usr/include/c++/4.0.0/bits/stl_algo.h \
+  /usr/include/c++/4.0.0/bits/stl_heap.h \
+  /usr/include/c++/4.0.0/bits/stl_tempbuf.h \
+  /usr/include/c++/4.0.0/bits/basic_string.tcc \
+  /usr/include/c++/4.0.0/streambuf \
+  /usr/include/c++/4.0.0/bits/streambuf.tcc \
+  /usr/include/c++/4.0.0/bits/basic_ios.h \
+  /usr/include/c++/4.0.0/bits/streambuf_iterator.h \
+  /usr/include/c++/4.0.0/bits/locale_facets.h \
+  /usr/include/c++/4.0.0/cwctype /usr/include/wctype.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_base.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_inline.h \
+  /usr/include/c++/4.0.0/bits/codecvt.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/time_members.h \
+  /usr/include/c++/4.0.0/i686-apple-darwin9/bits/messages_members.h \
+  /usr/include/c++/4.0.0/bits/basic_ios.tcc \
+  /usr/include/c++/4.0.0/bits/ostream.tcc /usr/include/c++/4.0.0/locale \
+  /usr/include/c++/4.0.0/bits/locale_facets.tcc \
+  /usr/include/c++/4.0.0/typeinfo /usr/include/c++/4.0.0/istream \
+  /usr/include/c++/4.0.0/bits/istream.tcc 2geom/coord.h \
+  /usr/include/c++/4.0.0/cmath /usr/include/math.h \
+  /usr/include/architecture/i386/math.h \
+  /usr/include/c++/4.0.0/bits/cmath.tcc 2geom/isnan.h 2geom/utils.h \
+  /usr/include/c++/4.0.0/vector /usr/include/c++/4.0.0/bits/stl_vector.h \
+  /usr/include/c++/4.0.0/bits/stl_bvector.h \
+  /usr/include/c++/4.0.0/bits/vector.tcc 2geom/exception.h \
+  /usr/include/c++/4.0.0/sstream /usr/include/c++/4.0.0/bits/sstream.tcc \
+  2geom/ellipse.h 2geom/matrix.h 2geom/svg-elliptical-arc.h 2geom/curve.h \
+  2geom/interval.h /opt/local/include/boost/optional/optional.hpp \
+  /opt/local/include/boost/config.hpp \
+  /opt/local/include/boost/config/user.hpp \
+  /opt/local/include/boost/config/select_compiler_config.hpp \
+  /opt/local/include/boost/config/compiler/gcc.hpp \
+  /opt/local/include/boost/config/select_stdlib_config.hpp \
+  /opt/local/include/boost/config/no_tr1/utility.hpp \
+  /usr/include/c++/4.0.0/utility /usr/include/c++/4.0.0/bits/stl_relops.h \
+  /opt/local/include/boost/config/stdlib/libstdcpp3.hpp \
+  /opt/local/include/boost/config/select_platform_config.hpp \
+  /opt/local/include/boost/config/platform/macos.hpp \
+  /opt/local/include/boost/config/posix_features.hpp \
+  /opt/local/include/boost/config/suffix.hpp \
+  /opt/local/include/boost/assert.hpp /opt/local/include/boost/type.hpp \
+  /opt/local/include/boost/type_traits/alignment_of.hpp \
+  /opt/local/include/boost/type_traits/intrinsics.hpp \
+  /opt/local/include/boost/type_traits/config.hpp \
+  /opt/local/include/boost/detail/workaround.hpp \
+  /opt/local/include/boost/type_traits/detail/size_t_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/template_arity_spec.hpp \
+  /opt/local/include/boost/mpl/int.hpp \
+  /opt/local/include/boost/mpl/int_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /opt/local/include/boost/mpl/aux_/config/adl.hpp \
+  /opt/local/include/boost/mpl/aux_/config/msvc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/intel.hpp \
+  /opt/local/include/boost/mpl/aux_/config/gcc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /opt/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /opt/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /opt/local/include/boost/mpl/aux_/integral_wrapper.hpp \
+  /opt/local/include/boost/mpl/integral_c_tag.hpp \
+  /opt/local/include/boost/mpl/aux_/config/static_constant.hpp \
+  /opt/local/include/boost/mpl/aux_/static_cast.hpp \
+  /opt/local/include/boost/preprocessor/cat.hpp \
+  /opt/local/include/boost/preprocessor/config/config.hpp \
+  /opt/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /opt/local/include/boost/mpl/aux_/config/preprocessor.hpp \
+  /opt/local/include/boost/preprocessor/comma_if.hpp \
+  /opt/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /opt/local/include/boost/preprocessor/control/if.hpp \
+  /opt/local/include/boost/preprocessor/control/iif.hpp \
+  /opt/local/include/boost/preprocessor/logical/bool.hpp \
+  /opt/local/include/boost/preprocessor/facilities/empty.hpp \
+  /opt/local/include/boost/preprocessor/punctuation/comma.hpp \
+  /opt/local/include/boost/preprocessor/repeat.hpp \
+  /opt/local/include/boost/preprocessor/repetition/repeat.hpp \
+  /opt/local/include/boost/preprocessor/debug/error.hpp \
+  /opt/local/include/boost/preprocessor/detail/auto_rec.hpp \
+  /opt/local/include/boost/preprocessor/tuple/eat.hpp \
+  /opt/local/include/boost/preprocessor/inc.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/inc.hpp \
+  /opt/local/include/boost/mpl/aux_/config/lambda.hpp \
+  /opt/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /opt/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /opt/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
+  /opt/local/include/boost/type_traits/integral_constant.hpp \
+  /opt/local/include/boost/mpl/bool.hpp \
+  /opt/local/include/boost/mpl/bool_fwd.hpp \
+  /opt/local/include/boost/mpl/integral_c.hpp \
+  /opt/local/include/boost/mpl/integral_c_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /opt/local/include/boost/mpl/size_t.hpp \
+  /opt/local/include/boost/mpl/size_t_fwd.hpp \
+  /opt/local/include/boost/type_traits/detail/size_t_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/type_with_alignment.hpp \
+  /opt/local/include/boost/mpl/if.hpp \
+  /opt/local/include/boost/mpl/aux_/value_wknd.hpp \
+  /opt/local/include/boost/mpl/aux_/config/integral.hpp \
+  /opt/local/include/boost/mpl/aux_/config/eti.hpp \
+  /opt/local/include/boost/mpl/aux_/na_spec.hpp \
+  /opt/local/include/boost/mpl/lambda_fwd.hpp \
+  /opt/local/include/boost/mpl/void_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/na.hpp \
+  /opt/local/include/boost/mpl/aux_/na_fwd.hpp \
+  /opt/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
+  /opt/local/include/boost/mpl/aux_/arity.hpp \
+  /opt/local/include/boost/mpl/aux_/config/dtp.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /opt/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
+  /opt/local/include/boost/mpl/limits/arity.hpp \
+  /opt/local/include/boost/preprocessor/logical/and.hpp \
+  /opt/local/include/boost/preprocessor/logical/bitand.hpp \
+  /opt/local/include/boost/preprocessor/identity.hpp \
+  /opt/local/include/boost/preprocessor/facilities/identity.hpp \
+  /opt/local/include/boost/preprocessor/empty.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/add.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /opt/local/include/boost/preprocessor/control/while.hpp \
+  /opt/local/include/boost/preprocessor/list/fold_left.hpp \
+  /opt/local/include/boost/preprocessor/list/detail/fold_left.hpp \
+  /opt/local/include/boost/preprocessor/control/expr_iif.hpp \
+  /opt/local/include/boost/preprocessor/list/adt.hpp \
+  /opt/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /opt/local/include/boost/preprocessor/detail/check.hpp \
+  /opt/local/include/boost/preprocessor/logical/compl.hpp \
+  /opt/local/include/boost/preprocessor/list/fold_right.hpp \
+  /opt/local/include/boost/preprocessor/list/detail/fold_right.hpp \
+  /opt/local/include/boost/preprocessor/list/reverse.hpp \
+  /opt/local/include/boost/preprocessor/control/detail/while.hpp \
+  /opt/local/include/boost/preprocessor/tuple/elem.hpp \
+  /opt/local/include/boost/preprocessor/arithmetic/sub.hpp \
+  /opt/local/include/boost/preprocessor/list/for_each_i.hpp \
+  /opt/local/include/boost/preprocessor/repetition/for.hpp \
+  /opt/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /opt/local/include/boost/preprocessor/tuple/rem.hpp \
+  /opt/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /opt/local/include/boost/preprocessor/list/transform.hpp \
+  /opt/local/include/boost/preprocessor/list/append.hpp \
+  /opt/local/include/boost/type_traits/is_pod.hpp \
+  /opt/local/include/boost/type_traits/is_void.hpp \
+  /opt/local/include/boost/type_traits/detail/bool_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/bool_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/is_scalar.hpp \
+  /opt/local/include/boost/type_traits/is_arithmetic.hpp \
+  /opt/local/include/boost/type_traits/is_integral.hpp \
+  /opt/local/include/boost/type_traits/is_float.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_or.hpp \
+  /opt/local/include/boost/type_traits/is_enum.hpp \
+  /opt/local/include/boost/type_traits/add_reference.hpp \
+  /opt/local/include/boost/type_traits/is_reference.hpp \
+  /opt/local/include/boost/type_traits/detail/type_trait_def.hpp \
+  /opt/local/include/boost/type_traits/detail/type_trait_undef.hpp \
+  /opt/local/include/boost/type_traits/is_convertible.hpp \
+  /opt/local/include/boost/type_traits/detail/yes_no_type.hpp \
+  /opt/local/include/boost/type_traits/is_array.hpp \
+  /opt/local/include/boost/type_traits/ice.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_and.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_not.hpp \
+  /opt/local/include/boost/type_traits/detail/ice_eq.hpp \
+  /opt/local/include/boost/type_traits/is_abstract.hpp \
+  /opt/local/include/boost/static_assert.hpp \
+  /opt/local/include/boost/type_traits/is_class.hpp \
+  /opt/local/include/boost/type_traits/is_union.hpp \
+  /opt/local/include/boost/type_traits/remove_cv.hpp \
+  /opt/local/include/boost/type_traits/broken_compiler_spec.hpp \
+  /opt/local/include/boost/type_traits/detail/cv_traits_impl.hpp \
+  /opt/local/include/boost/type_traits/is_function.hpp \
+  /opt/local/include/boost/type_traits/detail/false_result.hpp \
+  /opt/local/include/boost/type_traits/detail/is_function_ptr_helper.hpp \
+  /opt/local/include/boost/type_traits/is_pointer.hpp \
+  /opt/local/include/boost/type_traits/is_member_pointer.hpp \
+  /opt/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /opt/local/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+  /opt/local/include/boost/type_traits/remove_reference.hpp \
+  /opt/local/include/boost/mpl/not.hpp \
+  /opt/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
+  /opt/local/include/boost/detail/reference_content.hpp \
+  /opt/local/include/boost/type_traits/has_nothrow_copy.hpp \
+  /opt/local/include/boost/type_traits/has_trivial_copy.hpp \
+  /opt/local/include/boost/type_traits/is_volatile.hpp \
+  /opt/local/include/boost/mpl/void.hpp /opt/local/include/boost/none.hpp \
+  /opt/local/include/boost/none_t.hpp \
+  /opt/local/include/boost/utility/compare_pointees.hpp \
+  /usr/include/c++/4.0.0/functional \
+  /opt/local/include/boost/optional/optional_fwd.hpp \
+  2geom/nearest-point.h 2geom/d2.h \
+  /opt/local/include/boost/concept_check.hpp \
+  /opt/local/include/boost/concept/assert.hpp \
+  /opt/local/include/boost/concept/detail/general.hpp \
+  /opt/local/include/boost/concept/detail/has_constraints.hpp \
+  /opt/local/include/boost/iterator.hpp /usr/include/c++/4.0.0/iterator \
+  /usr/include/c++/4.0.0/bits/stream_iterator.h \
+  /opt/local/include/boost/type_traits/conversion_traits.hpp \
+  /opt/local/include/boost/type_traits/is_same.hpp \
+  /opt/local/include/boost/mpl/assert.hpp \
+  /opt/local/include/boost/mpl/aux_/yes_no.hpp \
+  /opt/local/include/boost/mpl/aux_/config/arrays.hpp \
+  /opt/local/include/boost/mpl/aux_/config/pp_counter.hpp \
+  /opt/local/include/boost/detail/iterator.hpp \
+  /opt/local/include/boost/concept/usage.hpp \
+  /opt/local/include/boost/concept/detail/concept_def.hpp \
+  /opt/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /opt/local/include/boost/preprocessor/seq/seq.hpp \
+  /opt/local/include/boost/preprocessor/seq/elem.hpp \
+  /opt/local/include/boost/preprocessor/seq/size.hpp \
+  /opt/local/include/boost/preprocessor/seq/enum.hpp \
+  /opt/local/include/boost/concept/detail/concept_undef.hpp \
+  2geom/concepts.h 2geom/sbasis.h 2geom/linear.h 2geom/forward.h \
+  2geom/rect.h 2geom/d2-sbasis.h 2geom/sbasis-2d.h 2geom/piecewise.h \
+  /usr/include/c++/4.0.0/map /usr/include/c++/4.0.0/bits/stl_tree.h \
+  /usr/include/c++/4.0.0/bits/stl_map.h \
+  /usr/include/c++/4.0.0/bits/stl_multimap.h 2geom/angle.h \
+  2geom/bezier-curve.h 2geom/sbasis-curve.h 2geom/bezier.h \
+  /usr/include/c++/4.0.0/valarray /usr/include/c++/4.0.0/numeric \
+  /usr/include/c++/4.0.0/bits/stl_numeric.h \
+  /usr/include/c++/4.0.0/bits/valarray_array.h \
+  /usr/include/c++/4.0.0/bits/valarray_array.tcc \
+  /usr/include/c++/4.0.0/bits/valarray_before.h \
+  /usr/include/c++/4.0.0/bits/slice_array.h \
+  /usr/include/c++/4.0.0/bits/valarray_after.h \
+  /usr/include/c++/4.0.0/bits/gslice.h \
+  /usr/include/c++/4.0.0/bits/gslice_array.h \
+  /usr/include/c++/4.0.0/bits/mask_array.h \
+  /usr/include/c++/4.0.0/bits/indirect_array.h 2geom/solver.h \
+  2geom/numeric/vector.h /opt/local/include/gsl/gsl_vector.h \
+  /opt/local/include/gsl/gsl_vector_complex_long_double.h \
+  /opt/local/include/gsl/gsl_types.h /opt/local/include/gsl/gsl_errno.h \
+  /usr/include/errno.h /usr/include/sys/errno.h \
+  /opt/local/include/gsl/gsl_complex.h \
+  /opt/local/include/gsl/gsl_check_range.h \
+  /opt/local/include/gsl/gsl_vector_long_double.h \
+  /opt/local/include/gsl/gsl_block_long_double.h \
+  /opt/local/include/gsl/gsl_vector_complex.h \
+  /opt/local/include/gsl/gsl_block_complex_long_double.h \
+  /opt/local/include/gsl/gsl_vector_complex_double.h \
+  /opt/local/include/gsl/gsl_vector_double.h \
+  /opt/local/include/gsl/gsl_block_double.h \
+  /opt/local/include/gsl/gsl_block_complex_double.h \
+  /opt/local/include/gsl/gsl_vector_complex_float.h \
+  /opt/local/include/gsl/gsl_vector_float.h \
+  /opt/local/include/gsl/gsl_block_float.h \
+  /opt/local/include/gsl/gsl_block_complex_float.h \
+  /opt/local/include/gsl/gsl_vector_ulong.h \
+  /opt/local/include/gsl/gsl_block_ulong.h \
+  /opt/local/include/gsl/gsl_vector_long.h \
+  /opt/local/include/gsl/gsl_block_long.h \
+  /opt/local/include/gsl/gsl_vector_uint.h \
+  /opt/local/include/gsl/gsl_block_uint.h \
+  /opt/local/include/gsl/gsl_vector_int.h \
+  /opt/local/include/gsl/gsl_block_int.h \
+  /opt/local/include/gsl/gsl_vector_ushort.h \
+  /opt/local/include/gsl/gsl_block_ushort.h \
+  /opt/local/include/gsl/gsl_vector_short.h \
+  /opt/local/include/gsl/gsl_block_short.h \
+  /opt/local/include/gsl/gsl_vector_uchar.h \
+  /opt/local/include/gsl/gsl_block_uchar.h \
+  /opt/local/include/gsl/gsl_vector_char.h \
+  /opt/local/include/gsl/gsl_block_char.h \
+  /opt/local/include/gsl/gsl_blas.h /opt/local/include/gsl/gsl_matrix.h \
+  /opt/local/include/gsl/gsl_matrix_complex_long_double.h \
+  /opt/local/include/gsl/gsl_matrix_complex_double.h \
+  /opt/local/include/gsl/gsl_matrix_complex_float.h \
+  /opt/local/include/gsl/gsl_matrix_long_double.h \
+  /opt/local/include/gsl/gsl_matrix_double.h \
+  /opt/local/include/gsl/gsl_matrix_float.h \
+  /opt/local/include/gsl/gsl_matrix_ulong.h \
+  /opt/local/include/gsl/gsl_matrix_long.h \
+  /opt/local/include/gsl/gsl_matrix_uint.h \
+  /opt/local/include/gsl/gsl_matrix_int.h \
+  /opt/local/include/gsl/gsl_matrix_ushort.h \
+  /opt/local/include/gsl/gsl_matrix_short.h \
+  /opt/local/include/gsl/gsl_matrix_uchar.h \
+  /opt/local/include/gsl/gsl_matrix_char.h \
+  /opt/local/include/gsl/gsl_blas_types.h \
+  /opt/local/include/gsl/gsl_cblas.h 2geom/numeric/fitting-tool.h \
+  2geom/numeric/matrix.h /opt/local/include/gsl/gsl_linalg.h \
+  /opt/local/include/gsl/gsl_mode.h \
+  /opt/local/include/gsl/gsl_permutation.h 2geom/numeric/fitting-model.h \
+  2geom/poly.h /usr/include/c++/4.0.0/complex
+
+2geom/circle.h:
+
+2geom/point.h:
+
+/usr/include/c++/4.0.0/iostream:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++config.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/os_defines.h:
+
+/usr/include/c++/4.0.0/ostream:
+
+/usr/include/c++/4.0.0/ios:
+
+/usr/include/c++/4.0.0/iosfwd:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++locale.h:
+
+/usr/include/c++/4.0.0/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/_locale.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/c++/4.0.0/cstring:
+
+/usr/include/c++/4.0.0/cstddef:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/c++/4.0.0/cstdio:
+
+/usr/include/stdio.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++io.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/pthread_impl.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/sys/_select.h:
+
+/usr/include/c++/4.0.0/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/c++/4.0.0/bits/stringfwd.h:
+
+/usr/include/c++/4.0.0/bits/postypes.h:
+
+/usr/include/c++/4.0.0/cwchar:
+
+/usr/include/c++/4.0.0/ctime:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h:
+
+/usr/include/_wctype.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h:
+
+/usr/include/c++/4.0.0/bits/functexcept.h:
+
+/usr/include/c++/4.0.0/exception_defines.h:
+
+/usr/include/c++/4.0.0/exception:
+
+/usr/include/c++/4.0.0/bits/char_traits.h:
+
+/usr/include/c++/4.0.0/bits/stl_algobase.h:
+
+/usr/include/c++/4.0.0/climits:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/limits.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/include/c++/4.0.0/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/available.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/alloca.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/c++/4.0.0/bits/stl_pair.h:
+
+/usr/include/c++/4.0.0/bits/cpp_type_traits.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/4.0.0/bits/concept_check.h:
+
+/usr/include/c++/4.0.0/bits/stl_iterator.h:
+
+/usr/include/c++/4.0.0/debug/debug.h:
+
+/usr/include/c++/4.0.0/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/c++/4.0.0/bits/localefwd.h:
+
+/usr/include/c++/4.0.0/bits/ios_base.h:
+
+/usr/include/c++/4.0.0/bits/atomicity.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/atomic_word.h:
+
+/usr/include/c++/4.0.0/bits/locale_classes.h:
+
+/usr/include/c++/4.0.0/string:
+
+/usr/include/c++/4.0.0/memory:
+
+/usr/include/c++/4.0.0/bits/allocator.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/c++allocator.h:
+
+/usr/include/c++/4.0.0/ext/new_allocator.h:
+
+/usr/include/c++/4.0.0/new:
+
+/usr/include/c++/4.0.0/bits/stl_construct.h:
+
+/usr/include/c++/4.0.0/bits/stl_uninitialized.h:
+
+/usr/include/c++/4.0.0/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/4.0.0/limits:
+
+/usr/include/c++/4.0.0/bits/stl_function.h:
+
+/usr/include/c++/4.0.0/bits/basic_string.h:
+
+/usr/include/c++/4.0.0/algorithm:
+
+/usr/include/c++/4.0.0/bits/stl_algo.h:
+
+/usr/include/c++/4.0.0/bits/stl_heap.h:
+
+/usr/include/c++/4.0.0/bits/stl_tempbuf.h:
+
+/usr/include/c++/4.0.0/bits/basic_string.tcc:
+
+/usr/include/c++/4.0.0/streambuf:
+
+/usr/include/c++/4.0.0/bits/streambuf.tcc:
+
+/usr/include/c++/4.0.0/bits/basic_ios.h:
+
+/usr/include/c++/4.0.0/bits/streambuf_iterator.h:
+
+/usr/include/c++/4.0.0/bits/locale_facets.h:
+
+/usr/include/c++/4.0.0/cwctype:
+
+/usr/include/wctype.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_base.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/ctype_inline.h:
+
+/usr/include/c++/4.0.0/bits/codecvt.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/time_members.h:
+
+/usr/include/c++/4.0.0/i686-apple-darwin9/bits/messages_members.h:
+
+/usr/include/c++/4.0.0/bits/basic_ios.tcc:
+
+/usr/include/c++/4.0.0/bits/ostream.tcc:
+
+/usr/include/c++/4.0.0/locale:
+
+/usr/include/c++/4.0.0/bits/locale_facets.tcc:
+
+/usr/include/c++/4.0.0/typeinfo:
+
+/usr/include/c++/4.0.0/istream:
+
+/usr/include/c++/4.0.0/bits/istream.tcc:
+
+2geom/coord.h:
+
+/usr/include/c++/4.0.0/cmath:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
+
+/usr/include/c++/4.0.0/bits/cmath.tcc:
+
+2geom/isnan.h:
+
+2geom/utils.h:
+
+/usr/include/c++/4.0.0/vector:
+
+/usr/include/c++/4.0.0/bits/stl_vector.h:
+
+/usr/include/c++/4.0.0/bits/stl_bvector.h:
+
+/usr/include/c++/4.0.0/bits/vector.tcc:
+
+2geom/exception.h:
+
+/usr/include/c++/4.0.0/sstream:
+
+/usr/include/c++/4.0.0/bits/sstream.tcc:
+
+2geom/ellipse.h:
+
+2geom/matrix.h:
+
+2geom/svg-elliptical-arc.h:
+
+2geom/curve.h:
+
+2geom/interval.h:
+
+/opt/local/include/boost/optional/optional.hpp:
+
+/opt/local/include/boost/config.hpp:
+
+/opt/local/include/boost/config/user.hpp:
+
+/opt/local/include/boost/config/select_compiler_config.hpp:
+
+/opt/local/include/boost/config/compiler/gcc.hpp:
+
+/opt/local/include/boost/config/select_stdlib_config.hpp:
+
+/opt/local/include/boost/config/no_tr1/utility.hpp:
+
+/usr/include/c++/4.0.0/utility:
+
+/usr/include/c++/4.0.0/bits/stl_relops.h:
+
+/opt/local/include/boost/config/stdlib/libstdcpp3.hpp:
+
+/opt/local/include/boost/config/select_platform_config.hpp:
+
+/opt/local/include/boost/config/platform/macos.hpp:
+
+/opt/local/include/boost/config/posix_features.hpp:
+
+/opt/local/include/boost/config/suffix.hpp:
+
+/opt/local/include/boost/assert.hpp:
+
+/opt/local/include/boost/type.hpp:
+
+/opt/local/include/boost/type_traits/alignment_of.hpp:
+
+/opt/local/include/boost/type_traits/intrinsics.hpp:
+
+/opt/local/include/boost/type_traits/config.hpp:
+
+/opt/local/include/boost/detail/workaround.hpp:
+
+/opt/local/include/boost/type_traits/detail/size_t_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/template_arity_spec.hpp:
+
+/opt/local/include/boost/mpl/int.hpp:
+
+/opt/local/include/boost/mpl/int_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/adl_barrier.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/adl.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/msvc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/intel.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/gcc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/workaround.hpp:
+
+/opt/local/include/boost/mpl/aux_/nttp_decl.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/nttp.hpp:
+
+/opt/local/include/boost/mpl/aux_/integral_wrapper.hpp:
+
+/opt/local/include/boost/mpl/integral_c_tag.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/static_constant.hpp:
+
+/opt/local/include/boost/mpl/aux_/static_cast.hpp:
+
+/opt/local/include/boost/preprocessor/cat.hpp:
+
+/opt/local/include/boost/preprocessor/config/config.hpp:
+
+/opt/local/include/boost/mpl/aux_/template_arity_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/params.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/preprocessor.hpp:
+
+/opt/local/include/boost/preprocessor/comma_if.hpp:
+
+/opt/local/include/boost/preprocessor/punctuation/comma_if.hpp:
+
+/opt/local/include/boost/preprocessor/control/if.hpp:
+
+/opt/local/include/boost/preprocessor/control/iif.hpp:
+
+/opt/local/include/boost/preprocessor/logical/bool.hpp:
+
+/opt/local/include/boost/preprocessor/facilities/empty.hpp:
+
+/opt/local/include/boost/preprocessor/punctuation/comma.hpp:
+
+/opt/local/include/boost/preprocessor/repeat.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/repeat.hpp:
+
+/opt/local/include/boost/preprocessor/debug/error.hpp:
+
+/opt/local/include/boost/preprocessor/detail/auto_rec.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/eat.hpp:
+
+/opt/local/include/boost/preprocessor/inc.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/inc.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/lambda.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/ttp.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/ctps.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/overload_resolution.hpp:
+
+/opt/local/include/boost/type_traits/integral_constant.hpp:
+
+/opt/local/include/boost/mpl/bool.hpp:
+
+/opt/local/include/boost/mpl/bool_fwd.hpp:
+
+/opt/local/include/boost/mpl/integral_c.hpp:
+
+/opt/local/include/boost/mpl/integral_c_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/lambda_support.hpp:
+
+/opt/local/include/boost/mpl/size_t.hpp:
+
+/opt/local/include/boost/mpl/size_t_fwd.hpp:
+
+/opt/local/include/boost/type_traits/detail/size_t_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/type_with_alignment.hpp:
+
+/opt/local/include/boost/mpl/if.hpp:
+
+/opt/local/include/boost/mpl/aux_/value_wknd.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/integral.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/eti.hpp:
+
+/opt/local/include/boost/mpl/aux_/na_spec.hpp:
+
+/opt/local/include/boost/mpl/lambda_fwd.hpp:
+
+/opt/local/include/boost/mpl/void_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/na.hpp:
+
+/opt/local/include/boost/mpl/aux_/na_fwd.hpp:
+
+/opt/local/include/boost/mpl/aux_/lambda_arity_param.hpp:
+
+/opt/local/include/boost/mpl/aux_/arity.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/dtp.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/enum.hpp:
+
+/opt/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+
+/opt/local/include/boost/mpl/limits/arity.hpp:
+
+/opt/local/include/boost/preprocessor/logical/and.hpp:
+
+/opt/local/include/boost/preprocessor/logical/bitand.hpp:
+
+/opt/local/include/boost/preprocessor/identity.hpp:
+
+/opt/local/include/boost/preprocessor/facilities/identity.hpp:
+
+/opt/local/include/boost/preprocessor/empty.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/add.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/dec.hpp:
+
+/opt/local/include/boost/preprocessor/control/while.hpp:
+
+/opt/local/include/boost/preprocessor/list/fold_left.hpp:
+
+/opt/local/include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/opt/local/include/boost/preprocessor/control/expr_iif.hpp:
+
+/opt/local/include/boost/preprocessor/list/adt.hpp:
+
+/opt/local/include/boost/preprocessor/detail/is_binary.hpp:
+
+/opt/local/include/boost/preprocessor/detail/check.hpp:
+
+/opt/local/include/boost/preprocessor/logical/compl.hpp:
+
+/opt/local/include/boost/preprocessor/list/fold_right.hpp:
+
+/opt/local/include/boost/preprocessor/list/detail/fold_right.hpp:
+
+/opt/local/include/boost/preprocessor/list/reverse.hpp:
+
+/opt/local/include/boost/preprocessor/control/detail/while.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/elem.hpp:
+
+/opt/local/include/boost/preprocessor/arithmetic/sub.hpp:
+
+/opt/local/include/boost/preprocessor/list/for_each_i.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/for.hpp:
+
+/opt/local/include/boost/preprocessor/repetition/detail/for.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/rem.hpp:
+
+/opt/local/include/boost/preprocessor/tuple/to_list.hpp:
+
+/opt/local/include/boost/preprocessor/list/transform.hpp:
+
+/opt/local/include/boost/preprocessor/list/append.hpp:
+
+/opt/local/include/boost/type_traits/is_pod.hpp:
+
+/opt/local/include/boost/type_traits/is_void.hpp:
+
+/opt/local/include/boost/type_traits/detail/bool_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/bool_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/is_scalar.hpp:
+
+/opt/local/include/boost/type_traits/is_arithmetic.hpp:
+
+/opt/local/include/boost/type_traits/is_integral.hpp:
+
+/opt/local/include/boost/type_traits/is_float.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_or.hpp:
+
+/opt/local/include/boost/type_traits/is_enum.hpp:
+
+/opt/local/include/boost/type_traits/add_reference.hpp:
+
+/opt/local/include/boost/type_traits/is_reference.hpp:
+
+/opt/local/include/boost/type_traits/detail/type_trait_def.hpp:
+
+/opt/local/include/boost/type_traits/detail/type_trait_undef.hpp:
+
+/opt/local/include/boost/type_traits/is_convertible.hpp:
+
+/opt/local/include/boost/type_traits/detail/yes_no_type.hpp:
+
+/opt/local/include/boost/type_traits/is_array.hpp:
+
+/opt/local/include/boost/type_traits/ice.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_and.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_not.hpp:
+
+/opt/local/include/boost/type_traits/detail/ice_eq.hpp:
+
+/opt/local/include/boost/type_traits/is_abstract.hpp:
+
+/opt/local/include/boost/static_assert.hpp:
+
+/opt/local/include/boost/type_traits/is_class.hpp:
+
+/opt/local/include/boost/type_traits/is_union.hpp:
+
+/opt/local/include/boost/type_traits/remove_cv.hpp:
+
+/opt/local/include/boost/type_traits/broken_compiler_spec.hpp:
+
+/opt/local/include/boost/type_traits/detail/cv_traits_impl.hpp:
+
+/opt/local/include/boost/type_traits/is_function.hpp:
+
+/opt/local/include/boost/type_traits/detail/false_result.hpp:
+
+/opt/local/include/boost/type_traits/detail/is_function_ptr_helper.hpp:
+
+/opt/local/include/boost/type_traits/is_pointer.hpp:
+
+/opt/local/include/boost/type_traits/is_member_pointer.hpp:
+
+/opt/local/include/boost/type_traits/is_member_function_pointer.hpp:
+
+/opt/local/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/opt/local/include/boost/type_traits/remove_reference.hpp:
+
+/opt/local/include/boost/mpl/not.hpp:
+
+/opt/local/include/boost/mpl/aux_/nested_type_wknd.hpp:
+
+/opt/local/include/boost/detail/reference_content.hpp:
+
+/opt/local/include/boost/type_traits/has_nothrow_copy.hpp:
+
+/opt/local/include/boost/type_traits/has_trivial_copy.hpp:
+
+/opt/local/include/boost/type_traits/is_volatile.hpp:
+
+/opt/local/include/boost/mpl/void.hpp:
+
+/opt/local/include/boost/none.hpp:
+
+/opt/local/include/boost/none_t.hpp:
+
+/opt/local/include/boost/utility/compare_pointees.hpp:
+
+/usr/include/c++/4.0.0/functional:
+
+/opt/local/include/boost/optional/optional_fwd.hpp:
+
+2geom/nearest-point.h:
+
+2geom/d2.h:
+
+/opt/local/include/boost/concept_check.hpp:
+
+/opt/local/include/boost/concept/assert.hpp:
+
+/opt/local/include/boost/concept/detail/general.hpp:
+
+/opt/local/include/boost/concept/detail/has_constraints.hpp:
+
+/opt/local/include/boost/iterator.hpp:
+
+/usr/include/c++/4.0.0/iterator:
+
+/usr/include/c++/4.0.0/bits/stream_iterator.h:
+
+/opt/local/include/boost/type_traits/conversion_traits.hpp:
+
+/opt/local/include/boost/type_traits/is_same.hpp:
+
+/opt/local/include/boost/mpl/assert.hpp:
+
+/opt/local/include/boost/mpl/aux_/yes_no.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/arrays.hpp:
+
+/opt/local/include/boost/mpl/aux_/config/pp_counter.hpp:
+
+/opt/local/include/boost/detail/iterator.hpp:
+
+/opt/local/include/boost/concept/usage.hpp:
+
+/opt/local/include/boost/concept/detail/concept_def.hpp:
+
+/opt/local/include/boost/preprocessor/seq/for_each_i.hpp:
+
+/opt/local/include/boost/preprocessor/seq/seq.hpp:
+
+/opt/local/include/boost/preprocessor/seq/elem.hpp:
+
+/opt/local/include/boost/preprocessor/seq/size.hpp:
+
+/opt/local/include/boost/preprocessor/seq/enum.hpp:
+
+/opt/local/include/boost/concept/detail/concept_undef.hpp:
+
+2geom/concepts.h:
+
+2geom/sbasis.h:
+
+2geom/linear.h:
+
+2geom/forward.h:
+
+2geom/rect.h:
+
+2geom/d2-sbasis.h:
+
+2geom/sbasis-2d.h:
+
+2geom/piecewise.h:
+
+/usr/include/c++/4.0.0/map:
+
+/usr/include/c++/4.0.0/bits/stl_tree.h:
+
+/usr/include/c++/4.0.0/bits/stl_map.h:
+
+/usr/include/c++/4.0.0/bits/stl_multimap.h:
+
+2geom/angle.h:
+
+2geom/bezier-curve.h:
+
+2geom/sbasis-curve.h:
+
+2geom/bezier.h:
+
+/usr/include/c++/4.0.0/valarray:
+
+/usr/include/c++/4.0.0/numeric:
+
+/usr/include/c++/4.0.0/bits/stl_numeric.h:
+
+/usr/include/c++/4.0.0/bits/valarray_array.h:
+
+/usr/include/c++/4.0.0/bits/valarray_array.tcc:
+
+/usr/include/c++/4.0.0/bits/valarray_before.h:
+
+/usr/include/c++/4.0.0/bits/slice_array.h:
+
+/usr/include/c++/4.0.0/bits/valarray_after.h:
+
+/usr/include/c++/4.0.0/bits/gslice.h:
+
+/usr/include/c++/4.0.0/bits/gslice_array.h:
+
+/usr/include/c++/4.0.0/bits/mask_array.h:
+
+/usr/include/c++/4.0.0/bits/indirect_array.h:
+
+2geom/solver.h:
+
+2geom/numeric/vector.h:
+
+/opt/local/include/gsl/gsl_vector.h:
+
+/opt/local/include/gsl/gsl_vector_complex_long_double.h:
+
+/opt/local/include/gsl/gsl_types.h:
+
+/opt/local/include/gsl/gsl_errno.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/errno.h:
+
+/opt/local/include/gsl/gsl_complex.h:
+
+/opt/local/include/gsl/gsl_check_range.h:
+
+/opt/local/include/gsl/gsl_vector_long_double.h:
+
+/opt/local/include/gsl/gsl_block_long_double.h:
+
+/opt/local/include/gsl/gsl_vector_complex.h:
+
+/opt/local/include/gsl/gsl_block_complex_long_double.h:
+
+/opt/local/include/gsl/gsl_vector_complex_double.h:
+
+/opt/local/include/gsl/gsl_vector_double.h:
+
+/opt/local/include/gsl/gsl_block_double.h:
+
+/opt/local/include/gsl/gsl_block_complex_double.h:
+
+/opt/local/include/gsl/gsl_vector_complex_float.h:
+
+/opt/local/include/gsl/gsl_vector_float.h:
+
+/opt/local/include/gsl/gsl_block_float.h:
+
+/opt/local/include/gsl/gsl_block_complex_float.h:
+
+/opt/local/include/gsl/gsl_vector_ulong.h:
+
+/opt/local/include/gsl/gsl_block_ulong.h:
+
+/opt/local/include/gsl/gsl_vector_long.h:
+
+/opt/local/include/gsl/gsl_block_long.h:
+
+/opt/local/include/gsl/gsl_vector_uint.h:
+
+/opt/local/include/gsl/gsl_block_uint.h:
+
+/opt/local/include/gsl/gsl_vector_int.h:
+
+/opt/local/include/gsl/gsl_block_int.h:
+
+/opt/local/include/gsl/gsl_vector_ushort.h:
+
+/opt/local/include/gsl/gsl_block_ushort.h:
+
+/opt/local/include/gsl/gsl_vector_short.h:
+
+/opt/local/include/gsl/gsl_block_short.h:
+
+/opt/local/include/gsl/gsl_vector_uchar.h:
+
+/opt/local/include/gsl/gsl_block_uchar.h:
+
+/opt/local/include/gsl/gsl_vector_char.h:
+
+/opt/local/include/gsl/gsl_block_char.h:
+
+/opt/local/include/gsl/gsl_blas.h:
+
+/opt/local/include/gsl/gsl_matrix.h:
+
+/opt/local/include/gsl/gsl_matrix_complex_long_double.h:
+
+/opt/local/include/gsl/gsl_matrix_complex_double.h:
+
+/opt/local/include/gsl/gsl_matrix_complex_float.h:
+
+/opt/local/include/gsl/gsl_matrix_long_double.h:
+
+/opt/local/include/gsl/gsl_matrix_double.h:
+
+/opt/local/include/gsl/gsl_matrix_float.h:
+
+/opt/local/include/gsl/gsl_matrix_ulong.h:
+
+/opt/local/include/gsl/gsl_matrix_long.h:
+
+/opt/local/include/gsl/gsl_matrix_uint.h:
+
+/opt/local/include/gsl/gsl_matrix_int.h:
+
+/opt/local/include/gsl/gsl_matrix_ushort.h:
+
+/opt/local/include/gsl/gsl_matrix_short.h:
+
+/opt/local/include/gsl/gsl_matrix_uchar.h:
+
+/opt/local/include/gsl/gsl_matrix_char.h:
+
+/opt/local/include/gsl/gsl_blas_types.h:
+
+/opt/local/include/gsl/gsl_cblas.h:
+
+2geom/numeric/fitting-tool.h:
+
+2geom/numeric/matrix.h:
+
+/opt/local/include/gsl/gsl_linalg.h:
+
+/opt/local/include/gsl/gsl_mode.h:
+
+/opt/local/include/gsl/gsl_permutation.h:
+
+2geom/numeric/fitting-model.h:
+
+2geom/poly.h:
+
+/usr/include/c++/4.0.0/complex:

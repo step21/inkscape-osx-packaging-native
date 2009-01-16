@@ -1,0 +1,48 @@
+#! /bin/sh
+# Check that each .h file has all the includes it needs.
+
+# Probably requires gnu find (for -printf '%P\n').
+
+# This script hereby placed into the public domain.
+
+set -e
+mydir=`dirname "$0"`
+cd "$mydir"
+srcdir="."
+CXX="g++"
+INCLUDES="-D_REENTRANT -DORBIT2=1 -I/opt/local/include/gnome-vfs-2.0 -I/opt/local/lib/gnome-vfs-2.0/include -I/opt/local/include/gconf/2 -I/opt/local/include/orbit-2.0 -I/opt/local/include/dbus-1.0 -I/opt/local/lib/dbus-1.0/include -I/opt/local/include/glib-2.0 -I/opt/local/lib/glib-2.0/include -I/opt/local/include   -I/opt/local/include/poppler/glib -I/opt/local/include/poppler -I/opt/local/include/gtk-2.0 -I/opt/local/lib/gtk-2.0/include -I/opt/local/include/cairo -I/opt/local/include/glib-2.0 -I/opt/local/lib/glib-2.0/include -I/opt/local/include -I/opt/local/include/pango-1.0 -I/opt/local/include/pixman-1 -I/opt/local/include/freetype2 -I/opt/local/include/libpng12   -D_REENTRANT -I/opt/local/include/gdkmm-2.4 -I/opt/local/lib/gdkmm-2.4/include -I/opt/local/include/glibmm-2.4 -I/opt/local/lib/glibmm-2.4/include -I/opt/local/include/pangomm-1.4 -I/opt/local/include/gtk-2.0 -I/opt/local/lib/gtk-2.0/include -I/opt/local/include/cairomm-1.0 -I/opt/local/include/sigc++-2.0 -I/opt/local/lib/sigc++-2.0/include -I/opt/local/include/glib-2.0 -I/opt/local/lib/glib-2.0/include -I/opt/local/include -I/opt/local/include/pango-1.0 -I/opt/local/include/cairo -I/opt/local/include/pixman-1 -I/opt/local/include/freetype2 -I/opt/local/include/libpng12 -I/opt/local/include/gtkmm-2.4 -I/opt/local/lib/gtkmm-2.4/include -I/opt/local/include/giomm-2.4 -I/opt/local/lib/giomm-2.4/include -I/opt/local/include/atkmm-1.6 -I/opt/local/include/atk-1.0 -I/opt/local/include/libxml2  "
+OBJEXT="o"
+config_h_dir=..
+
+check_compile () {
+	(echo "#include <config.h>"; echo "#include <$1>"; echo "int header_tst_dummy;") > header-tst.cpp
+	$CXX -c -I. -I"$srcdir" -I$config_h_dir $INCLUDES header-tst.cpp
+}
+
+if [ $# = 0 ]; then
+	for i in `find "$srcdir"	\
+		   -name bonobo -prune	\
+		-o -name dom -prune	\
+		-o -name ecma -prune	\
+		-o -name render -prune	\
+		-o -name xpath -prune	\
+		-o -path '*/extension/script/js' -prune	\
+		-o -name '*.h' \
+		   \! -name gnome.h \! -name nr-type-gnome.h \! -name Livarot.h \! -name radial.h \
+		   \! -name '*-test.h'	\
+		   \! -name test-helpers.h	\
+		   \! -name PylogFormatter.h	\
+		   \! -name TRPIFormatter.h	\
+		   \! -name win32.h	\
+		   \! -name '*-w32.h'	\
+		   \! -name '*-win32.h'	\
+		   -printf '%P\n'`
+	do
+		check_compile "$i"
+	done
+else
+	for i in "$@"; do
+		check_compile "$i"
+	done
+fi
+rm header-tst.cpp header-tst.$OBJEXT

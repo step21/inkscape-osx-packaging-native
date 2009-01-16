@@ -1,0 +1,3 @@
+dom/ucd.o dom/ucd.o: dom/ucd.cpp dom/ucd.h
+
+dom/ucd.h:

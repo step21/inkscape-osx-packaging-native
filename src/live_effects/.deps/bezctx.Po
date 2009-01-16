@@ -1,0 +1,6 @@
+live_effects/bezctx.o live_effects/bezctx.o: live_effects/bezctx.cpp \
+  live_effects/bezctx.h live_effects/bezctx_intf.h
+
+live_effects/bezctx.h:
+
+live_effects/bezctx_intf.h:

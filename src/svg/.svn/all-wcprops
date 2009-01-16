@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/svg
+END
+svg-path-geom-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/svg/svg-path-geom-test.h
+END
+svg-length-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/svg-length-test.h
+END
+stringstream-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/stringstream-test.h
+END
+path-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/svg/path-string.h
+END
+css-ostringstream-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20336/inkscape/trunk/src/svg/css-ostringstream-test.h
+END
+ftos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/ftos.cpp
+END
+test-stubs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/test-stubs.cpp
+END
+strip-trailing-zeros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/strip-trailing-zeros.h
+END
+svg-color.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/svg-color.h
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/svg/Makefile_insert
+END
+svg-length.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/svg-length.h
+END
+stringstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/stringstream.h
+END
+css-ostringstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/svg/css-ostringstream.cpp
+END
+svg-path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20341/inkscape/trunk/src/svg/svg-path.cpp
+END
+sp-svg.def
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/sp-svg.def
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/svg/CMakeLists.txt
+END
+svg-color-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/svg/svg-color-test.h
+END
+path-string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/svg/path-string.cpp
+END
+makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/makefile.in
+END
+svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/svg/svg.h
+END
+svg-affine-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20414/inkscape/trunk/src/svg/svg-affine-test.h
+END
+strip-trailing-zeros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/strip-trailing-zeros.cpp
+END
+svg-color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/svg/svg-color.cpp
+END
+svg-icc-color.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/svg-icc-color.h
+END
+svg-length.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/svg-length.cpp
+END
+itos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/itos.cpp
+END
+ftos.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/ftos.h
+END
+stringstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/svg/stringstream.cpp
+END
+test-stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/test-stubs.h
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/HACKING
+END
+svg-affine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20329/inkscape/trunk/src/svg/svg-affine.cpp
+END
+round.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/round.cpp
+END
+css-ostringstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg/css-ostringstream.h
+END

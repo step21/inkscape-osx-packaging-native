@@ -1,0 +1,2801 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/inkscape/!svn/ver/20527/inkscape/trunk/src
+END
+text-chemistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/text-chemistry.h
+END
+dir-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dir-util.h
+END
+tools-switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/tools-switch.cpp
+END
+sp-paint-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-paint-server.cpp
+END
+sp-anchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-anchor.h
+END
+desktop-affine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/desktop-affine.cpp
+END
+event-log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/event-log.cpp
+END
+winmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/winmain.cpp
+END
+sp-cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-cursor.h
+END
+remove-last.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/remove-last.h
+END
+sp-metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-metadata.h
+END
+layer-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/layer-fns.h
+END
+zoom-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/zoom-context.cpp
+END
+preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20338/inkscape/trunk/src/preferences.h
+END
+helper-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20462/inkscape/trunk/src/helper-fns.h
+END
+desktop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/desktop.cpp
+END
+syseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/syseq.h
+END
+sp-filter-units.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-filter-units.h
+END
+context-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/context-fns.h
+END
+perspective-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/perspective-line.cpp
+END
+fixes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/fixes.cpp
+END
+sp-missing-glyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-missing-glyph.h
+END
+sp-tref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-tref.cpp
+END
+preferences-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20332/inkscape/trunk/src/preferences-test.h
+END
+number-opt-number.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/number-opt-number.h
+END
+uri-references.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/uri-references.h
+END
+bad-uri-exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bad-uri-exception.h
+END
+sp-item-update-cns.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-item-update-cns.h
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20453/inkscape/trunk/src/marker.h
+END
+arc-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/arc-context.cpp
+END
+satisfied-guide-cns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/satisfied-guide-cns.cpp
+END
+preferences-skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/preferences-skeleton.h
+END
+gc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc.cpp
+END
+sp-object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-object.h
+END
+sp-flowtext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20339/inkscape/trunk/src/sp-flowtext.cpp
+END
+round.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/round.h
+END
+gc-finalized.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-finalized.cpp
+END
+path-prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/path-prefix.h
+END
+sp-filter-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-filter-fns.h
+END
+sp-flowdiv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-flowdiv.h
+END
+dropper-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dropper-context.h
+END
+composite-undo-stack-observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/composite-undo-stack-observer.h
+END
+sp-animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-animation.h
+END
+ige-mac-menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ige-mac-menu.c
+END
+sp-use-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-use-reference.cpp
+END
+event-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/event-context.h
+END
+guide-snapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/guide-snapper.h
+END
+ige-mac-menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ige-mac-menu.h
+END
+gc-soft-ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-soft-ptr.h
+END
+sp-path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-path.cpp
+END
+sp-gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-gradient.cpp
+END
+sp-ellipse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/sp-ellipse.cpp
+END
+knotholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/knotholder.h
+END
+snapped-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20350/inkscape/trunk/src/snapped-line.cpp
+END
+draw-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20520/inkscape/trunk/src/draw-context.cpp
+END
+desktop-events.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/desktop-events.h
+END
+verbs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/verbs.cpp
+END
+sp-tref-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-tref-reference.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/color.h
+END
+gc-alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-alloc.h
+END
+snapped-point.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20413/inkscape/trunk/src/snapped-point.h
+END
+sp-font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20463/inkscape/trunk/src/sp-font.cpp
+END
+modifier-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/modifier-fns.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/macros.h
+END
+id-clash.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/id-clash.h
+END
+sp-star.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-star.cpp
+END
+selection-chemistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/selection-chemistry.cpp
+END
+selection-describer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/selection-describer.h
+END
+selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/selection.h
+END
+sp-linear-gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-linear-gradient.h
+END
+shortcuts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/shortcuts.cpp
+END
+uri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/uri.cpp
+END
+star-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/star-context.h
+END
+box3d-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/box3d-context.cpp
+END
+sp-title.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-title.cpp
+END
+sp-pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-pattern.h
+END
+guide-snapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/guide-snapper.cpp
+END
+event-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/event-context.cpp
+END
+sp-filter-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-filter-reference.h
+END
+device-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/device-manager.cpp
+END
+sp-guide-attachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-guide-attachment.h
+END
+gc-anchored.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-anchored.cpp
+END
+sp-conn-end-pair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/sp-conn-end-pair.cpp
+END
+desktop-events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20506/inkscape/trunk/src/desktop-events.cpp
+END
+color-profile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20423/inkscape/trunk/src/color-profile.cpp
+END
+snapped-curve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20417/inkscape/trunk/src/snapped-curve.cpp
+END
+sp-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-line.h
+END
+spiral-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/spiral-context.cpp
+END
+isinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/isinf.h
+END
+sp-rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20494/inkscape/trunk/src/sp-rect.cpp
+END
+test-stubs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20422/inkscape/trunk/src/test-stubs.cpp
+END
+inkscape-manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkscape-manifest.xml
+END
+gradient-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/gradient-context.cpp
+END
+box3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20419/inkscape/trunk/src/box3d.cpp
+END
+persp3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/persp3d.cpp
+END
+Makefile_insert
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20516/inkscape/trunk/src/Makefile_insert
+END
+sp-mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/sp-mask.h
+END
+sp-object-group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-object-group.cpp
+END
+sp-polyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-polyline.h
+END
+sp-use.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-use.h
+END
+object-hierarchy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/object-hierarchy.cpp
+END
+test-helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/test-helpers.h
+END
+sp-item-transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-item-transform.cpp
+END
+sp-script.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/sp-script.h
+END
+star-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/star-context.cpp
+END
+inkview-manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkview-manifest.xml
+END
+selection-chemistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20409/inkscape/trunk/src/selection-chemistry.h
+END
+select-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/select-context.cpp
+END
+sp-object-repr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-object-repr.h
+END
+sp-glyph-kerning.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/sp-glyph-kerning.h
+END
+streq.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/streq.h
+END
+knot-holder-entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/knot-holder-entity.h
+END
+message-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/message-context.cpp
+END
+rubberband.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/rubberband.cpp
+END
+text-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/text-context.cpp
+END
+mod360.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/mod360.cpp
+END
+sp-mask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/sp-mask.cpp
+END
+sp-offset.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-offset.h
+END
+sp-polyline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-polyline.cpp
+END
+node-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/node-context.h
+END
+sp-guide.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-guide.cpp
+END
+desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/desktop.h
+END
+inkscape-stock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkscape-stock.cpp
+END
+sp-conn-end-pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/sp-conn-end-pair.h
+END
+gc-anchored.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-anchored.h
+END
+rect-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/rect-context.cpp
+END
+persp3d-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/persp3d-reference.h
+END
+document-undo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/document-undo.cpp
+END
+vanishing-point.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/vanishing-point.h
+END
+document.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/document.h
+END
+inkscape-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20515/inkscape/trunk/src/inkscape-version.h
+END
+sp-symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-symbol.cpp
+END
+sp-gaussian-blur-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gaussian-blur-fns.h
+END
+text-tag-attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20279/inkscape/trunk/src/text-tag-attributes.h
+END
+object-hierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/object-hierarchy.h
+END
+svg-view-widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg-view-widget.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/Makefile.am
+END
+layer-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/layer-manager.h
+END
+prefix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/prefix.cpp
+END
+sp-radial-gradient-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-radial-gradient-fns.h
+END
+path-chemistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20410/inkscape/trunk/src/path-chemistry.cpp
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/print.h
+END
+undo-stack-observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/undo-stack-observer.h
+END
+registrytool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/registrytool.cpp
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/forward.h
+END
+ege-output-action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-output-action.cpp
+END
+ege-color-prof-tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-color-prof-tracker.cpp
+END
+sp-filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/sp-filter.h
+END
+inkscape-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkscape-private.h
+END
+sp-tref-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-tref-reference.cpp
+END
+sp-shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/sp-shape.cpp
+END
+knot.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/knot.h
+END
+line-geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/line-geometry.cpp
+END
+sp-gradient-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gradient-vector.h
+END
+sp-item.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20476/inkscape/trunk/src/sp-item.h
+END
+id-clash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/id-clash.cpp
+END
+flood-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/flood-context.cpp
+END
+verbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/verbs.h
+END
+splivarot.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/splivarot.h
+END
+extract-uri-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extract-uri-test.h
+END
+desktop-handles.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/desktop-handles.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/attributes.h
+END
+ege-adjustment-action.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-adjustment-action.h
+END
+sp-cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-cursor.cpp
+END
+unit-constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/unit-constants.h
+END
+sp-star.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-star.h
+END
+snap-preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/snap-preferences.cpp
+END
+line-snapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/line-snapper.h
+END
+verbs-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/verbs-test.h
+END
+sp-desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-desc.h
+END
+event-log.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/event-log.h
+END
+sp-title.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-title.h
+END
+box3d-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/box3d-context.h
+END
+sp-polygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-polygon.cpp
+END
+seltrans-handles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/seltrans-handles.cpp
+END
+conn-avoid-ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/conn-avoid-ref.cpp
+END
+eraser-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/eraser-context.h
+END
+knot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/knot.cpp
+END
+svg-view.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg-view.h
+END
+sp-use.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-use.cpp
+END
+desktop-style.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/desktop-style.h
+END
+selcue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/selcue.cpp
+END
+splivarot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20438/inkscape/trunk/src/splivarot.cpp
+END
+sp-script.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20526/inkscape/trunk/src/sp-script.cpp
+END
+sp-tref.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-tref.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/event.h
+END
+sp-item-rm-unsatisfied-cns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-item-rm-unsatisfied-cns.cpp
+END
+message-stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/message-stack.cpp
+END
+sp-clippath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/sp-clippath.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/version.h
+END
+filter-chemistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filter-chemistry.cpp
+END
+document-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/document-private.h
+END
+sp-object-repr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-object-repr.cpp
+END
+dropper-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/dropper-context.cpp
+END
+composite-undo-stack-observer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/composite-undo-stack-observer.cpp
+END
+inkview.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkview.rc
+END
+sp-item-notify-moveto.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-item-notify-moveto.h
+END
+ink-action.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/ink-action.h
+END
+eraser-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20348/inkscape/trunk/src/eraser-context.cpp
+END
+sp-namedview.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-namedview.h
+END
+select-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/select-context.h
+END
+unicoderange.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/unicoderange.h
+END
+sp-item-group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20408/inkscape/trunk/src/sp-item-group.cpp
+END
+conditions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/conditions.cpp
+END
+common-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/common-context.cpp
+END
+extract-uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extract-uri.h
+END
+persp3d-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/persp3d-reference.cpp
+END
+sp-use-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-use-reference.h
+END
+sp-marker-loc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20438/inkscape/trunk/src/sp-marker-loc.h
+END
+sp-conn-end.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-conn-end.cpp
+END
+PylogFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/PylogFormatter.h
+END
+layer-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/layer-manager.cpp
+END
+media.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/media.h
+END
+selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/selection.cpp
+END
+selection-describer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/selection-describer.cpp
+END
+sp-item-notify-moveto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-item-notify-moveto.cpp
+END
+color-rgba.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/color-rgba.h
+END
+print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/print.cpp
+END
+sp-pattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-pattern.cpp
+END
+color-profile-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20335/inkscape/trunk/src/color-profile-test.h
+END
+filter-chemistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filter-chemistry.h
+END
+style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20424/inkscape/trunk/src/style.cpp
+END
+interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/interface.cpp
+END
+snap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20417/inkscape/trunk/src/snap.cpp
+END
+tweak-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20279/inkscape/trunk/src/tweak-context.h
+END
+unicoderange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20462/inkscape/trunk/src/unicoderange.cpp
+END
+tools-switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/tools-switch.h
+END
+sp-paint-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-paint-server.h
+END
+desktop-affine.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20339/inkscape/trunk/src/desktop-affine.h
+END
+icon-size.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/icon-size.h
+END
+path-chemistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/path-chemistry.h
+END
+ege-select-one-action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-select-one-action.cpp
+END
+sp-text.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-text.h
+END
+sp-gradient-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gradient-reference.cpp
+END
+draw-anchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/draw-anchor.h
+END
+axis-manip.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/axis-manip.h
+END
+uri-references.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/uri-references.cpp
+END
+ege-output-action.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-output-action.h
+END
+ege-color-prof-tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-color-prof-tracker.h
+END
+common-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/common-context.h
+END
+strneq.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/strneq.h
+END
+sp-switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-switch.cpp
+END
+document-subset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/document-subset.cpp
+END
+style-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/style-test.h
+END
+persp3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/persp3d.h
+END
+sp-object-group.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-object-group.h
+END
+sp-object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-object.cpp
+END
+console-output-undo-observer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/console-output-undo-observer.cpp
+END
+arc-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/arc-context.h
+END
+satisfied-guide-cns.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/satisfied-guide-cns.h
+END
+sp-stop-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-stop-fns.h
+END
+sp-flowregion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-flowregion.h
+END
+sp-guide-constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-guide-constraint.h
+END
+color-profile-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/color-profile-fns.h
+END
+dyna-draw-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/dyna-draw-context.cpp
+END
+gradient-drag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/gradient-drag.cpp
+END
+snapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/snapper.cpp
+END
+plugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/plugin.def
+END
+sp-tspan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-tspan.h
+END
+text-editing.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/text-editing.h
+END
+dir-util-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dir-util-test.h
+END
+inkview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20489/inkscape/trunk/src/inkview.cpp
+END
+mod360.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/mod360.h
+END
+vanishing-point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20478/inkscape/trunk/src/vanishing-point.cpp
+END
+color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/color.cpp
+END
+file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20523/inkscape/trunk/src/file.cpp
+END
+proj_pt.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/proj_pt.h
+END
+sp-gradient-units.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gradient-units.h
+END
+draw-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/draw-context.h
+END
+snapped-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/snapped-line.h
+END
+sp-clippath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/sp-clippath.cpp
+END
+sp-textpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-textpath.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/message.h
+END
+shape-editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/shape-editor.h
+END
+main-cmdlineact.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/main-cmdlineact.h
+END
+sp-flowregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20377/inkscape/trunk/src/sp-flowregion.cpp
+END
+sp-metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-metrics.h
+END
+sp-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-string.h
+END
+ink-action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20491/inkscape/trunk/src/ink-action.cpp
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/enums.h
+END
+svg-view-widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg-view-widget.h
+END
+sp-gradient-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-gradient-test.h
+END
+sp-style-elem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-style-elem.cpp
+END
+MultiPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/MultiPrinter.h
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/uri.h
+END
+sp-filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/sp-filter.cpp
+END
+deptool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/deptool.cpp
+END
+sp-gradient-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/sp-gradient-fns.h
+END
+profile-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20315/inkscape/trunk/src/profile-manager.cpp
+END
+sp-spiral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20348/inkscape/trunk/src/sp-spiral.cpp
+END
+zoom-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/zoom-context.h
+END
+device-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/device-manager.h
+END
+conditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/conditions.h
+END
+sp-item-update-cns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-item-update-cns.cpp
+END
+connector-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/connector-context.h
+END
+lpe-tool-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/lpe-tool-context.h
+END
+sp-style-elem-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20416/inkscape/trunk/src/sp-style-elem-test.h
+END
+perspective-line.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/perspective-line.h
+END
+gradient-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gradient-context.h
+END
+box3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/box3d.h
+END
+line-geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/line-geometry.h
+END
+desktop-handles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/desktop-handles.cpp
+END
+sp-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-shape.h
+END
+sp-conn-end.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-conn-end.h
+END
+sp-item-transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-item-transform.h
+END
+line-snapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/line-snapper.cpp
+END
+sp-glyph-kerning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/sp-glyph-kerning.cpp
+END
+sp-gradient-spread.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gradient-spread.h
+END
+sp-animation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-animation.cpp
+END
+inkscape.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/inkscape.h
+END
+sp-image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-image.cpp
+END
+sp-text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20312/inkscape/trunk/src/sp-text.cpp
+END
+snap-preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/snap-preferences.h
+END
+snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/snap.h
+END
+sp-offset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-offset.cpp
+END
+TRPIFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/TRPIFormatter.h
+END
+sp-root.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-root.h
+END
+document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/document.cpp
+END
+sp-gradient-reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gradient-reference.h
+END
+sp-spiral.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-spiral.h
+END
+rect-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/rect-context.h
+END
+selcue.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/selcue.h
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/version.cpp
+END
+document-subset.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/document-subset.h
+END
+sp-switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-switch.h
+END
+help.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/help.cpp
+END
+object-edit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/object-edit.cpp
+END
+sp-font.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-font.h
+END
+layer-fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/layer-fns.cpp
+END
+seltrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20261/inkscape/trunk/src/seltrans.h
+END
+sp-metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-metadata.cpp
+END
+sp-defs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-defs.cpp
+END
+sp-gaussian-blur.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-gaussian-blur.h
+END
+shortcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/shortcuts.h
+END
+sp-root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/sp-root.cpp
+END
+sp-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-image.h
+END
+sp-line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-line.cpp
+END
+context-fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20339/inkscape/trunk/src/context-fns.cpp
+END
+sp-metric.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-metric.h
+END
+pen-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/pen-context.h
+END
+filter-enums.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filter-enums.cpp
+END
+sp-stop.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-stop.h
+END
+sp-item-group.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-item-group.h
+END
+sp-item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20454/inkscape/trunk/src/sp-item.cpp
+END
+inkscape.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkscape.rc
+END
+object-snapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20493/inkscape/trunk/src/object-snapper.h
+END
+shape-editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/shape-editor.cpp
+END
+attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/attributes.cpp
+END
+gc-managed.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-managed.h
+END
+isnormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/isnormal.h
+END
+mod360-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/mod360-test.h
+END
+seltrans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20493/inkscape/trunk/src/seltrans.cpp
+END
+tweak-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20348/inkscape/trunk/src/tweak-context.cpp
+END
+sp-desc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-desc.cpp
+END
+box3d-side.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/box3d-side.cpp
+END
+nodepath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20373/inkscape/trunk/src/nodepath.cpp
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/interface.h
+END
+draw-anchor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20318/inkscape/trunk/src/draw-anchor.cpp
+END
+style.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/style.h
+END
+node-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/node-context.cpp
+END
+sp-glyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/sp-glyph.h
+END
+sp-skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-skeleton.h
+END
+message-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/message-context.h
+END
+rubberband.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/rubberband.h
+END
+text-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/text-context.h
+END
+connector-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20339/inkscape/trunk/src/connector-context.cpp
+END
+conn-avoid-ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/conn-avoid-ref.h
+END
+seltrans-handles.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/seltrans-handles.h
+END
+sp-polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-polygon.h
+END
+filter-enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/filter-enums.h
+END
+sp-ellipse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/sp-ellipse.h
+END
+sp-gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/sp-gradient.h
+END
+inkscape-stock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/inkscape-stock.h
+END
+dir-util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dir-util.cpp
+END
+text-chemistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/text-chemistry.cpp
+END
+message-stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/message-stack.h
+END
+sp-item-rm-unsatisfied-cns.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-item-rm-unsatisfied-cns.h
+END
+console-output-undo-observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/console-output-undo-observer.h
+END
+preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20342/inkscape/trunk/src/preferences.cpp
+END
+pencil-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20368/inkscape/trunk/src/pencil-context.h
+END
+sp-lpe-item.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/sp-lpe-item.h
+END
+transf_mat_3x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/transf_mat_3x4.h
+END
+sp-glyph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20403/inkscape/trunk/src/sp-glyph.cpp
+END
+brokenimage.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/brokenimage.xpm
+END
+sp-tspan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/sp-tspan.cpp
+END
+text-editing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/text-editing.cpp
+END
+nodepath.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20251/inkscape/trunk/src/nodepath.h
+END
+registrytool.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/registrytool.h
+END
+connection-pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/connection-pool.h
+END
+gc-allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-allocator.h
+END
+proj_pt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/proj_pt.cpp
+END
+gradient-drag.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/gradient-drag.h
+END
+dyna-draw-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/dyna-draw-context.h
+END
+snapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/snapper.h
+END
+marker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20453/inkscape/trunk/src/marker.cpp
+END
+sp-font-face.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20463/inkscape/trunk/src/sp-font-face.cpp
+END
+sp-rect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20300/inkscape/trunk/src/sp-rect.h
+END
+gc-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-core.h
+END
+main-cmdlineact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/main-cmdlineact.cpp
+END
+proofs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/proofs
+END
+ege-adjustment-action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-adjustment-action.cpp
+END
+cxxtest-template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20341/inkscape/trunk/src/cxxtest-template.tpl
+END
+sp-gaussian-blur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/sp-gaussian-blur.cpp
+END
+object-edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/object-edit.h
+END
+knot-holder-entity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/knot-holder-entity.cpp
+END
+gc-finalized.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/gc-finalized.h
+END
+sp-flowtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-flowtext.h
+END
+gradient-chemistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/gradient-chemistry.cpp
+END
+pen-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/pen-context.cpp
+END
+sp-style-elem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-style-elem.h
+END
+axis-manip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/axis-manip.cpp
+END
+sp-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-defs.h
+END
+desktop-style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/desktop-style.cpp
+END
+svg-view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/svg-view.cpp
+END
+attributes-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20416/inkscape/trunk/src/attributes-test.h
+END
+knotholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20324/inkscape/trunk/src/knotholder.cpp
+END
+object-snapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20493/inkscape/trunk/src/object-snapper.cpp
+END
+ege-select-one-action.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/ege-select-one-action.h
+END
+profile-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/profile-manager.h
+END
+lpe-tool-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20406/inkscape/trunk/src/lpe-tool-context.cpp
+END
+menus-skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20521/inkscape/trunk/src/menus-skeleton.h
+END
+sp-linear-gradient-fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-linear-gradient-fns.h
+END
+sp-filter-primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/sp-filter-primitive.h
+END
+snapped-point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/inkscape/!svn/ver/20413/inkscape/trunk/src/snapped-point.cpp
+END
+sp-path.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-path.h
+END
+sp-guide.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/inkscape/!svn/ver/20241/inkscape/trunk/src/sp-guide.h
+END
+approx-equal.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/approx-equal.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20512/inkscape/trunk/src/main.cpp
+END
+require-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/require-config.h
+END
+sp-font-face.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-font-face.h
+END
+decimal-round.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/decimal-round.h
+END
+sp-anchor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-anchor.cpp
+END
+sp-symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-symbol.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20508/inkscape/trunk/src/CMakeLists.txt
+END
+inkscape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20459/inkscape/trunk/src/inkscape.cpp
+END
+doxygen-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20247/inkscape/trunk/src/doxygen-main.cpp
+END
+sp-namedview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20375/inkscape/trunk/src/sp-namedview.cpp
+END
+sp-filter-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-filter-reference.cpp
+END
+prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/prefix.h
+END
+svg-profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/svg-profile.h
+END
+sp-skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-skeleton.cpp
+END
+knot-enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/knot-enums.h
+END
+box3d-side.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/box3d-side.h
+END
+gradient-chemistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20243/inkscape/trunk/src/gradient-chemistry.h
+END
+extract-uri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/extract-uri.cpp
+END
+memeq.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/memeq.h
+END
+round-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/round-test.h
+END
+sp-missing-glyph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-missing-glyph.cpp
+END
+sp-filter-primitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20433/inkscape/trunk/src/sp-filter-primitive.cpp
+END
+sp-radial-gradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-radial-gradient.h
+END
+check-header-compile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/check-header-compile.in
+END
+fill-or-stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/fill-or-stroke.h
+END
+media.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/media.cpp
+END
+color-profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20274/inkscape/trunk/src/color-profile.h
+END
+snapped-curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/snapped-curve.h
+END
+spiral-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20317/inkscape/trunk/src/spiral-context.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/file.h
+END
+sp-metrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-metrics.cpp
+END
+sp-string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-string.cpp
+END
+flood-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/flood-context.h
+END
+sp-flowdiv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/sp-flowdiv.cpp
+END
+show-preview.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/show-preview.bmp
+END
+pencil-context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20479/inkscape/trunk/src/pencil-context.cpp
+END
+sp-lpe-item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/inkscape/!svn/ver/20477/inkscape/trunk/src/sp-lpe-item.cpp
+END
+transf_mat_3x4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/transf_mat_3x4.cpp
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/help.h
+END

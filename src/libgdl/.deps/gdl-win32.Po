@@ -1,0 +1,1 @@
+libgdl/gdl-win32.o libgdl/gdl-win32.o: libgdl/gdl-win32.c

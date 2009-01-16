@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css
+END
+CSSUnknownRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSUnknownRule.java
+END
+CSSStyleRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSStyleRule.java
+END
+CSSStyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSStyleSheet.java
+END
+RGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/RGBColor.java
+END
+CSSImportRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSImportRule.java
+END
+CSSRuleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSRuleList.java
+END
+CSSPageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSPageRule.java
+END
+CSSPrimitiveValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSPrimitiveValue.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/Counter.java
+END
+CSSStyleDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSStyleDeclaration.java
+END
+CSSRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSRule.java
+END
+CSSMediaRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSMediaRule.java
+END
+CSSValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSValueList.java
+END
+ElementCSSInlineStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/ElementCSSInlineStyle.java
+END
+ViewCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/ViewCSS.java
+END
+CSSValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSValue.java
+END
+CSSFontFaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSFontFaceRule.java
+END
+CSS2Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSS2Properties.java
+END
+DocumentCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/DocumentCSS.java
+END
+CSSCharsetRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/CSSCharsetRule.java
+END
+Rect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/Rect.java
+END
+DOMImplementationCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/src/bind/java/org/w3c/dom/css/DOMImplementationCSS.java
+END
