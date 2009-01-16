@@ -1,0 +1,40 @@
+8
+
+dir
+20471
+https://inkscape.svn.sourceforge.net/svnroot/inkscape/inkscape/trunk/packaging/macosx/Resources/etc/fonts
+https://inkscape.svn.sourceforge.net/svnroot/inkscape
+
+
+
+2008-03-12T11:47:07.302817Z
+17866
+mjwybrow
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79ec4920-5e0a-0410-a93a-b0c7084bcf59
+
+fonts.conf
+file
+
+
+
+
+2008-12-28T14:26:46.000000Z
+14bf85388dc76a7e27e1f6558bfd5f62
+2008-03-12T11:47:07.302817Z
+17866
+mjwybrow
+

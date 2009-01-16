@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx
+END
+osx-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/osx-build.sh
+END
+osx-app.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/osx-app.sh
+END
+dmg_background.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/dmg_background.svg
+END
+osx-dmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/osx-dmg.sh
+END
+dmg_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/dmg_background.png
+END
+dmg_set_style.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/dmg_set_style.scpt
+END
+inkscape.ds_store
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/inkscape.ds_store
+END

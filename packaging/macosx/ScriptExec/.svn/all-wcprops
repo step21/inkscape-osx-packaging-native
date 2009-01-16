@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec
+END
+ScriptExec_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/ScriptExec_Prefix.pch
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/version.plist
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/script
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/main.c
+END
+openDoc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/ScriptExec/openDoc
+END

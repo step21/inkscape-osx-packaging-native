@@ -1,0 +1,118 @@
+8
+
+dir
+20471
+https://inkscape.svn.sourceforge.net/svnroot/inkscape/inkscape/trunk/packaging/macosx/ScriptExec
+https://inkscape.svn.sourceforge.net/svnroot/inkscape
+
+
+
+2008-04-04T03:27:51.324558Z
+18191
+mjwybrow
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79ec4920-5e0a-0410-a93a-b0c7084bcf59
+
+ScriptExec_Prefix.pch
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+4b2278e0f06979d57be7d12b6a8654e6
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
+version.plist
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+05c4208ba495ae054eb611e364b48e28
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
+MenuBar.nib
+dir
+
+script
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+ffc4fb2a5e0a392342f7a0df6a26f642
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
+ScriptExec.xcodeproj
+dir
+
+Info.plist
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+013dedd1241df682b22236076582f424
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
+main.c
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+d55d5eecd135854fc697f9e1ed962039
+2008-04-04T03:27:51.324558Z
+18191
+mjwybrow
+has-props
+
+openDoc
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+ffc4fb2a5e0a392342f7a0df6a26f642
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
+ScriptExec.xcode
+dir
+
+English.lproj
+dir
+

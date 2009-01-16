@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/Resources/themes/Clearlooks-Quicksilver-OSX/gtk-2.0
+END
+pre_gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/Resources/themes/Clearlooks-Quicksilver-OSX/gtk-2.0/pre_gtkrc
+END
+sync_osx_look.sh
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/inkscape/!svn/ver/20240/inkscape/trunk/packaging/macosx/Resources/themes/Clearlooks-Quicksilver-OSX/gtk-2.0/sync_osx_look.sh
+END

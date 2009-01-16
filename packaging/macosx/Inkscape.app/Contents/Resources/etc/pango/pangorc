@@ -1,0 +1,4 @@
+[Pango]
+ModuleFiles=${HOME}/.inkscape-etc/pango.modules
+#[PangoX]
+#AliasFiles=${HOME}/.inkscape-etc/pangox.aliases

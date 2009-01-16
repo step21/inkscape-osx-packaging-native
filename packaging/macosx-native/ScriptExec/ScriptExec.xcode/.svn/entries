@@ -1,0 +1,41 @@
+8
+
+dir
+20471
+https://inkscape.svn.sourceforge.net/svnroot/inkscape/inkscape/trunk/packaging/macosx/ScriptExec/ScriptExec.xcode
+https://inkscape.svn.sourceforge.net/svnroot/inkscape
+
+
+
+2006-06-20T00:17:02.924916Z
+12413
+mjwybrow
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79ec4920-5e0a-0410-a93a-b0c7084bcf59
+
+project.pbxproj
+file
+
+
+
+
+2008-12-28T14:26:37.000000Z
+5cde7eff67a07d6bba91992e4833cda0
+2005-07-06T09:11:46.000000Z
+8558
+mjwybrow
+has-props
+
